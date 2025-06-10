@@ -1,0 +1,952 @@
+ID,Day,Date,Time_x,Month,Total Vehicles,Vehicle Type_x,Payment Method_x,Location_x,Lane_x,Wind Speed,Precipitation,Snow,Max Temp,Min Temp,Violation ID,Time_y,Vehicle Type_y,Payment Method_y,Location_y,Lane_y,Violation,Traffic ID_x,Bus ID,Time,Departures,Passengers per Bus,Location,Traffic ID_y
+2,Tuesday,2024-02-27,06:09:00,February,403,Auto,EZ Pass,Tunnel B,2,19.5,88.3,0.2,-3.0,11.9,102,11:11:00,Small Truck,Paid,Terminal C,3,False,3,373,16:40:00,2,82,Terminal C,425
+192,Tuesday,2024-02-27,09:09:00,February,75,Bus,EZ Pass,Tunnel B,9,19.0,25.9,3.4,-0.7,23.4,102,11:11:00,Small Truck,Paid,Terminal C,3,False,3,373,16:40:00,2,82,Terminal C,425
+457,Tuesday,2024-02-27,03:05:00,February,217,Bus,EZ Pass,Terminal C,8,1.8,34.8,2.0,18.4,12.5,102,11:11:00,Small Truck,Paid,Terminal C,3,False,3,373,16:40:00,2,82,Terminal C,425
+4,Monday,2024-07-01,04:20:00,July,377,Large Truck,Cash,Terminal C,9,14.3,73.0,4.3,20.0,-2.6,443,15:50:00,Bus,Unpaid,Tunnel B,6,True,5,497,15:17:00,9,54,Bridge A,171
+4,Monday,2024-07-01,04:20:00,July,377,Large Truck,Cash,Terminal C,9,14.3,73.0,4.3,20.0,-2.6,443,15:50:00,Bus,Unpaid,Tunnel B,6,True,5,499,23:05:00,9,83,Tunnel B,477
+54,Monday,2024-07-01,21:34:00,July,400,Auto,EZ Pass,Bridge A,5,7.7,20.7,6.3,17.8,19.3,443,15:50:00,Bus,Unpaid,Tunnel B,6,True,5,497,15:17:00,9,54,Bridge A,171
+54,Monday,2024-07-01,21:34:00,July,400,Auto,EZ Pass,Bridge A,5,7.7,20.7,6.3,17.8,19.3,443,15:50:00,Bus,Unpaid,Tunnel B,6,True,5,499,23:05:00,9,83,Tunnel B,477
+315,Monday,2024-07-01,03:33:00,July,321,Auto,EZ Pass,Tunnel B,9,9.1,5.0,7.7,21.2,13.1,443,15:50:00,Bus,Unpaid,Tunnel B,6,True,5,497,15:17:00,9,54,Bridge A,171
+315,Monday,2024-07-01,03:33:00,July,321,Auto,EZ Pass,Tunnel B,9,9.1,5.0,7.7,21.2,13.1,443,15:50:00,Bus,Unpaid,Tunnel B,6,True,5,499,23:05:00,9,83,Tunnel B,477
+481,Monday,2024-07-01,22:46:00,July,202,Auto,EZ Pass,Tunnel B,6,7.3,12.1,6.1,-7.2,4.2,443,15:50:00,Bus,Unpaid,Tunnel B,6,True,5,497,15:17:00,9,54,Bridge A,171
+481,Monday,2024-07-01,22:46:00,July,202,Auto,EZ Pass,Tunnel B,6,7.3,12.1,6.1,-7.2,4.2,443,15:50:00,Bus,Unpaid,Tunnel B,6,True,5,499,23:05:00,9,83,Tunnel B,477
+7,Wednesday,2024-04-03,09:59:00,April,130,Bus,Cash,Bridge A,10,0.4,57.5,9.1,9.8,-1.2,126,02:40:00,Bus,Unpaid,Bridge A,10,True,204,382,15:56:00,20,36,Bridge A,177
+7,Wednesday,2024-04-03,09:59:00,April,130,Bus,Cash,Bridge A,10,0.4,57.5,9.1,9.8,-1.2,274,15:17:00,Large Truck,Unpaid,Terminal C,8,False,272,382,15:56:00,20,36,Bridge A,177
+136,Wednesday,2024-04-03,05:50:00,April,451,Large Truck,Cash,Terminal C,9,10.6,32.3,0.1,34.0,8.2,126,02:40:00,Bus,Unpaid,Bridge A,10,True,204,382,15:56:00,20,36,Bridge A,177
+136,Wednesday,2024-04-03,05:50:00,April,451,Large Truck,Cash,Terminal C,9,10.6,32.3,0.1,34.0,8.2,274,15:17:00,Large Truck,Unpaid,Terminal C,8,False,272,382,15:56:00,20,36,Bridge A,177
+195,Wednesday,2024-04-03,16:24:00,April,182,Bus,EZ Pass,Bridge A,10,14.2,39.5,7.8,4.6,-3.0,126,02:40:00,Bus,Unpaid,Bridge A,10,True,204,382,15:56:00,20,36,Bridge A,177
+195,Wednesday,2024-04-03,16:24:00,April,182,Bus,EZ Pass,Bridge A,10,14.2,39.5,7.8,4.6,-3.0,274,15:17:00,Large Truck,Unpaid,Terminal C,8,False,272,382,15:56:00,20,36,Bridge A,177
+336,Wednesday,2024-04-03,03:14:00,April,131,Large Truck,Cash,Tunnel B,1,0.9,16.9,8.9,28.4,9.6,126,02:40:00,Bus,Unpaid,Bridge A,10,True,204,382,15:56:00,20,36,Bridge A,177
+336,Wednesday,2024-04-03,03:14:00,April,131,Large Truck,Cash,Tunnel B,1,0.9,16.9,8.9,28.4,9.6,274,15:17:00,Large Truck,Unpaid,Terminal C,8,False,272,382,15:56:00,20,36,Bridge A,177
+10,Monday,2024-09-02,23:32:00,September,455,Large Truck,Cash,Bridge A,6,13.5,80.9,9.6,-3.7,-11.3,413,10:18:00,Auto,Paid,Terminal C,2,False,46,191,03:50:00,7,16,Terminal C,446
+10,Monday,2024-09-02,23:32:00,September,455,Large Truck,Cash,Bridge A,6,13.5,80.9,9.6,-3.7,-11.3,413,10:18:00,Auto,Paid,Terminal C,2,False,46,403,13:01:00,4,10,Tunnel B,216
+316,Monday,2024-09-02,14:26:00,September,372,Large Truck,EZ Pass,Tunnel B,6,10.7,10.7,4.6,30.8,0.4,413,10:18:00,Auto,Paid,Terminal C,2,False,46,191,03:50:00,7,16,Terminal C,446
+316,Monday,2024-09-02,14:26:00,September,372,Large Truck,EZ Pass,Tunnel B,6,10.7,10.7,4.6,30.8,0.4,413,10:18:00,Auto,Paid,Terminal C,2,False,46,403,13:01:00,4,10,Tunnel B,216
+11,Wednesday,2024-09-18,10:44:00,September,499,Bus,Cash,Tunnel B,2,15.8,97.3,7.0,27.3,26.7,145,22:28:00,Large Truck,Unpaid,Terminal C,8,True,108,485,03:26:00,3,68,Bridge A,86
+11,Wednesday,2024-09-18,10:44:00,September,499,Bus,Cash,Tunnel B,2,15.8,97.3,7.0,27.3,26.7,272,06:50:00,Large Truck,Paid,Terminal C,5,False,15,485,03:26:00,3,68,Bridge A,86
+11,Wednesday,2024-09-18,10:44:00,September,499,Bus,Cash,Tunnel B,2,15.8,97.3,7.0,27.3,26.7,372,10:03:00,Large Truck,Paid,Tunnel B,2,True,210,485,03:26:00,3,68,Bridge A,86
+497,Wednesday,2024-09-18,23:49:00,September,472,Small Truck,EZ Pass,Tunnel B,5,8.8,91.7,3.3,34.2,21.7,145,22:28:00,Large Truck,Unpaid,Terminal C,8,True,108,485,03:26:00,3,68,Bridge A,86
+497,Wednesday,2024-09-18,23:49:00,September,472,Small Truck,EZ Pass,Tunnel B,5,8.8,91.7,3.3,34.2,21.7,272,06:50:00,Large Truck,Paid,Terminal C,5,False,15,485,03:26:00,3,68,Bridge A,86
+497,Wednesday,2024-09-18,23:49:00,September,472,Small Truck,EZ Pass,Tunnel B,5,8.8,91.7,3.3,34.2,21.7,372,10:03:00,Large Truck,Paid,Tunnel B,2,True,210,485,03:26:00,3,68,Bridge A,86
+14,Friday,2024-04-12,12:51:00,April,233,Bus,EZ Pass,Bridge A,10,13.6,44.4,8.3,26.1,-12.6,237,05:17:00,Small Truck,Paid,Terminal C,6,False,173,178,19:00:00,8,16,Terminal C,308
+14,Friday,2024-04-12,12:51:00,April,233,Bus,EZ Pass,Bridge A,10,13.6,44.4,8.3,26.1,-12.6,237,05:17:00,Small Truck,Paid,Terminal C,6,False,173,473,20:33:00,10,50,Terminal C,364
+14,Friday,2024-04-12,12:51:00,April,233,Bus,EZ Pass,Bridge A,10,13.6,44.4,8.3,26.1,-12.6,312,19:42:00,Large Truck,Unpaid,Bridge A,3,True,356,178,19:00:00,8,16,Terminal C,308
+14,Friday,2024-04-12,12:51:00,April,233,Bus,EZ Pass,Bridge A,10,13.6,44.4,8.3,26.1,-12.6,312,19:42:00,Large Truck,Unpaid,Bridge A,3,True,356,473,20:33:00,10,50,Terminal C,364
+115,Friday,2024-04-12,14:45:00,April,73,Auto,EZ Pass,Terminal C,10,11.0,9.4,7.2,7.1,13.3,237,05:17:00,Small Truck,Paid,Terminal C,6,False,173,178,19:00:00,8,16,Terminal C,308
+115,Friday,2024-04-12,14:45:00,April,73,Auto,EZ Pass,Terminal C,10,11.0,9.4,7.2,7.1,13.3,237,05:17:00,Small Truck,Paid,Terminal C,6,False,173,473,20:33:00,10,50,Terminal C,364
+115,Friday,2024-04-12,14:45:00,April,73,Auto,EZ Pass,Terminal C,10,11.0,9.4,7.2,7.1,13.3,312,19:42:00,Large Truck,Unpaid,Bridge A,3,True,356,178,19:00:00,8,16,Terminal C,308
+115,Friday,2024-04-12,14:45:00,April,73,Auto,EZ Pass,Terminal C,10,11.0,9.4,7.2,7.1,13.3,312,19:42:00,Large Truck,Unpaid,Bridge A,3,True,356,473,20:33:00,10,50,Terminal C,364
+16,Thursday,2024-05-16,17:41:00,May,388,Large Truck,EZ Pass,Tunnel B,7,18.6,73.4,5.7,25.5,20.6,191,12:42:00,Large Truck,Unpaid,Terminal C,4,True,370,194,19:47:00,3,36,Terminal C,425
+16,Thursday,2024-05-16,17:41:00,May,388,Large Truck,EZ Pass,Tunnel B,7,18.6,73.4,5.7,25.5,20.6,191,12:42:00,Large Truck,Unpaid,Terminal C,4,True,370,362,12:38:00,7,75,Bridge A,167
+16,Thursday,2024-05-16,17:41:00,May,388,Large Truck,EZ Pass,Tunnel B,7,18.6,73.4,5.7,25.5,20.6,339,05:38:00,Small Truck,Paid,Bridge A,3,True,490,194,19:47:00,3,36,Terminal C,425
+16,Thursday,2024-05-16,17:41:00,May,388,Large Truck,EZ Pass,Tunnel B,7,18.6,73.4,5.7,25.5,20.6,339,05:38:00,Small Truck,Paid,Bridge A,3,True,490,362,12:38:00,7,75,Bridge A,167
+314,Thursday,2024-05-16,13:09:00,May,350,Small Truck,Cash,Terminal C,7,9.3,56.5,9.9,28.4,19.2,191,12:42:00,Large Truck,Unpaid,Terminal C,4,True,370,194,19:47:00,3,36,Terminal C,425
+314,Thursday,2024-05-16,13:09:00,May,350,Small Truck,Cash,Terminal C,7,9.3,56.5,9.9,28.4,19.2,191,12:42:00,Large Truck,Unpaid,Terminal C,4,True,370,362,12:38:00,7,75,Bridge A,167
+314,Thursday,2024-05-16,13:09:00,May,350,Small Truck,Cash,Terminal C,7,9.3,56.5,9.9,28.4,19.2,339,05:38:00,Small Truck,Paid,Bridge A,3,True,490,194,19:47:00,3,36,Terminal C,425
+314,Thursday,2024-05-16,13:09:00,May,350,Small Truck,Cash,Terminal C,7,9.3,56.5,9.9,28.4,19.2,339,05:38:00,Small Truck,Paid,Bridge A,3,True,490,362,12:38:00,7,75,Bridge A,167
+382,Thursday,2024-05-16,16:08:00,May,245,Bus,EZ Pass,Terminal C,5,9.4,11.7,1.8,35.0,14.2,191,12:42:00,Large Truck,Unpaid,Terminal C,4,True,370,194,19:47:00,3,36,Terminal C,425
+382,Thursday,2024-05-16,16:08:00,May,245,Bus,EZ Pass,Terminal C,5,9.4,11.7,1.8,35.0,14.2,191,12:42:00,Large Truck,Unpaid,Terminal C,4,True,370,362,12:38:00,7,75,Bridge A,167
+382,Thursday,2024-05-16,16:08:00,May,245,Bus,EZ Pass,Terminal C,5,9.4,11.7,1.8,35.0,14.2,339,05:38:00,Small Truck,Paid,Bridge A,3,True,490,194,19:47:00,3,36,Terminal C,425
+382,Thursday,2024-05-16,16:08:00,May,245,Bus,EZ Pass,Terminal C,5,9.4,11.7,1.8,35.0,14.2,339,05:38:00,Small Truck,Paid,Bridge A,3,True,490,362,12:38:00,7,75,Bridge A,167
+416,Thursday,2024-05-16,05:21:00,May,428,Large Truck,Cash,Bridge A,7,4.6,76.7,5.5,26.1,-1.6,191,12:42:00,Large Truck,Unpaid,Terminal C,4,True,370,194,19:47:00,3,36,Terminal C,425
+416,Thursday,2024-05-16,05:21:00,May,428,Large Truck,Cash,Bridge A,7,4.6,76.7,5.5,26.1,-1.6,191,12:42:00,Large Truck,Unpaid,Terminal C,4,True,370,362,12:38:00,7,75,Bridge A,167
+416,Thursday,2024-05-16,05:21:00,May,428,Large Truck,Cash,Bridge A,7,4.6,76.7,5.5,26.1,-1.6,339,05:38:00,Small Truck,Paid,Bridge A,3,True,490,194,19:47:00,3,36,Terminal C,425
+416,Thursday,2024-05-16,05:21:00,May,428,Large Truck,Cash,Bridge A,7,4.6,76.7,5.5,26.1,-1.6,339,05:38:00,Small Truck,Paid,Bridge A,3,True,490,362,12:38:00,7,75,Bridge A,167
+24,Friday,2024-03-01,22:04:00,March,461,Small Truck,EZ Pass,Tunnel B,5,3.8,22.1,6.7,4.0,16.8,168,01:28:00,Bus,Paid,Bridge A,5,True,424,99,11:00:00,13,77,Bridge A,75
+104,Friday,2024-03-01,01:35:00,March,310,Auto,Cash,Bridge A,7,7.5,32.3,1.5,5.2,-10.2,168,01:28:00,Bus,Paid,Bridge A,5,True,424,99,11:00:00,13,77,Bridge A,75
+182,Friday,2024-03-01,04:09:00,March,488,Large Truck,EZ Pass,Tunnel B,8,19.9,79.0,2.4,-2.5,15.2,168,01:28:00,Bus,Paid,Bridge A,5,True,424,99,11:00:00,13,77,Bridge A,75
+355,Friday,2024-03-01,03:30:00,March,300,Large Truck,Cash,Terminal C,6,4.8,56.8,3.4,-0.1,-19.5,168,01:28:00,Bus,Paid,Bridge A,5,True,424,99,11:00:00,13,77,Bridge A,75
+482,Friday,2024-03-01,17:38:00,March,453,Auto,EZ Pass,Terminal C,3,6.8,41.2,6.1,27.2,0.6,168,01:28:00,Bus,Paid,Bridge A,5,True,424,99,11:00:00,13,77,Bridge A,75
+25,Friday,2024-02-02,01:50:00,February,105,Auto,EZ Pass,Tunnel B,10,14.9,10.4,0.9,18.0,15.6,68,16:59:00,Large Truck,Paid,Bridge A,5,False,454,32,17:02:00,16,26,Bridge A,460
+25,Friday,2024-02-02,01:50:00,February,105,Auto,EZ Pass,Tunnel B,10,14.9,10.4,0.9,18.0,15.6,68,16:59:00,Large Truck,Paid,Bridge A,5,False,454,106,23:26:00,17,84,Terminal C,367
+25,Friday,2024-02-02,01:50:00,February,105,Auto,EZ Pass,Tunnel B,10,14.9,10.4,0.9,18.0,15.6,68,16:59:00,Large Truck,Paid,Bridge A,5,False,454,128,03:03:00,9,10,Bridge A,7
+25,Friday,2024-02-02,01:50:00,February,105,Auto,EZ Pass,Tunnel B,10,14.9,10.4,0.9,18.0,15.6,68,16:59:00,Large Truck,Paid,Bridge A,5,False,454,377,12:30:00,18,12,Tunnel B,295
+25,Friday,2024-02-02,01:50:00,February,105,Auto,EZ Pass,Tunnel B,10,14.9,10.4,0.9,18.0,15.6,231,05:14:00,Small Truck,Unpaid,Terminal C,2,False,357,32,17:02:00,16,26,Bridge A,460
+25,Friday,2024-02-02,01:50:00,February,105,Auto,EZ Pass,Tunnel B,10,14.9,10.4,0.9,18.0,15.6,231,05:14:00,Small Truck,Unpaid,Terminal C,2,False,357,106,23:26:00,17,84,Terminal C,367
+25,Friday,2024-02-02,01:50:00,February,105,Auto,EZ Pass,Tunnel B,10,14.9,10.4,0.9,18.0,15.6,231,05:14:00,Small Truck,Unpaid,Terminal C,2,False,357,128,03:03:00,9,10,Bridge A,7
+25,Friday,2024-02-02,01:50:00,February,105,Auto,EZ Pass,Tunnel B,10,14.9,10.4,0.9,18.0,15.6,231,05:14:00,Small Truck,Unpaid,Terminal C,2,False,357,377,12:30:00,18,12,Tunnel B,295
+25,Friday,2024-02-02,01:50:00,February,105,Auto,EZ Pass,Tunnel B,10,14.9,10.4,0.9,18.0,15.6,363,23:48:00,Bus,Paid,Tunnel B,10,False,254,32,17:02:00,16,26,Bridge A,460
+25,Friday,2024-02-02,01:50:00,February,105,Auto,EZ Pass,Tunnel B,10,14.9,10.4,0.9,18.0,15.6,363,23:48:00,Bus,Paid,Tunnel B,10,False,254,106,23:26:00,17,84,Terminal C,367
+25,Friday,2024-02-02,01:50:00,February,105,Auto,EZ Pass,Tunnel B,10,14.9,10.4,0.9,18.0,15.6,363,23:48:00,Bus,Paid,Tunnel B,10,False,254,128,03:03:00,9,10,Bridge A,7
+25,Friday,2024-02-02,01:50:00,February,105,Auto,EZ Pass,Tunnel B,10,14.9,10.4,0.9,18.0,15.6,363,23:48:00,Bus,Paid,Tunnel B,10,False,254,377,12:30:00,18,12,Tunnel B,295
+296,Friday,2024-02-02,03:52:00,February,300,Large Truck,Cash,Bridge A,5,1.6,75.4,0.7,-4.6,20.6,68,16:59:00,Large Truck,Paid,Bridge A,5,False,454,32,17:02:00,16,26,Bridge A,460
+296,Friday,2024-02-02,03:52:00,February,300,Large Truck,Cash,Bridge A,5,1.6,75.4,0.7,-4.6,20.6,68,16:59:00,Large Truck,Paid,Bridge A,5,False,454,106,23:26:00,17,84,Terminal C,367
+296,Friday,2024-02-02,03:52:00,February,300,Large Truck,Cash,Bridge A,5,1.6,75.4,0.7,-4.6,20.6,68,16:59:00,Large Truck,Paid,Bridge A,5,False,454,128,03:03:00,9,10,Bridge A,7
+296,Friday,2024-02-02,03:52:00,February,300,Large Truck,Cash,Bridge A,5,1.6,75.4,0.7,-4.6,20.6,68,16:59:00,Large Truck,Paid,Bridge A,5,False,454,377,12:30:00,18,12,Tunnel B,295
+296,Friday,2024-02-02,03:52:00,February,300,Large Truck,Cash,Bridge A,5,1.6,75.4,0.7,-4.6,20.6,231,05:14:00,Small Truck,Unpaid,Terminal C,2,False,357,32,17:02:00,16,26,Bridge A,460
+296,Friday,2024-02-02,03:52:00,February,300,Large Truck,Cash,Bridge A,5,1.6,75.4,0.7,-4.6,20.6,231,05:14:00,Small Truck,Unpaid,Terminal C,2,False,357,106,23:26:00,17,84,Terminal C,367
+296,Friday,2024-02-02,03:52:00,February,300,Large Truck,Cash,Bridge A,5,1.6,75.4,0.7,-4.6,20.6,231,05:14:00,Small Truck,Unpaid,Terminal C,2,False,357,128,03:03:00,9,10,Bridge A,7
+296,Friday,2024-02-02,03:52:00,February,300,Large Truck,Cash,Bridge A,5,1.6,75.4,0.7,-4.6,20.6,231,05:14:00,Small Truck,Unpaid,Terminal C,2,False,357,377,12:30:00,18,12,Tunnel B,295
+296,Friday,2024-02-02,03:52:00,February,300,Large Truck,Cash,Bridge A,5,1.6,75.4,0.7,-4.6,20.6,363,23:48:00,Bus,Paid,Tunnel B,10,False,254,32,17:02:00,16,26,Bridge A,460
+296,Friday,2024-02-02,03:52:00,February,300,Large Truck,Cash,Bridge A,5,1.6,75.4,0.7,-4.6,20.6,363,23:48:00,Bus,Paid,Tunnel B,10,False,254,106,23:26:00,17,84,Terminal C,367
+296,Friday,2024-02-02,03:52:00,February,300,Large Truck,Cash,Bridge A,5,1.6,75.4,0.7,-4.6,20.6,363,23:48:00,Bus,Paid,Tunnel B,10,False,254,128,03:03:00,9,10,Bridge A,7
+296,Friday,2024-02-02,03:52:00,February,300,Large Truck,Cash,Bridge A,5,1.6,75.4,0.7,-4.6,20.6,363,23:48:00,Bus,Paid,Tunnel B,10,False,254,377,12:30:00,18,12,Tunnel B,295
+27,Sunday,2024-09-29,08:43:00,September,397,Large Truck,Cash,Terminal C,1,1.6,24.2,4.2,23.5,7.2,333,07:20:00,Large Truck,Paid,Bridge A,6,False,206,113,16:18:00,12,10,Terminal C,165
+27,Sunday,2024-09-29,08:43:00,September,397,Large Truck,Cash,Terminal C,1,1.6,24.2,4.2,23.5,7.2,333,07:20:00,Large Truck,Paid,Bridge A,6,False,206,481,04:34:00,13,36,Tunnel B,358
+27,Sunday,2024-09-29,08:43:00,September,397,Large Truck,Cash,Terminal C,1,1.6,24.2,4.2,23.5,7.2,500,05:59:00,Auto,Paid,Terminal C,1,True,228,113,16:18:00,12,10,Terminal C,165
+27,Sunday,2024-09-29,08:43:00,September,397,Large Truck,Cash,Terminal C,1,1.6,24.2,4.2,23.5,7.2,500,05:59:00,Auto,Paid,Terminal C,1,True,228,481,04:34:00,13,36,Tunnel B,358
+28,Wednesday,2024-08-14,14:36:00,August,324,Small Truck,EZ Pass,Tunnel B,3,10.0,70.9,8.5,5.8,16.7,43,03:37:00,Small Truck,Paid,Terminal C,10,False,164,84,23:04:00,6,41,Terminal C,90
+28,Wednesday,2024-08-14,14:36:00,August,324,Small Truck,EZ Pass,Tunnel B,3,10.0,70.9,8.5,5.8,16.7,43,03:37:00,Small Truck,Paid,Terminal C,10,False,164,129,01:19:00,2,52,Bridge A,352
+351,Wednesday,2024-08-14,23:20:00,August,118,Small Truck,Cash,Tunnel B,9,11.1,15.9,1.0,-2.6,-15.9,43,03:37:00,Small Truck,Paid,Terminal C,10,False,164,84,23:04:00,6,41,Terminal C,90
+351,Wednesday,2024-08-14,23:20:00,August,118,Small Truck,Cash,Tunnel B,9,11.1,15.9,1.0,-2.6,-15.9,43,03:37:00,Small Truck,Paid,Terminal C,10,False,164,129,01:19:00,2,52,Bridge A,352
+29,Tuesday,2024-12-24,10:44:00,December,212,Bus,EZ Pass,Terminal C,1,9.3,35.7,0.8,1.3,27.4,201,15:26:00,Auto,Unpaid,Tunnel B,8,False,62,67,21:09:00,1,16,Tunnel B,73
+468,Tuesday,2024-12-24,16:30:00,December,232,Small Truck,EZ Pass,Bridge A,4,4.7,33.0,1.1,4.6,-18.9,201,15:26:00,Auto,Unpaid,Tunnel B,8,False,62,67,21:09:00,1,16,Tunnel B,73
+31,Saturday,2024-06-29,17:09:00,June,427,Auto,EZ Pass,Tunnel B,10,13.0,39.1,9.9,-8.9,24.3,12,14:06:00,Auto,Paid,Bridge A,1,True,378,247,21:14:00,14,42,Terminal C,331
+31,Saturday,2024-06-29,17:09:00,June,427,Auto,EZ Pass,Tunnel B,10,13.0,39.1,9.9,-8.9,24.3,12,14:06:00,Auto,Paid,Bridge A,1,True,378,476,00:20:00,6,58,Tunnel B,428
+31,Saturday,2024-06-29,17:09:00,June,427,Auto,EZ Pass,Tunnel B,10,13.0,39.1,9.9,-8.9,24.3,403,15:00:00,Bus,Paid,Bridge A,5,False,79,247,21:14:00,14,42,Terminal C,331
+31,Saturday,2024-06-29,17:09:00,June,427,Auto,EZ Pass,Tunnel B,10,13.0,39.1,9.9,-8.9,24.3,403,15:00:00,Bus,Paid,Bridge A,5,False,79,476,00:20:00,6,58,Tunnel B,428
+113,Saturday,2024-06-29,02:06:00,June,274,Large Truck,Cash,Terminal C,7,9.0,82.6,0.1,-1.3,15.6,12,14:06:00,Auto,Paid,Bridge A,1,True,378,247,21:14:00,14,42,Terminal C,331
+113,Saturday,2024-06-29,02:06:00,June,274,Large Truck,Cash,Terminal C,7,9.0,82.6,0.1,-1.3,15.6,12,14:06:00,Auto,Paid,Bridge A,1,True,378,476,00:20:00,6,58,Tunnel B,428
+113,Saturday,2024-06-29,02:06:00,June,274,Large Truck,Cash,Terminal C,7,9.0,82.6,0.1,-1.3,15.6,403,15:00:00,Bus,Paid,Bridge A,5,False,79,247,21:14:00,14,42,Terminal C,331
+113,Saturday,2024-06-29,02:06:00,June,274,Large Truck,Cash,Terminal C,7,9.0,82.6,0.1,-1.3,15.6,403,15:00:00,Bus,Paid,Bridge A,5,False,79,476,00:20:00,6,58,Tunnel B,428
+33,Wednesday,2024-03-06,19:58:00,March,362,Small Truck,EZ Pass,Tunnel B,7,6.8,83.0,4.4,8.3,-2.5,172,15:41:00,Auto,Paid,Bridge A,10,True,325,341,18:42:00,4,95,Terminal C,203
+39,Wednesday,2024-11-13,01:27:00,November,169,Large Truck,EZ Pass,Bridge A,2,20.0,44.4,4.2,24.1,11.9,156,10:20:00,Small Truck,Paid,Terminal C,3,True,61,38,03:46:00,10,83,Terminal C,95
+39,Wednesday,2024-11-13,01:27:00,November,169,Large Truck,EZ Pass,Bridge A,2,20.0,44.4,4.2,24.1,11.9,162,12:46:00,Bus,Paid,Tunnel B,2,True,172,38,03:46:00,10,83,Terminal C,95
+41,Sunday,2024-02-18,07:01:00,February,322,Auto,EZ Pass,Bridge A,10,7.8,74.6,5.9,-3.3,18.3,185,20:13:00,Bus,Paid,Tunnel B,5,True,412,354,08:08:00,19,49,Terminal C,195
+41,Sunday,2024-02-18,07:01:00,February,322,Auto,EZ Pass,Bridge A,10,7.8,74.6,5.9,-3.3,18.3,431,15:42:00,Bus,Paid,Terminal C,4,False,341,354,08:08:00,19,49,Terminal C,195
+142,Sunday,2024-02-18,12:28:00,February,157,Small Truck,EZ Pass,Terminal C,10,17.5,95.4,7.7,30.2,21.6,185,20:13:00,Bus,Paid,Tunnel B,5,True,412,354,08:08:00,19,49,Terminal C,195
+142,Sunday,2024-02-18,12:28:00,February,157,Small Truck,EZ Pass,Terminal C,10,17.5,95.4,7.7,30.2,21.6,431,15:42:00,Bus,Paid,Terminal C,4,False,341,354,08:08:00,19,49,Terminal C,195
+42,Monday,2024-11-04,13:21:00,November,97,Small Truck,Cash,Terminal C,6,4.7,95.0,4.3,31.4,25.5,158,07:03:00,Bus,Paid,Tunnel B,3,True,426,3,15:02:00,15,76,Tunnel B,433
+42,Monday,2024-11-04,13:21:00,November,97,Small Truck,Cash,Terminal C,6,4.7,95.0,4.3,31.4,25.5,200,02:08:00,Small Truck,Unpaid,Bridge A,7,False,138,3,15:02:00,15,76,Tunnel B,433
+97,Monday,2024-11-04,16:20:00,November,373,Large Truck,EZ Pass,Terminal C,1,11.0,26.1,1.3,29.6,16.4,158,07:03:00,Bus,Paid,Tunnel B,3,True,426,3,15:02:00,15,76,Tunnel B,433
+97,Monday,2024-11-04,16:20:00,November,373,Large Truck,EZ Pass,Terminal C,1,11.0,26.1,1.3,29.6,16.4,200,02:08:00,Small Truck,Unpaid,Bridge A,7,False,138,3,15:02:00,15,76,Tunnel B,433
+189,Monday,2024-11-04,01:07:00,November,473,Bus,EZ Pass,Tunnel B,5,14.0,23.4,2.1,-6.5,11.3,158,07:03:00,Bus,Paid,Tunnel B,3,True,426,3,15:02:00,15,76,Tunnel B,433
+189,Monday,2024-11-04,01:07:00,November,473,Bus,EZ Pass,Tunnel B,5,14.0,23.4,2.1,-6.5,11.3,200,02:08:00,Small Truck,Unpaid,Bridge A,7,False,138,3,15:02:00,15,76,Tunnel B,433
+279,Monday,2024-11-04,04:48:00,November,494,Bus,Cash,Terminal C,1,14.9,44.4,2.9,28.3,-9.8,158,07:03:00,Bus,Paid,Tunnel B,3,True,426,3,15:02:00,15,76,Tunnel B,433
+279,Monday,2024-11-04,04:48:00,November,494,Bus,Cash,Terminal C,1,14.9,44.4,2.9,28.3,-9.8,200,02:08:00,Small Truck,Unpaid,Bridge A,7,False,138,3,15:02:00,15,76,Tunnel B,433
+43,Monday,2024-09-09,04:55:00,September,56,Auto,Cash,Terminal C,6,6.4,18.1,1.6,1.1,26.1,348,19:34:00,Small Truck,Paid,Bridge A,8,True,331,361,20:29:00,6,53,Terminal C,14
+43,Monday,2024-09-09,04:55:00,September,56,Auto,Cash,Terminal C,6,6.4,18.1,1.6,1.1,26.1,348,19:34:00,Small Truck,Paid,Bridge A,8,True,331,365,05:45:00,7,52,Tunnel B,368
+474,Monday,2024-09-09,02:49:00,September,194,Auto,EZ Pass,Bridge A,9,15.4,84.6,8.9,19.9,3.7,348,19:34:00,Small Truck,Paid,Bridge A,8,True,331,361,20:29:00,6,53,Terminal C,14
+474,Monday,2024-09-09,02:49:00,September,194,Auto,EZ Pass,Bridge A,9,15.4,84.6,8.9,19.9,3.7,348,19:34:00,Small Truck,Paid,Bridge A,8,True,331,365,05:45:00,7,52,Tunnel B,368
+44,Sunday,2024-03-03,08:28:00,March,140,Bus,EZ Pass,Tunnel B,8,3.2,18.8,1.1,26.8,4.1,111,10:50:00,Auto,Unpaid,Bridge A,6,True,121,127,02:46:00,14,52,Terminal C,130
+275,Sunday,2024-03-03,16:52:00,March,335,Auto,EZ Pass,Bridge A,3,1.3,29.1,5.0,-0.2,-10.6,111,10:50:00,Auto,Unpaid,Bridge A,6,True,121,127,02:46:00,14,52,Terminal C,130
+327,Sunday,2024-03-03,15:33:00,March,374,Bus,EZ Pass,Tunnel B,1,15.5,47.6,0.6,-8.0,21.8,111,10:50:00,Auto,Unpaid,Bridge A,6,True,121,127,02:46:00,14,52,Terminal C,130
+49,Wednesday,2024-10-30,03:23:00,October,474,Auto,EZ Pass,Tunnel B,2,15.1,56.4,8.3,31.1,-16.7,155,08:50:00,Bus,Paid,Bridge A,4,False,495,52,09:14:00,16,94,Terminal C,179
+49,Wednesday,2024-10-30,03:23:00,October,474,Auto,EZ Pass,Tunnel B,2,15.1,56.4,8.3,31.1,-16.7,294,02:24:00,Auto,Paid,Bridge A,2,True,205,52,09:14:00,16,94,Terminal C,179
+153,Wednesday,2024-10-30,09:30:00,October,82,Small Truck,Cash,Tunnel B,9,18.4,55.9,7.9,7.7,-9.2,155,08:50:00,Bus,Paid,Bridge A,4,False,495,52,09:14:00,16,94,Terminal C,179
+153,Wednesday,2024-10-30,09:30:00,October,82,Small Truck,Cash,Tunnel B,9,18.4,55.9,7.9,7.7,-9.2,294,02:24:00,Auto,Paid,Bridge A,2,True,205,52,09:14:00,16,94,Terminal C,179
+53,Friday,2024-08-02,02:37:00,August,483,Bus,EZ Pass,Terminal C,4,5.9,6.1,1.6,-1.5,-0.1,351,23:41:00,Bus,Paid,Bridge A,8,True,254,327,04:27:00,12,17,Tunnel B,481
+57,Friday,2024-05-31,19:30:00,May,348,Large Truck,EZ Pass,Terminal C,9,4.8,42.6,9.2,28.6,22.5,256,05:49:00,Small Truck,Paid,Tunnel B,5,True,334,93,17:32:00,6,60,Terminal C,429
+57,Friday,2024-05-31,19:30:00,May,348,Large Truck,EZ Pass,Terminal C,9,4.8,42.6,9.2,28.6,22.5,256,05:49:00,Small Truck,Paid,Tunnel B,5,True,334,392,23:55:00,19,60,Bridge A,459
+63,Friday,2024-05-31,18:06:00,May,368,Auto,Cash,Tunnel B,2,16.3,89.9,0.5,8.6,-16.0,256,05:49:00,Small Truck,Paid,Tunnel B,5,True,334,93,17:32:00,6,60,Terminal C,429
+63,Friday,2024-05-31,18:06:00,May,368,Auto,Cash,Tunnel B,2,16.3,89.9,0.5,8.6,-16.0,256,05:49:00,Small Truck,Paid,Tunnel B,5,True,334,392,23:55:00,19,60,Bridge A,459
+194,Friday,2024-05-31,11:29:00,May,217,Large Truck,EZ Pass,Terminal C,8,5.6,7.7,0.3,-4.9,24.9,256,05:49:00,Small Truck,Paid,Tunnel B,5,True,334,93,17:32:00,6,60,Terminal C,429
+194,Friday,2024-05-31,11:29:00,May,217,Large Truck,EZ Pass,Terminal C,8,5.6,7.7,0.3,-4.9,24.9,256,05:49:00,Small Truck,Paid,Tunnel B,5,True,334,392,23:55:00,19,60,Bridge A,459
+384,Friday,2024-05-31,01:13:00,May,206,Large Truck,Cash,Bridge A,6,9.1,45.7,1.3,-7.2,22.1,256,05:49:00,Small Truck,Paid,Tunnel B,5,True,334,93,17:32:00,6,60,Terminal C,429
+384,Friday,2024-05-31,01:13:00,May,206,Large Truck,Cash,Bridge A,6,9.1,45.7,1.3,-7.2,22.1,256,05:49:00,Small Truck,Paid,Tunnel B,5,True,334,392,23:55:00,19,60,Bridge A,459
+58,Friday,2024-06-28,10:01:00,June,69,Large Truck,EZ Pass,Bridge A,1,16.3,93.9,7.7,31.3,14.8,141,01:52:00,Large Truck,Unpaid,Terminal C,2,True,84,300,09:33:00,17,21,Bridge A,375
+58,Friday,2024-06-28,10:01:00,June,69,Large Truck,EZ Pass,Bridge A,1,16.3,93.9,7.7,31.3,14.8,141,01:52:00,Large Truck,Unpaid,Terminal C,2,True,84,320,01:49:00,11,74,Bridge A,96
+58,Friday,2024-06-28,10:01:00,June,69,Large Truck,EZ Pass,Bridge A,1,16.3,93.9,7.7,31.3,14.8,141,01:52:00,Large Truck,Unpaid,Terminal C,2,True,84,430,23:54:00,13,98,Bridge A,340
+58,Friday,2024-06-28,10:01:00,June,69,Large Truck,EZ Pass,Bridge A,1,16.3,93.9,7.7,31.3,14.8,210,17:52:00,Bus,Paid,Terminal C,1,True,109,300,09:33:00,17,21,Bridge A,375
+58,Friday,2024-06-28,10:01:00,June,69,Large Truck,EZ Pass,Bridge A,1,16.3,93.9,7.7,31.3,14.8,210,17:52:00,Bus,Paid,Terminal C,1,True,109,320,01:49:00,11,74,Bridge A,96
+58,Friday,2024-06-28,10:01:00,June,69,Large Truck,EZ Pass,Bridge A,1,16.3,93.9,7.7,31.3,14.8,210,17:52:00,Bus,Paid,Terminal C,1,True,109,430,23:54:00,13,98,Bridge A,340
+58,Friday,2024-06-28,10:01:00,June,69,Large Truck,EZ Pass,Bridge A,1,16.3,93.9,7.7,31.3,14.8,252,07:04:00,Bus,Unpaid,Tunnel B,7,False,419,300,09:33:00,17,21,Bridge A,375
+58,Friday,2024-06-28,10:01:00,June,69,Large Truck,EZ Pass,Bridge A,1,16.3,93.9,7.7,31.3,14.8,252,07:04:00,Bus,Unpaid,Tunnel B,7,False,419,320,01:49:00,11,74,Bridge A,96
+58,Friday,2024-06-28,10:01:00,June,69,Large Truck,EZ Pass,Bridge A,1,16.3,93.9,7.7,31.3,14.8,252,07:04:00,Bus,Unpaid,Tunnel B,7,False,419,430,23:54:00,13,98,Bridge A,340
+58,Friday,2024-06-28,10:01:00,June,69,Large Truck,EZ Pass,Bridge A,1,16.3,93.9,7.7,31.3,14.8,288,01:06:00,Small Truck,Paid,Terminal C,4,False,487,300,09:33:00,17,21,Bridge A,375
+58,Friday,2024-06-28,10:01:00,June,69,Large Truck,EZ Pass,Bridge A,1,16.3,93.9,7.7,31.3,14.8,288,01:06:00,Small Truck,Paid,Terminal C,4,False,487,320,01:49:00,11,74,Bridge A,96
+58,Friday,2024-06-28,10:01:00,June,69,Large Truck,EZ Pass,Bridge A,1,16.3,93.9,7.7,31.3,14.8,288,01:06:00,Small Truck,Paid,Terminal C,4,False,487,430,23:54:00,13,98,Bridge A,340
+58,Friday,2024-06-28,10:01:00,June,69,Large Truck,EZ Pass,Bridge A,1,16.3,93.9,7.7,31.3,14.8,404,10:54:00,Auto,Paid,Tunnel B,3,True,420,300,09:33:00,17,21,Bridge A,375
+58,Friday,2024-06-28,10:01:00,June,69,Large Truck,EZ Pass,Bridge A,1,16.3,93.9,7.7,31.3,14.8,404,10:54:00,Auto,Paid,Tunnel B,3,True,420,320,01:49:00,11,74,Bridge A,96
+58,Friday,2024-06-28,10:01:00,June,69,Large Truck,EZ Pass,Bridge A,1,16.3,93.9,7.7,31.3,14.8,404,10:54:00,Auto,Paid,Tunnel B,3,True,420,430,23:54:00,13,98,Bridge A,340
+58,Friday,2024-06-28,10:01:00,June,69,Large Truck,EZ Pass,Bridge A,1,16.3,93.9,7.7,31.3,14.8,433,17:24:00,Small Truck,Unpaid,Tunnel B,7,False,8,300,09:33:00,17,21,Bridge A,375
+58,Friday,2024-06-28,10:01:00,June,69,Large Truck,EZ Pass,Bridge A,1,16.3,93.9,7.7,31.3,14.8,433,17:24:00,Small Truck,Unpaid,Tunnel B,7,False,8,320,01:49:00,11,74,Bridge A,96
+58,Friday,2024-06-28,10:01:00,June,69,Large Truck,EZ Pass,Bridge A,1,16.3,93.9,7.7,31.3,14.8,433,17:24:00,Small Truck,Unpaid,Tunnel B,7,False,8,430,23:54:00,13,98,Bridge A,340
+59,Friday,2024-06-28,16:37:00,June,158,Auto,EZ Pass,Bridge A,8,14.8,4.3,4.5,25.5,-13.3,141,01:52:00,Large Truck,Unpaid,Terminal C,2,True,84,300,09:33:00,17,21,Bridge A,375
+59,Friday,2024-06-28,16:37:00,June,158,Auto,EZ Pass,Bridge A,8,14.8,4.3,4.5,25.5,-13.3,141,01:52:00,Large Truck,Unpaid,Terminal C,2,True,84,320,01:49:00,11,74,Bridge A,96
+59,Friday,2024-06-28,16:37:00,June,158,Auto,EZ Pass,Bridge A,8,14.8,4.3,4.5,25.5,-13.3,141,01:52:00,Large Truck,Unpaid,Terminal C,2,True,84,430,23:54:00,13,98,Bridge A,340
+59,Friday,2024-06-28,16:37:00,June,158,Auto,EZ Pass,Bridge A,8,14.8,4.3,4.5,25.5,-13.3,210,17:52:00,Bus,Paid,Terminal C,1,True,109,300,09:33:00,17,21,Bridge A,375
+59,Friday,2024-06-28,16:37:00,June,158,Auto,EZ Pass,Bridge A,8,14.8,4.3,4.5,25.5,-13.3,210,17:52:00,Bus,Paid,Terminal C,1,True,109,320,01:49:00,11,74,Bridge A,96
+59,Friday,2024-06-28,16:37:00,June,158,Auto,EZ Pass,Bridge A,8,14.8,4.3,4.5,25.5,-13.3,210,17:52:00,Bus,Paid,Terminal C,1,True,109,430,23:54:00,13,98,Bridge A,340
+59,Friday,2024-06-28,16:37:00,June,158,Auto,EZ Pass,Bridge A,8,14.8,4.3,4.5,25.5,-13.3,252,07:04:00,Bus,Unpaid,Tunnel B,7,False,419,300,09:33:00,17,21,Bridge A,375
+59,Friday,2024-06-28,16:37:00,June,158,Auto,EZ Pass,Bridge A,8,14.8,4.3,4.5,25.5,-13.3,252,07:04:00,Bus,Unpaid,Tunnel B,7,False,419,320,01:49:00,11,74,Bridge A,96
+59,Friday,2024-06-28,16:37:00,June,158,Auto,EZ Pass,Bridge A,8,14.8,4.3,4.5,25.5,-13.3,252,07:04:00,Bus,Unpaid,Tunnel B,7,False,419,430,23:54:00,13,98,Bridge A,340
+59,Friday,2024-06-28,16:37:00,June,158,Auto,EZ Pass,Bridge A,8,14.8,4.3,4.5,25.5,-13.3,288,01:06:00,Small Truck,Paid,Terminal C,4,False,487,300,09:33:00,17,21,Bridge A,375
+59,Friday,2024-06-28,16:37:00,June,158,Auto,EZ Pass,Bridge A,8,14.8,4.3,4.5,25.5,-13.3,288,01:06:00,Small Truck,Paid,Terminal C,4,False,487,320,01:49:00,11,74,Bridge A,96
+59,Friday,2024-06-28,16:37:00,June,158,Auto,EZ Pass,Bridge A,8,14.8,4.3,4.5,25.5,-13.3,288,01:06:00,Small Truck,Paid,Terminal C,4,False,487,430,23:54:00,13,98,Bridge A,340
+59,Friday,2024-06-28,16:37:00,June,158,Auto,EZ Pass,Bridge A,8,14.8,4.3,4.5,25.5,-13.3,404,10:54:00,Auto,Paid,Tunnel B,3,True,420,300,09:33:00,17,21,Bridge A,375
+59,Friday,2024-06-28,16:37:00,June,158,Auto,EZ Pass,Bridge A,8,14.8,4.3,4.5,25.5,-13.3,404,10:54:00,Auto,Paid,Tunnel B,3,True,420,320,01:49:00,11,74,Bridge A,96
+59,Friday,2024-06-28,16:37:00,June,158,Auto,EZ Pass,Bridge A,8,14.8,4.3,4.5,25.5,-13.3,404,10:54:00,Auto,Paid,Tunnel B,3,True,420,430,23:54:00,13,98,Bridge A,340
+59,Friday,2024-06-28,16:37:00,June,158,Auto,EZ Pass,Bridge A,8,14.8,4.3,4.5,25.5,-13.3,433,17:24:00,Small Truck,Unpaid,Tunnel B,7,False,8,300,09:33:00,17,21,Bridge A,375
+59,Friday,2024-06-28,16:37:00,June,158,Auto,EZ Pass,Bridge A,8,14.8,4.3,4.5,25.5,-13.3,433,17:24:00,Small Truck,Unpaid,Tunnel B,7,False,8,320,01:49:00,11,74,Bridge A,96
+59,Friday,2024-06-28,16:37:00,June,158,Auto,EZ Pass,Bridge A,8,14.8,4.3,4.5,25.5,-13.3,433,17:24:00,Small Truck,Unpaid,Tunnel B,7,False,8,430,23:54:00,13,98,Bridge A,340
+61,Monday,2024-03-25,17:39:00,March,270,Bus,Cash,Tunnel B,6,2.2,91.2,7.0,-8.8,9.5,6,14:57:00,Auto,Unpaid,Terminal C,3,True,167,312,05:03:00,15,11,Bridge A,104
+61,Monday,2024-03-25,17:39:00,March,270,Bus,Cash,Tunnel B,6,2.2,91.2,7.0,-8.8,9.5,6,14:57:00,Auto,Unpaid,Terminal C,3,True,167,438,19:47:00,6,37,Tunnel B,332
+494,Monday,2024-03-25,16:19:00,March,353,Bus,EZ Pass,Tunnel B,10,5.5,56.7,3.1,1.3,-3.2,6,14:57:00,Auto,Unpaid,Terminal C,3,True,167,312,05:03:00,15,11,Bridge A,104
+494,Monday,2024-03-25,16:19:00,March,353,Bus,EZ Pass,Tunnel B,10,5.5,56.7,3.1,1.3,-3.2,6,14:57:00,Auto,Unpaid,Terminal C,3,True,167,438,19:47:00,6,37,Tunnel B,332
+64,Monday,2024-10-28,01:11:00,October,236,Large Truck,EZ Pass,Tunnel B,4,17.5,38.8,0.5,22.7,-1.1,112,18:03:00,Small Truck,Unpaid,Bridge A,3,True,31,208,10:19:00,11,47,Terminal C,373
+64,Monday,2024-10-28,01:11:00,October,236,Large Truck,EZ Pass,Tunnel B,4,17.5,38.8,0.5,22.7,-1.1,112,18:03:00,Small Truck,Unpaid,Bridge A,3,True,31,222,08:36:00,13,27,Terminal C,62
+64,Monday,2024-10-28,01:11:00,October,236,Large Truck,EZ Pass,Tunnel B,4,17.5,38.8,0.5,22.7,-1.1,195,00:38:00,Auto,Paid,Tunnel B,10,False,483,208,10:19:00,11,47,Terminal C,373
+64,Monday,2024-10-28,01:11:00,October,236,Large Truck,EZ Pass,Tunnel B,4,17.5,38.8,0.5,22.7,-1.1,195,00:38:00,Auto,Paid,Tunnel B,10,False,483,222,08:36:00,13,27,Terminal C,62
+64,Monday,2024-10-28,01:11:00,October,236,Large Truck,EZ Pass,Tunnel B,4,17.5,38.8,0.5,22.7,-1.1,377,21:55:00,Small Truck,Unpaid,Tunnel B,6,False,488,208,10:19:00,11,47,Terminal C,373
+64,Monday,2024-10-28,01:11:00,October,236,Large Truck,EZ Pass,Tunnel B,4,17.5,38.8,0.5,22.7,-1.1,377,21:55:00,Small Truck,Unpaid,Tunnel B,6,False,488,222,08:36:00,13,27,Terminal C,62
+202,Monday,2024-10-28,03:45:00,October,123,Bus,Cash,Tunnel B,6,19.0,46.6,1.7,25.5,10.0,112,18:03:00,Small Truck,Unpaid,Bridge A,3,True,31,208,10:19:00,11,47,Terminal C,373
+202,Monday,2024-10-28,03:45:00,October,123,Bus,Cash,Tunnel B,6,19.0,46.6,1.7,25.5,10.0,112,18:03:00,Small Truck,Unpaid,Bridge A,3,True,31,222,08:36:00,13,27,Terminal C,62
+202,Monday,2024-10-28,03:45:00,October,123,Bus,Cash,Tunnel B,6,19.0,46.6,1.7,25.5,10.0,195,00:38:00,Auto,Paid,Tunnel B,10,False,483,208,10:19:00,11,47,Terminal C,373
+202,Monday,2024-10-28,03:45:00,October,123,Bus,Cash,Tunnel B,6,19.0,46.6,1.7,25.5,10.0,195,00:38:00,Auto,Paid,Tunnel B,10,False,483,222,08:36:00,13,27,Terminal C,62
+202,Monday,2024-10-28,03:45:00,October,123,Bus,Cash,Tunnel B,6,19.0,46.6,1.7,25.5,10.0,377,21:55:00,Small Truck,Unpaid,Tunnel B,6,False,488,208,10:19:00,11,47,Terminal C,373
+202,Monday,2024-10-28,03:45:00,October,123,Bus,Cash,Tunnel B,6,19.0,46.6,1.7,25.5,10.0,377,21:55:00,Small Truck,Unpaid,Tunnel B,6,False,488,222,08:36:00,13,27,Terminal C,62
+66,Sunday,2024-06-16,21:44:00,June,93,Bus,EZ Pass,Bridge A,3,2.9,30.7,1.9,9.7,-3.7,492,01:54:00,Large Truck,Unpaid,Tunnel B,5,False,479,45,00:24:00,1,100,Bridge A,58
+66,Sunday,2024-06-16,21:44:00,June,93,Bus,EZ Pass,Bridge A,3,2.9,30.7,1.9,9.7,-3.7,492,01:54:00,Large Truck,Unpaid,Tunnel B,5,False,479,202,22:50:00,10,49,Bridge A,341
+66,Sunday,2024-06-16,21:44:00,June,93,Bus,EZ Pass,Bridge A,3,2.9,30.7,1.9,9.7,-3.7,492,01:54:00,Large Truck,Unpaid,Tunnel B,5,False,479,359,12:38:00,8,66,Bridge A,261
+66,Sunday,2024-06-16,21:44:00,June,93,Bus,EZ Pass,Bridge A,3,2.9,30.7,1.9,9.7,-3.7,492,01:54:00,Large Truck,Unpaid,Tunnel B,5,False,479,412,20:42:00,12,16,Tunnel B,181
+66,Sunday,2024-06-16,21:44:00,June,93,Bus,EZ Pass,Bridge A,3,2.9,30.7,1.9,9.7,-3.7,492,01:54:00,Large Truck,Unpaid,Tunnel B,5,False,479,495,20:29:00,20,99,Terminal C,362
+106,Sunday,2024-06-16,02:50:00,June,179,Large Truck,EZ Pass,Terminal C,4,0.3,17.5,3.0,30.6,16.8,492,01:54:00,Large Truck,Unpaid,Tunnel B,5,False,479,45,00:24:00,1,100,Bridge A,58
+106,Sunday,2024-06-16,02:50:00,June,179,Large Truck,EZ Pass,Terminal C,4,0.3,17.5,3.0,30.6,16.8,492,01:54:00,Large Truck,Unpaid,Tunnel B,5,False,479,202,22:50:00,10,49,Bridge A,341
+106,Sunday,2024-06-16,02:50:00,June,179,Large Truck,EZ Pass,Terminal C,4,0.3,17.5,3.0,30.6,16.8,492,01:54:00,Large Truck,Unpaid,Tunnel B,5,False,479,359,12:38:00,8,66,Bridge A,261
+106,Sunday,2024-06-16,02:50:00,June,179,Large Truck,EZ Pass,Terminal C,4,0.3,17.5,3.0,30.6,16.8,492,01:54:00,Large Truck,Unpaid,Tunnel B,5,False,479,412,20:42:00,12,16,Tunnel B,181
+106,Sunday,2024-06-16,02:50:00,June,179,Large Truck,EZ Pass,Terminal C,4,0.3,17.5,3.0,30.6,16.8,492,01:54:00,Large Truck,Unpaid,Tunnel B,5,False,479,495,20:29:00,20,99,Terminal C,362
+181,Sunday,2024-06-16,13:18:00,June,406,Small Truck,EZ Pass,Terminal C,7,10.4,9.0,1.3,-3.2,22.6,492,01:54:00,Large Truck,Unpaid,Tunnel B,5,False,479,45,00:24:00,1,100,Bridge A,58
+181,Sunday,2024-06-16,13:18:00,June,406,Small Truck,EZ Pass,Terminal C,7,10.4,9.0,1.3,-3.2,22.6,492,01:54:00,Large Truck,Unpaid,Tunnel B,5,False,479,202,22:50:00,10,49,Bridge A,341
+181,Sunday,2024-06-16,13:18:00,June,406,Small Truck,EZ Pass,Terminal C,7,10.4,9.0,1.3,-3.2,22.6,492,01:54:00,Large Truck,Unpaid,Tunnel B,5,False,479,359,12:38:00,8,66,Bridge A,261
+181,Sunday,2024-06-16,13:18:00,June,406,Small Truck,EZ Pass,Terminal C,7,10.4,9.0,1.3,-3.2,22.6,492,01:54:00,Large Truck,Unpaid,Tunnel B,5,False,479,412,20:42:00,12,16,Tunnel B,181
+181,Sunday,2024-06-16,13:18:00,June,406,Small Truck,EZ Pass,Terminal C,7,10.4,9.0,1.3,-3.2,22.6,492,01:54:00,Large Truck,Unpaid,Tunnel B,5,False,479,495,20:29:00,20,99,Terminal C,362
+67,Wednesday,2024-12-25,00:02:00,December,142,Small Truck,EZ Pass,Terminal C,1,5.4,19.8,4.0,24.9,6.9,214,21:36:00,Small Truck,Unpaid,Bridge A,9,False,247,492,02:41:00,3,52,Terminal C,5
+67,Wednesday,2024-12-25,00:02:00,December,142,Small Truck,EZ Pass,Terminal C,1,5.4,19.8,4.0,24.9,6.9,361,22:56:00,Small Truck,Unpaid,Terminal C,9,False,197,492,02:41:00,3,52,Terminal C,5
+68,Monday,2024-11-18,16:36:00,November,430,Auto,EZ Pass,Bridge A,7,7.9,82.3,7.2,-9.9,-6.3,147,14:21:00,Bus,Unpaid,Terminal C,1,True,128,76,04:47:00,20,86,Terminal C,131
+68,Monday,2024-11-18,16:36:00,November,430,Auto,EZ Pass,Bridge A,7,7.9,82.3,7.2,-9.9,-6.3,147,14:21:00,Bus,Unpaid,Terminal C,1,True,128,440,20:03:00,6,90,Terminal C,286
+68,Monday,2024-11-18,16:36:00,November,430,Auto,EZ Pass,Bridge A,7,7.9,82.3,7.2,-9.9,-6.3,378,03:47:00,Small Truck,Unpaid,Terminal C,4,False,318,76,04:47:00,20,86,Terminal C,131
+68,Monday,2024-11-18,16:36:00,November,430,Auto,EZ Pass,Bridge A,7,7.9,82.3,7.2,-9.9,-6.3,378,03:47:00,Small Truck,Unpaid,Terminal C,4,False,318,440,20:03:00,6,90,Terminal C,286
+330,Monday,2024-11-18,07:06:00,November,159,Large Truck,EZ Pass,Bridge A,10,17.1,60.0,0.2,26.2,-8.0,147,14:21:00,Bus,Unpaid,Terminal C,1,True,128,76,04:47:00,20,86,Terminal C,131
+330,Monday,2024-11-18,07:06:00,November,159,Large Truck,EZ Pass,Bridge A,10,17.1,60.0,0.2,26.2,-8.0,147,14:21:00,Bus,Unpaid,Terminal C,1,True,128,440,20:03:00,6,90,Terminal C,286
+330,Monday,2024-11-18,07:06:00,November,159,Large Truck,EZ Pass,Bridge A,10,17.1,60.0,0.2,26.2,-8.0,378,03:47:00,Small Truck,Unpaid,Terminal C,4,False,318,76,04:47:00,20,86,Terminal C,131
+330,Monday,2024-11-18,07:06:00,November,159,Large Truck,EZ Pass,Bridge A,10,17.1,60.0,0.2,26.2,-8.0,378,03:47:00,Small Truck,Unpaid,Terminal C,4,False,318,440,20:03:00,6,90,Terminal C,286
+432,Monday,2024-11-18,04:13:00,November,444,Large Truck,Cash,Terminal C,4,11.9,11.9,9.4,-6.3,-14.9,147,14:21:00,Bus,Unpaid,Terminal C,1,True,128,76,04:47:00,20,86,Terminal C,131
+432,Monday,2024-11-18,04:13:00,November,444,Large Truck,Cash,Terminal C,4,11.9,11.9,9.4,-6.3,-14.9,147,14:21:00,Bus,Unpaid,Terminal C,1,True,128,440,20:03:00,6,90,Terminal C,286
+432,Monday,2024-11-18,04:13:00,November,444,Large Truck,Cash,Terminal C,4,11.9,11.9,9.4,-6.3,-14.9,378,03:47:00,Small Truck,Unpaid,Terminal C,4,False,318,76,04:47:00,20,86,Terminal C,131
+432,Monday,2024-11-18,04:13:00,November,444,Large Truck,Cash,Terminal C,4,11.9,11.9,9.4,-6.3,-14.9,378,03:47:00,Small Truck,Unpaid,Terminal C,4,False,318,440,20:03:00,6,90,Terminal C,286
+70,Tuesday,2024-10-15,13:40:00,October,284,Large Truck,Cash,Tunnel B,2,6.5,55.9,2.7,-0.7,4.6,30,15:07:00,Bus,Unpaid,Tunnel B,1,False,324,138,06:41:00,15,87,Terminal C,435
+70,Tuesday,2024-10-15,13:40:00,October,284,Large Truck,Cash,Tunnel B,2,6.5,55.9,2.7,-0.7,4.6,30,15:07:00,Bus,Unpaid,Tunnel B,1,False,324,413,04:10:00,2,96,Terminal C,343
+70,Tuesday,2024-10-15,13:40:00,October,284,Large Truck,Cash,Tunnel B,2,6.5,55.9,2.7,-0.7,4.6,57,13:28:00,Large Truck,Unpaid,Tunnel B,4,True,482,138,06:41:00,15,87,Terminal C,435
+70,Tuesday,2024-10-15,13:40:00,October,284,Large Truck,Cash,Tunnel B,2,6.5,55.9,2.7,-0.7,4.6,57,13:28:00,Large Truck,Unpaid,Tunnel B,4,True,482,413,04:10:00,2,96,Terminal C,343
+70,Tuesday,2024-10-15,13:40:00,October,284,Large Truck,Cash,Tunnel B,2,6.5,55.9,2.7,-0.7,4.6,373,09:11:00,Auto,Unpaid,Tunnel B,8,True,217,138,06:41:00,15,87,Terminal C,435
+70,Tuesday,2024-10-15,13:40:00,October,284,Large Truck,Cash,Tunnel B,2,6.5,55.9,2.7,-0.7,4.6,373,09:11:00,Auto,Unpaid,Tunnel B,8,True,217,413,04:10:00,2,96,Terminal C,343
+75,Thursday,2024-09-12,23:47:00,September,417,Bus,EZ Pass,Terminal C,2,16.7,3.0,5.8,21.1,7.2,286,03:45:00,Small Truck,Paid,Terminal C,9,False,130,380,19:42:00,4,77,Tunnel B,226
+76,Sunday,2024-12-22,06:10:00,December,251,Large Truck,Cash,Tunnel B,10,18.2,96.5,5.2,23.3,26.1,321,12:47:00,Small Truck,Paid,Tunnel B,8,False,346,199,13:08:00,7,55,Tunnel B,350
+76,Sunday,2024-12-22,06:10:00,December,251,Large Truck,Cash,Tunnel B,10,18.2,96.5,5.2,23.3,26.1,321,12:47:00,Small Truck,Paid,Tunnel B,8,False,346,256,16:42:00,14,79,Bridge A,221
+76,Sunday,2024-12-22,06:10:00,December,251,Large Truck,Cash,Tunnel B,10,18.2,96.5,5.2,23.3,26.1,321,12:47:00,Small Truck,Paid,Tunnel B,8,False,346,277,08:00:00,12,53,Terminal C,162
+77,Wednesday,2024-09-04,19:14:00,September,384,Bus,Cash,Bridge A,2,4.2,87.5,4.1,2.5,27.5,93,23:12:00,Auto,Unpaid,Tunnel B,5,True,14,293,21:11:00,4,28,Bridge A,50
+77,Wednesday,2024-09-04,19:14:00,September,384,Bus,Cash,Bridge A,2,4.2,87.5,4.1,2.5,27.5,93,23:12:00,Auto,Unpaid,Tunnel B,5,True,14,345,10:47:00,8,12,Terminal C,185
+77,Wednesday,2024-09-04,19:14:00,September,384,Bus,Cash,Bridge A,2,4.2,87.5,4.1,2.5,27.5,355,05:03:00,Large Truck,Unpaid,Tunnel B,3,False,399,293,21:11:00,4,28,Bridge A,50
+77,Wednesday,2024-09-04,19:14:00,September,384,Bus,Cash,Bridge A,2,4.2,87.5,4.1,2.5,27.5,355,05:03:00,Large Truck,Unpaid,Tunnel B,3,False,399,345,10:47:00,8,12,Terminal C,185
+134,Wednesday,2024-09-04,07:51:00,September,150,Auto,EZ Pass,Tunnel B,9,7.6,45.9,5.2,27.1,-12.3,93,23:12:00,Auto,Unpaid,Tunnel B,5,True,14,293,21:11:00,4,28,Bridge A,50
+134,Wednesday,2024-09-04,07:51:00,September,150,Auto,EZ Pass,Tunnel B,9,7.6,45.9,5.2,27.1,-12.3,93,23:12:00,Auto,Unpaid,Tunnel B,5,True,14,345,10:47:00,8,12,Terminal C,185
+134,Wednesday,2024-09-04,07:51:00,September,150,Auto,EZ Pass,Tunnel B,9,7.6,45.9,5.2,27.1,-12.3,355,05:03:00,Large Truck,Unpaid,Tunnel B,3,False,399,293,21:11:00,4,28,Bridge A,50
+134,Wednesday,2024-09-04,07:51:00,September,150,Auto,EZ Pass,Tunnel B,9,7.6,45.9,5.2,27.1,-12.3,355,05:03:00,Large Truck,Unpaid,Tunnel B,3,False,399,345,10:47:00,8,12,Terminal C,185
+184,Wednesday,2024-09-04,10:25:00,September,344,Bus,EZ Pass,Tunnel B,1,15.8,24.4,3.3,8.3,-4.4,93,23:12:00,Auto,Unpaid,Tunnel B,5,True,14,293,21:11:00,4,28,Bridge A,50
+184,Wednesday,2024-09-04,10:25:00,September,344,Bus,EZ Pass,Tunnel B,1,15.8,24.4,3.3,8.3,-4.4,93,23:12:00,Auto,Unpaid,Tunnel B,5,True,14,345,10:47:00,8,12,Terminal C,185
+184,Wednesday,2024-09-04,10:25:00,September,344,Bus,EZ Pass,Tunnel B,1,15.8,24.4,3.3,8.3,-4.4,355,05:03:00,Large Truck,Unpaid,Tunnel B,3,False,399,293,21:11:00,4,28,Bridge A,50
+184,Wednesday,2024-09-04,10:25:00,September,344,Bus,EZ Pass,Tunnel B,1,15.8,24.4,3.3,8.3,-4.4,355,05:03:00,Large Truck,Unpaid,Tunnel B,3,False,399,345,10:47:00,8,12,Terminal C,185
+226,Wednesday,2024-09-04,09:58:00,September,470,Large Truck,Cash,Bridge A,5,10.9,8.7,4.1,13.8,21.1,93,23:12:00,Auto,Unpaid,Tunnel B,5,True,14,293,21:11:00,4,28,Bridge A,50
+226,Wednesday,2024-09-04,09:58:00,September,470,Large Truck,Cash,Bridge A,5,10.9,8.7,4.1,13.8,21.1,93,23:12:00,Auto,Unpaid,Tunnel B,5,True,14,345,10:47:00,8,12,Terminal C,185
+226,Wednesday,2024-09-04,09:58:00,September,470,Large Truck,Cash,Bridge A,5,10.9,8.7,4.1,13.8,21.1,355,05:03:00,Large Truck,Unpaid,Tunnel B,3,False,399,293,21:11:00,4,28,Bridge A,50
+226,Wednesday,2024-09-04,09:58:00,September,470,Large Truck,Cash,Bridge A,5,10.9,8.7,4.1,13.8,21.1,355,05:03:00,Large Truck,Unpaid,Tunnel B,3,False,399,345,10:47:00,8,12,Terminal C,185
+266,Wednesday,2024-09-04,23:07:00,September,195,Small Truck,EZ Pass,Terminal C,10,1.4,19.2,9.9,11.0,13.0,93,23:12:00,Auto,Unpaid,Tunnel B,5,True,14,293,21:11:00,4,28,Bridge A,50
+266,Wednesday,2024-09-04,23:07:00,September,195,Small Truck,EZ Pass,Terminal C,10,1.4,19.2,9.9,11.0,13.0,93,23:12:00,Auto,Unpaid,Tunnel B,5,True,14,345,10:47:00,8,12,Terminal C,185
+266,Wednesday,2024-09-04,23:07:00,September,195,Small Truck,EZ Pass,Terminal C,10,1.4,19.2,9.9,11.0,13.0,355,05:03:00,Large Truck,Unpaid,Tunnel B,3,False,399,293,21:11:00,4,28,Bridge A,50
+266,Wednesday,2024-09-04,23:07:00,September,195,Small Truck,EZ Pass,Terminal C,10,1.4,19.2,9.9,11.0,13.0,355,05:03:00,Large Truck,Unpaid,Tunnel B,3,False,399,345,10:47:00,8,12,Terminal C,185
+407,Wednesday,2024-09-04,03:40:00,September,237,Bus,Cash,Bridge A,7,6.0,21.9,7.1,15.0,18.1,93,23:12:00,Auto,Unpaid,Tunnel B,5,True,14,293,21:11:00,4,28,Bridge A,50
+407,Wednesday,2024-09-04,03:40:00,September,237,Bus,Cash,Bridge A,7,6.0,21.9,7.1,15.0,18.1,93,23:12:00,Auto,Unpaid,Tunnel B,5,True,14,345,10:47:00,8,12,Terminal C,185
+407,Wednesday,2024-09-04,03:40:00,September,237,Bus,Cash,Bridge A,7,6.0,21.9,7.1,15.0,18.1,355,05:03:00,Large Truck,Unpaid,Tunnel B,3,False,399,293,21:11:00,4,28,Bridge A,50
+407,Wednesday,2024-09-04,03:40:00,September,237,Bus,Cash,Bridge A,7,6.0,21.9,7.1,15.0,18.1,355,05:03:00,Large Truck,Unpaid,Tunnel B,3,False,399,345,10:47:00,8,12,Terminal C,185
+78,Tuesday,2024-03-12,08:47:00,March,349,Bus,Cash,Tunnel B,9,0.8,63.3,4.6,20.2,-15.0,202,16:43:00,Large Truck,Unpaid,Tunnel B,6,True,478,16,15:35:00,19,43,Tunnel B,323
+78,Tuesday,2024-03-12,08:47:00,March,349,Bus,Cash,Tunnel B,9,0.8,63.3,4.6,20.2,-15.0,202,16:43:00,Large Truck,Unpaid,Tunnel B,6,True,478,31,01:41:00,3,96,Tunnel B,406
+78,Tuesday,2024-03-12,08:47:00,March,349,Bus,Cash,Tunnel B,9,0.8,63.3,4.6,20.2,-15.0,202,16:43:00,Large Truck,Unpaid,Tunnel B,6,True,478,100,12:39:00,12,24,Terminal C,405
+78,Tuesday,2024-03-12,08:47:00,March,349,Bus,Cash,Tunnel B,9,0.8,63.3,4.6,20.2,-15.0,202,16:43:00,Large Truck,Unpaid,Tunnel B,6,True,478,159,18:49:00,10,11,Bridge A,178
+78,Tuesday,2024-03-12,08:47:00,March,349,Bus,Cash,Tunnel B,9,0.8,63.3,4.6,20.2,-15.0,202,16:43:00,Large Truck,Unpaid,Tunnel B,6,True,478,244,15:17:00,18,86,Tunnel B,436
+173,Tuesday,2024-03-12,18:47:00,March,100,Large Truck,EZ Pass,Tunnel B,1,3.7,64.2,8.5,19.9,15.9,202,16:43:00,Large Truck,Unpaid,Tunnel B,6,True,478,16,15:35:00,19,43,Tunnel B,323
+173,Tuesday,2024-03-12,18:47:00,March,100,Large Truck,EZ Pass,Tunnel B,1,3.7,64.2,8.5,19.9,15.9,202,16:43:00,Large Truck,Unpaid,Tunnel B,6,True,478,31,01:41:00,3,96,Tunnel B,406
+173,Tuesday,2024-03-12,18:47:00,March,100,Large Truck,EZ Pass,Tunnel B,1,3.7,64.2,8.5,19.9,15.9,202,16:43:00,Large Truck,Unpaid,Tunnel B,6,True,478,100,12:39:00,12,24,Terminal C,405
+173,Tuesday,2024-03-12,18:47:00,March,100,Large Truck,EZ Pass,Tunnel B,1,3.7,64.2,8.5,19.9,15.9,202,16:43:00,Large Truck,Unpaid,Tunnel B,6,True,478,159,18:49:00,10,11,Bridge A,178
+173,Tuesday,2024-03-12,18:47:00,March,100,Large Truck,EZ Pass,Tunnel B,1,3.7,64.2,8.5,19.9,15.9,202,16:43:00,Large Truck,Unpaid,Tunnel B,6,True,478,244,15:17:00,18,86,Tunnel B,436
+176,Tuesday,2024-03-12,09:26:00,March,246,Small Truck,Cash,Bridge A,6,15.3,16.4,5.3,11.3,-19.6,202,16:43:00,Large Truck,Unpaid,Tunnel B,6,True,478,16,15:35:00,19,43,Tunnel B,323
+176,Tuesday,2024-03-12,09:26:00,March,246,Small Truck,Cash,Bridge A,6,15.3,16.4,5.3,11.3,-19.6,202,16:43:00,Large Truck,Unpaid,Tunnel B,6,True,478,31,01:41:00,3,96,Tunnel B,406
+176,Tuesday,2024-03-12,09:26:00,March,246,Small Truck,Cash,Bridge A,6,15.3,16.4,5.3,11.3,-19.6,202,16:43:00,Large Truck,Unpaid,Tunnel B,6,True,478,100,12:39:00,12,24,Terminal C,405
+176,Tuesday,2024-03-12,09:26:00,March,246,Small Truck,Cash,Bridge A,6,15.3,16.4,5.3,11.3,-19.6,202,16:43:00,Large Truck,Unpaid,Tunnel B,6,True,478,159,18:49:00,10,11,Bridge A,178
+176,Tuesday,2024-03-12,09:26:00,March,246,Small Truck,Cash,Bridge A,6,15.3,16.4,5.3,11.3,-19.6,202,16:43:00,Large Truck,Unpaid,Tunnel B,6,True,478,244,15:17:00,18,86,Tunnel B,436
+209,Tuesday,2024-03-12,23:33:00,March,123,Large Truck,EZ Pass,Tunnel B,3,5.5,22.5,2.6,9.7,22.2,202,16:43:00,Large Truck,Unpaid,Tunnel B,6,True,478,16,15:35:00,19,43,Tunnel B,323
+209,Tuesday,2024-03-12,23:33:00,March,123,Large Truck,EZ Pass,Tunnel B,3,5.5,22.5,2.6,9.7,22.2,202,16:43:00,Large Truck,Unpaid,Tunnel B,6,True,478,31,01:41:00,3,96,Tunnel B,406
+209,Tuesday,2024-03-12,23:33:00,March,123,Large Truck,EZ Pass,Tunnel B,3,5.5,22.5,2.6,9.7,22.2,202,16:43:00,Large Truck,Unpaid,Tunnel B,6,True,478,100,12:39:00,12,24,Terminal C,405
+209,Tuesday,2024-03-12,23:33:00,March,123,Large Truck,EZ Pass,Tunnel B,3,5.5,22.5,2.6,9.7,22.2,202,16:43:00,Large Truck,Unpaid,Tunnel B,6,True,478,159,18:49:00,10,11,Bridge A,178
+209,Tuesday,2024-03-12,23:33:00,March,123,Large Truck,EZ Pass,Tunnel B,3,5.5,22.5,2.6,9.7,22.2,202,16:43:00,Large Truck,Unpaid,Tunnel B,6,True,478,244,15:17:00,18,86,Tunnel B,436
+79,Thursday,2024-10-17,19:30:00,October,78,Auto,Cash,Terminal C,9,16.3,30.4,4.2,32.2,1.8,85,21:10:00,Small Truck,Paid,Bridge A,8,False,140,34,15:44:00,2,72,Terminal C,179
+140,Thursday,2024-10-17,20:32:00,October,415,Bus,EZ Pass,Tunnel B,6,0.2,69.6,6.3,1.5,1.0,85,21:10:00,Small Truck,Paid,Bridge A,8,False,140,34,15:44:00,2,72,Terminal C,179
+81,Monday,2024-12-23,11:42:00,December,339,Bus,EZ Pass,Tunnel B,10,7.8,40.6,5.4,0.6,10.5,62,23:50:00,Auto,Unpaid,Terminal C,10,True,200,74,12:26:00,16,38,Tunnel B,38
+81,Monday,2024-12-23,11:42:00,December,339,Bus,EZ Pass,Tunnel B,10,7.8,40.6,5.4,0.6,10.5,62,23:50:00,Auto,Unpaid,Terminal C,10,True,200,170,12:28:00,18,33,Tunnel B,47
+81,Monday,2024-12-23,11:42:00,December,339,Bus,EZ Pass,Tunnel B,10,7.8,40.6,5.4,0.6,10.5,62,23:50:00,Auto,Unpaid,Terminal C,10,True,200,258,23:52:00,16,85,Terminal C,354
+81,Monday,2024-12-23,11:42:00,December,339,Bus,EZ Pass,Tunnel B,10,7.8,40.6,5.4,0.6,10.5,197,04:06:00,Bus,Paid,Tunnel B,7,True,221,74,12:26:00,16,38,Tunnel B,38
+81,Monday,2024-12-23,11:42:00,December,339,Bus,EZ Pass,Tunnel B,10,7.8,40.6,5.4,0.6,10.5,197,04:06:00,Bus,Paid,Tunnel B,7,True,221,170,12:28:00,18,33,Tunnel B,47
+81,Monday,2024-12-23,11:42:00,December,339,Bus,EZ Pass,Tunnel B,10,7.8,40.6,5.4,0.6,10.5,197,04:06:00,Bus,Paid,Tunnel B,7,True,221,258,23:52:00,16,85,Terminal C,354
+81,Monday,2024-12-23,11:42:00,December,339,Bus,EZ Pass,Tunnel B,10,7.8,40.6,5.4,0.6,10.5,401,12:58:00,Small Truck,Paid,Terminal C,6,True,431,74,12:26:00,16,38,Tunnel B,38
+81,Monday,2024-12-23,11:42:00,December,339,Bus,EZ Pass,Tunnel B,10,7.8,40.6,5.4,0.6,10.5,401,12:58:00,Small Truck,Paid,Terminal C,6,True,431,170,12:28:00,18,33,Tunnel B,47
+81,Monday,2024-12-23,11:42:00,December,339,Bus,EZ Pass,Tunnel B,10,7.8,40.6,5.4,0.6,10.5,401,12:58:00,Small Truck,Paid,Terminal C,6,True,431,258,23:52:00,16,85,Terminal C,354
+83,Monday,2024-02-12,08:43:00,February,201,Large Truck,EZ Pass,Bridge A,5,12.0,25.2,6.9,26.5,4.1,268,07:24:00,Large Truck,Unpaid,Tunnel B,3,False,450,209,07:45:00,8,54,Tunnel B,392
+83,Monday,2024-02-12,08:43:00,February,201,Large Truck,EZ Pass,Bridge A,5,12.0,25.2,6.9,26.5,4.1,268,07:24:00,Large Truck,Unpaid,Tunnel B,3,False,450,371,17:48:00,7,77,Bridge A,347
+83,Monday,2024-02-12,08:43:00,February,201,Large Truck,EZ Pass,Bridge A,5,12.0,25.2,6.9,26.5,4.1,268,07:24:00,Large Truck,Unpaid,Tunnel B,3,False,450,464,15:55:00,16,16,Tunnel B,43
+83,Monday,2024-02-12,08:43:00,February,201,Large Truck,EZ Pass,Bridge A,5,12.0,25.2,6.9,26.5,4.1,297,19:32:00,Auto,Unpaid,Bridge A,1,False,66,209,07:45:00,8,54,Tunnel B,392
+83,Monday,2024-02-12,08:43:00,February,201,Large Truck,EZ Pass,Bridge A,5,12.0,25.2,6.9,26.5,4.1,297,19:32:00,Auto,Unpaid,Bridge A,1,False,66,371,17:48:00,7,77,Bridge A,347
+83,Monday,2024-02-12,08:43:00,February,201,Large Truck,EZ Pass,Bridge A,5,12.0,25.2,6.9,26.5,4.1,297,19:32:00,Auto,Unpaid,Bridge A,1,False,66,464,15:55:00,16,16,Tunnel B,43
+297,Monday,2024-02-12,07:16:00,February,174,Small Truck,Cash,Tunnel B,1,7.6,62.4,8.4,9.2,4.6,268,07:24:00,Large Truck,Unpaid,Tunnel B,3,False,450,209,07:45:00,8,54,Tunnel B,392
+297,Monday,2024-02-12,07:16:00,February,174,Small Truck,Cash,Tunnel B,1,7.6,62.4,8.4,9.2,4.6,268,07:24:00,Large Truck,Unpaid,Tunnel B,3,False,450,371,17:48:00,7,77,Bridge A,347
+297,Monday,2024-02-12,07:16:00,February,174,Small Truck,Cash,Tunnel B,1,7.6,62.4,8.4,9.2,4.6,268,07:24:00,Large Truck,Unpaid,Tunnel B,3,False,450,464,15:55:00,16,16,Tunnel B,43
+297,Monday,2024-02-12,07:16:00,February,174,Small Truck,Cash,Tunnel B,1,7.6,62.4,8.4,9.2,4.6,297,19:32:00,Auto,Unpaid,Bridge A,1,False,66,209,07:45:00,8,54,Tunnel B,392
+297,Monday,2024-02-12,07:16:00,February,174,Small Truck,Cash,Tunnel B,1,7.6,62.4,8.4,9.2,4.6,297,19:32:00,Auto,Unpaid,Bridge A,1,False,66,371,17:48:00,7,77,Bridge A,347
+297,Monday,2024-02-12,07:16:00,February,174,Small Truck,Cash,Tunnel B,1,7.6,62.4,8.4,9.2,4.6,297,19:32:00,Auto,Unpaid,Bridge A,1,False,66,464,15:55:00,16,16,Tunnel B,43
+386,Monday,2024-02-12,21:20:00,February,296,Small Truck,Cash,Terminal C,3,14.0,61.8,7.2,13.9,24.0,268,07:24:00,Large Truck,Unpaid,Tunnel B,3,False,450,209,07:45:00,8,54,Tunnel B,392
+386,Monday,2024-02-12,21:20:00,February,296,Small Truck,Cash,Terminal C,3,14.0,61.8,7.2,13.9,24.0,268,07:24:00,Large Truck,Unpaid,Tunnel B,3,False,450,371,17:48:00,7,77,Bridge A,347
+386,Monday,2024-02-12,21:20:00,February,296,Small Truck,Cash,Terminal C,3,14.0,61.8,7.2,13.9,24.0,268,07:24:00,Large Truck,Unpaid,Tunnel B,3,False,450,464,15:55:00,16,16,Tunnel B,43
+386,Monday,2024-02-12,21:20:00,February,296,Small Truck,Cash,Terminal C,3,14.0,61.8,7.2,13.9,24.0,297,19:32:00,Auto,Unpaid,Bridge A,1,False,66,209,07:45:00,8,54,Tunnel B,392
+386,Monday,2024-02-12,21:20:00,February,296,Small Truck,Cash,Terminal C,3,14.0,61.8,7.2,13.9,24.0,297,19:32:00,Auto,Unpaid,Bridge A,1,False,66,371,17:48:00,7,77,Bridge A,347
+386,Monday,2024-02-12,21:20:00,February,296,Small Truck,Cash,Terminal C,3,14.0,61.8,7.2,13.9,24.0,297,19:32:00,Auto,Unpaid,Bridge A,1,False,66,464,15:55:00,16,16,Tunnel B,43
+429,Monday,2024-02-12,03:59:00,February,412,Bus,Cash,Bridge A,7,6.8,56.7,2.2,21.5,-8.6,268,07:24:00,Large Truck,Unpaid,Tunnel B,3,False,450,209,07:45:00,8,54,Tunnel B,392
+429,Monday,2024-02-12,03:59:00,February,412,Bus,Cash,Bridge A,7,6.8,56.7,2.2,21.5,-8.6,268,07:24:00,Large Truck,Unpaid,Tunnel B,3,False,450,371,17:48:00,7,77,Bridge A,347
+429,Monday,2024-02-12,03:59:00,February,412,Bus,Cash,Bridge A,7,6.8,56.7,2.2,21.5,-8.6,268,07:24:00,Large Truck,Unpaid,Tunnel B,3,False,450,464,15:55:00,16,16,Tunnel B,43
+429,Monday,2024-02-12,03:59:00,February,412,Bus,Cash,Bridge A,7,6.8,56.7,2.2,21.5,-8.6,297,19:32:00,Auto,Unpaid,Bridge A,1,False,66,209,07:45:00,8,54,Tunnel B,392
+429,Monday,2024-02-12,03:59:00,February,412,Bus,Cash,Bridge A,7,6.8,56.7,2.2,21.5,-8.6,297,19:32:00,Auto,Unpaid,Bridge A,1,False,66,371,17:48:00,7,77,Bridge A,347
+429,Monday,2024-02-12,03:59:00,February,412,Bus,Cash,Bridge A,7,6.8,56.7,2.2,21.5,-8.6,297,19:32:00,Auto,Unpaid,Bridge A,1,False,66,464,15:55:00,16,16,Tunnel B,43
+84,Sunday,2024-11-03,12:26:00,November,403,Large Truck,Cash,Terminal C,4,7.9,27.3,6.5,30.8,-5.3,5,19:33:00,Auto,Paid,Tunnel B,2,True,242,186,10:57:00,8,10,Tunnel B,406
+84,Sunday,2024-11-03,12:26:00,November,403,Large Truck,Cash,Terminal C,4,7.9,27.3,6.5,30.8,-5.3,5,19:33:00,Auto,Paid,Tunnel B,2,True,242,454,22:23:00,16,92,Bridge A,27
+85,Tuesday,2024-12-17,05:38:00,December,310,Small Truck,Cash,Tunnel B,4,2.0,79.1,8.6,31.6,26.6,135,07:31:00,Auto,Paid,Terminal C,5,True,364,96,02:38:00,12,46,Terminal C,364
+85,Tuesday,2024-12-17,05:38:00,December,310,Small Truck,Cash,Tunnel B,4,2.0,79.1,8.6,31.6,26.6,153,10:50:00,Auto,Paid,Terminal C,1,False,106,96,02:38:00,12,46,Terminal C,364
+342,Tuesday,2024-12-17,04:04:00,December,297,Bus,EZ Pass,Terminal C,5,10.4,17.2,2.3,10.8,2.8,135,07:31:00,Auto,Paid,Terminal C,5,True,364,96,02:38:00,12,46,Terminal C,364
+342,Tuesday,2024-12-17,04:04:00,December,297,Bus,EZ Pass,Terminal C,5,10.4,17.2,2.3,10.8,2.8,153,10:50:00,Auto,Paid,Terminal C,1,False,106,96,02:38:00,12,46,Terminal C,364
+347,Tuesday,2024-12-17,00:33:00,December,173,Bus,Cash,Bridge A,8,15.8,43.4,0.8,8.0,-14.9,135,07:31:00,Auto,Paid,Terminal C,5,True,364,96,02:38:00,12,46,Terminal C,364
+347,Tuesday,2024-12-17,00:33:00,December,173,Bus,Cash,Bridge A,8,15.8,43.4,0.8,8.0,-14.9,153,10:50:00,Auto,Paid,Terminal C,1,False,106,96,02:38:00,12,46,Terminal C,364
+93,Thursday,2024-04-04,12:56:00,April,59,Large Truck,EZ Pass,Terminal C,8,6.5,40.0,0.6,18.9,-12.9,151,02:45:00,Bus,Paid,Terminal C,9,True,52,35,13:30:00,19,19,Tunnel B,280
+93,Thursday,2024-04-04,12:56:00,April,59,Large Truck,EZ Pass,Terminal C,8,6.5,40.0,0.6,18.9,-12.9,151,02:45:00,Bus,Paid,Terminal C,9,True,52,214,18:10:00,18,85,Tunnel B,293
+93,Thursday,2024-04-04,12:56:00,April,59,Large Truck,EZ Pass,Terminal C,8,6.5,40.0,0.6,18.9,-12.9,151,02:45:00,Bus,Paid,Terminal C,9,True,52,375,17:18:00,1,79,Terminal C,455
+93,Thursday,2024-04-04,12:56:00,April,59,Large Truck,EZ Pass,Terminal C,8,6.5,40.0,0.6,18.9,-12.9,151,02:45:00,Bus,Paid,Terminal C,9,True,52,470,02:22:00,13,91,Bridge A,277
+94,Tuesday,2024-07-09,03:42:00,July,473,Auto,Cash,Terminal C,8,7.6,69.8,2.7,12.0,-14.6,174,15:12:00,Bus,Unpaid,Bridge A,3,True,10,334,14:36:00,17,12,Bridge A,236
+94,Tuesday,2024-07-09,03:42:00,July,473,Auto,Cash,Terminal C,8,7.6,69.8,2.7,12.0,-14.6,497,14:27:00,Auto,Unpaid,Terminal C,6,True,284,334,14:36:00,17,12,Bridge A,236
+428,Tuesday,2024-07-09,11:55:00,July,226,Large Truck,Cash,Tunnel B,3,9.9,43.1,4.4,32.1,-7.4,174,15:12:00,Bus,Unpaid,Bridge A,3,True,10,334,14:36:00,17,12,Bridge A,236
+428,Tuesday,2024-07-09,11:55:00,July,226,Large Truck,Cash,Tunnel B,3,9.9,43.1,4.4,32.1,-7.4,497,14:27:00,Auto,Unpaid,Terminal C,6,True,284,334,14:36:00,17,12,Bridge A,236
+96,Tuesday,2024-01-16,08:07:00,January,97,Bus,Cash,Tunnel B,9,17.1,66.3,2.2,3.6,-12.1,10,08:34:00,Bus,Unpaid,Bridge A,4,True,2,349,19:38:00,14,77,Tunnel B,171
+96,Tuesday,2024-01-16,08:07:00,January,97,Bus,Cash,Tunnel B,9,17.1,66.3,2.2,3.6,-12.1,362,08:39:00,Auto,Paid,Bridge A,2,True,170,349,19:38:00,14,77,Tunnel B,171
+96,Tuesday,2024-01-16,08:07:00,January,97,Bus,Cash,Tunnel B,9,17.1,66.3,2.2,3.6,-12.1,375,02:30:00,Bus,Paid,Terminal C,2,False,68,349,19:38:00,14,77,Tunnel B,171
+96,Tuesday,2024-01-16,08:07:00,January,97,Bus,Cash,Tunnel B,9,17.1,66.3,2.2,3.6,-12.1,402,16:42:00,Small Truck,Paid,Terminal C,10,True,140,349,19:38:00,14,77,Tunnel B,171
+251,Tuesday,2024-01-16,21:52:00,January,348,Auto,Cash,Tunnel B,6,15.9,56.8,6.6,27.5,11.0,10,08:34:00,Bus,Unpaid,Bridge A,4,True,2,349,19:38:00,14,77,Tunnel B,171
+251,Tuesday,2024-01-16,21:52:00,January,348,Auto,Cash,Tunnel B,6,15.9,56.8,6.6,27.5,11.0,362,08:39:00,Auto,Paid,Bridge A,2,True,170,349,19:38:00,14,77,Tunnel B,171
+251,Tuesday,2024-01-16,21:52:00,January,348,Auto,Cash,Tunnel B,6,15.9,56.8,6.6,27.5,11.0,375,02:30:00,Bus,Paid,Terminal C,2,False,68,349,19:38:00,14,77,Tunnel B,171
+251,Tuesday,2024-01-16,21:52:00,January,348,Auto,Cash,Tunnel B,6,15.9,56.8,6.6,27.5,11.0,402,16:42:00,Small Truck,Paid,Terminal C,10,True,140,349,19:38:00,14,77,Tunnel B,171
+99,Monday,2024-12-02,05:28:00,December,418,Small Truck,EZ Pass,Bridge A,2,19.8,43.5,0.9,7.2,19.2,132,06:58:00,Bus,Unpaid,Tunnel B,3,False,353,46,03:28:00,11,66,Bridge A,386
+99,Monday,2024-12-02,05:28:00,December,418,Small Truck,EZ Pass,Bridge A,2,19.8,43.5,0.9,7.2,19.2,132,06:58:00,Bus,Unpaid,Tunnel B,3,False,353,297,03:16:00,19,42,Bridge A,272
+99,Monday,2024-12-02,05:28:00,December,418,Small Truck,EZ Pass,Bridge A,2,19.8,43.5,0.9,7.2,19.2,132,06:58:00,Bus,Unpaid,Tunnel B,3,False,353,401,09:46:00,16,20,Bridge A,20
+302,Monday,2024-12-02,10:58:00,December,113,Bus,EZ Pass,Terminal C,6,5.1,40.9,0.1,-9.3,28.6,132,06:58:00,Bus,Unpaid,Tunnel B,3,False,353,46,03:28:00,11,66,Bridge A,386
+302,Monday,2024-12-02,10:58:00,December,113,Bus,EZ Pass,Terminal C,6,5.1,40.9,0.1,-9.3,28.6,132,06:58:00,Bus,Unpaid,Tunnel B,3,False,353,297,03:16:00,19,42,Bridge A,272
+302,Monday,2024-12-02,10:58:00,December,113,Bus,EZ Pass,Terminal C,6,5.1,40.9,0.1,-9.3,28.6,132,06:58:00,Bus,Unpaid,Tunnel B,3,False,353,401,09:46:00,16,20,Bridge A,20
+100,Saturday,2024-03-16,04:43:00,March,93,Large Truck,EZ Pass,Terminal C,1,3.7,59.1,3.4,20.6,27.6,177,10:58:00,Large Truck,Unpaid,Tunnel B,10,True,353,92,13:18:00,15,81,Bridge A,99
+100,Saturday,2024-03-16,04:43:00,March,93,Large Truck,EZ Pass,Terminal C,1,3.7,59.1,3.4,20.6,27.6,177,10:58:00,Large Truck,Unpaid,Tunnel B,10,True,353,311,19:00:00,10,13,Terminal C,76
+100,Saturday,2024-03-16,04:43:00,March,93,Large Truck,EZ Pass,Terminal C,1,3.7,59.1,3.4,20.6,27.6,365,22:19:00,Bus,Unpaid,Tunnel B,3,False,452,92,13:18:00,15,81,Bridge A,99
+100,Saturday,2024-03-16,04:43:00,March,93,Large Truck,EZ Pass,Terminal C,1,3.7,59.1,3.4,20.6,27.6,365,22:19:00,Bus,Unpaid,Tunnel B,3,False,452,311,19:00:00,10,13,Terminal C,76
+100,Saturday,2024-03-16,04:43:00,March,93,Large Truck,EZ Pass,Terminal C,1,3.7,59.1,3.4,20.6,27.6,393,18:13:00,Bus,Unpaid,Tunnel B,9,False,8,92,13:18:00,15,81,Bridge A,99
+100,Saturday,2024-03-16,04:43:00,March,93,Large Truck,EZ Pass,Terminal C,1,3.7,59.1,3.4,20.6,27.6,393,18:13:00,Bus,Unpaid,Tunnel B,9,False,8,311,19:00:00,10,13,Terminal C,76
+101,Saturday,2024-09-14,14:00:00,September,178,Auto,Cash,Terminal C,1,7.0,92.4,6.8,20.6,-7.7,234,15:56:00,Bus,Paid,Bridge A,8,True,382,95,13:18:00,12,56,Tunnel B,116
+101,Saturday,2024-09-14,14:00:00,September,178,Auto,Cash,Terminal C,1,7.0,92.4,6.8,20.6,-7.7,234,15:56:00,Bus,Paid,Bridge A,8,True,382,219,19:19:00,3,23,Terminal C,489
+101,Saturday,2024-09-14,14:00:00,September,178,Auto,Cash,Terminal C,1,7.0,92.4,6.8,20.6,-7.7,234,15:56:00,Bus,Paid,Bridge A,8,True,382,308,15:54:00,9,58,Bridge A,127
+101,Saturday,2024-09-14,14:00:00,September,178,Auto,Cash,Terminal C,1,7.0,92.4,6.8,20.6,-7.7,432,09:11:00,Small Truck,Unpaid,Bridge A,3,False,53,95,13:18:00,12,56,Tunnel B,116
+101,Saturday,2024-09-14,14:00:00,September,178,Auto,Cash,Terminal C,1,7.0,92.4,6.8,20.6,-7.7,432,09:11:00,Small Truck,Unpaid,Bridge A,3,False,53,219,19:19:00,3,23,Terminal C,489
+101,Saturday,2024-09-14,14:00:00,September,178,Auto,Cash,Terminal C,1,7.0,92.4,6.8,20.6,-7.7,432,09:11:00,Small Truck,Unpaid,Bridge A,3,False,53,308,15:54:00,9,58,Bridge A,127
+470,Saturday,2024-09-14,09:37:00,September,167,Auto,EZ Pass,Terminal C,3,13.9,76.2,3.8,10.5,13.8,234,15:56:00,Bus,Paid,Bridge A,8,True,382,95,13:18:00,12,56,Tunnel B,116
+470,Saturday,2024-09-14,09:37:00,September,167,Auto,EZ Pass,Terminal C,3,13.9,76.2,3.8,10.5,13.8,234,15:56:00,Bus,Paid,Bridge A,8,True,382,219,19:19:00,3,23,Terminal C,489
+470,Saturday,2024-09-14,09:37:00,September,167,Auto,EZ Pass,Terminal C,3,13.9,76.2,3.8,10.5,13.8,234,15:56:00,Bus,Paid,Bridge A,8,True,382,308,15:54:00,9,58,Bridge A,127
+470,Saturday,2024-09-14,09:37:00,September,167,Auto,EZ Pass,Terminal C,3,13.9,76.2,3.8,10.5,13.8,432,09:11:00,Small Truck,Unpaid,Bridge A,3,False,53,95,13:18:00,12,56,Tunnel B,116
+470,Saturday,2024-09-14,09:37:00,September,167,Auto,EZ Pass,Terminal C,3,13.9,76.2,3.8,10.5,13.8,432,09:11:00,Small Truck,Unpaid,Bridge A,3,False,53,219,19:19:00,3,23,Terminal C,489
+470,Saturday,2024-09-14,09:37:00,September,167,Auto,EZ Pass,Terminal C,3,13.9,76.2,3.8,10.5,13.8,432,09:11:00,Small Truck,Unpaid,Bridge A,3,False,53,308,15:54:00,9,58,Bridge A,127
+475,Saturday,2024-09-14,03:00:00,September,284,Bus,Cash,Bridge A,4,2.8,79.7,4.3,21.3,25.1,234,15:56:00,Bus,Paid,Bridge A,8,True,382,95,13:18:00,12,56,Tunnel B,116
+475,Saturday,2024-09-14,03:00:00,September,284,Bus,Cash,Bridge A,4,2.8,79.7,4.3,21.3,25.1,234,15:56:00,Bus,Paid,Bridge A,8,True,382,219,19:19:00,3,23,Terminal C,489
+475,Saturday,2024-09-14,03:00:00,September,284,Bus,Cash,Bridge A,4,2.8,79.7,4.3,21.3,25.1,234,15:56:00,Bus,Paid,Bridge A,8,True,382,308,15:54:00,9,58,Bridge A,127
+475,Saturday,2024-09-14,03:00:00,September,284,Bus,Cash,Bridge A,4,2.8,79.7,4.3,21.3,25.1,432,09:11:00,Small Truck,Unpaid,Bridge A,3,False,53,95,13:18:00,12,56,Tunnel B,116
+475,Saturday,2024-09-14,03:00:00,September,284,Bus,Cash,Bridge A,4,2.8,79.7,4.3,21.3,25.1,432,09:11:00,Small Truck,Unpaid,Bridge A,3,False,53,219,19:19:00,3,23,Terminal C,489
+475,Saturday,2024-09-14,03:00:00,September,284,Bus,Cash,Bridge A,4,2.8,79.7,4.3,21.3,25.1,432,09:11:00,Small Truck,Unpaid,Bridge A,3,False,53,308,15:54:00,9,58,Bridge A,127
+105,Saturday,2024-08-17,13:45:00,August,491,Auto,Cash,Bridge A,7,1.7,87.9,3.9,-6.7,7.4,284,21:38:00,Bus,Unpaid,Terminal C,9,False,104,204,04:55:00,9,58,Terminal C,373
+334,Saturday,2024-08-17,00:43:00,August,366,Bus,EZ Pass,Terminal C,9,0.6,3.1,2.3,-5.2,14.2,284,21:38:00,Bus,Unpaid,Terminal C,9,False,104,204,04:55:00,9,58,Terminal C,373
+111,Saturday,2024-06-08,16:28:00,June,231,Small Truck,EZ Pass,Bridge A,6,8.7,29.5,8.1,-3.9,26.6,390,09:19:00,Small Truck,Unpaid,Terminal C,1,True,379,224,18:21:00,3,91,Terminal C,21
+111,Saturday,2024-06-08,16:28:00,June,231,Small Truck,EZ Pass,Bridge A,6,8.7,29.5,8.1,-3.9,26.6,390,09:19:00,Small Truck,Unpaid,Terminal C,1,True,379,336,06:10:00,8,51,Tunnel B,389
+117,Saturday,2024-08-31,16:14:00,August,236,Large Truck,Cash,Tunnel B,6,14.4,38.0,6.2,4.3,27.4,368,09:45:00,Auto,Paid,Tunnel B,5,False,133,60,13:33:00,10,58,Bridge A,447
+117,Saturday,2024-08-31,16:14:00,August,236,Large Truck,Cash,Tunnel B,6,14.4,38.0,6.2,4.3,27.4,368,09:45:00,Auto,Paid,Tunnel B,5,False,133,218,06:04:00,3,28,Terminal C,472
+117,Saturday,2024-08-31,16:14:00,August,236,Large Truck,Cash,Tunnel B,6,14.4,38.0,6.2,4.3,27.4,368,09:45:00,Auto,Paid,Tunnel B,5,False,133,443,14:08:00,16,30,Tunnel B,191
+117,Saturday,2024-08-31,16:14:00,August,236,Large Truck,Cash,Tunnel B,6,14.4,38.0,6.2,4.3,27.4,445,12:35:00,Auto,Unpaid,Bridge A,9,False,12,60,13:33:00,10,58,Bridge A,447
+117,Saturday,2024-08-31,16:14:00,August,236,Large Truck,Cash,Tunnel B,6,14.4,38.0,6.2,4.3,27.4,445,12:35:00,Auto,Unpaid,Bridge A,9,False,12,218,06:04:00,3,28,Terminal C,472
+117,Saturday,2024-08-31,16:14:00,August,236,Large Truck,Cash,Tunnel B,6,14.4,38.0,6.2,4.3,27.4,445,12:35:00,Auto,Unpaid,Bridge A,9,False,12,443,14:08:00,16,30,Tunnel B,191
+247,Saturday,2024-08-31,00:55:00,August,161,Auto,Cash,Terminal C,5,2.2,43.5,5.8,5.6,17.7,368,09:45:00,Auto,Paid,Tunnel B,5,False,133,60,13:33:00,10,58,Bridge A,447
+247,Saturday,2024-08-31,00:55:00,August,161,Auto,Cash,Terminal C,5,2.2,43.5,5.8,5.6,17.7,368,09:45:00,Auto,Paid,Tunnel B,5,False,133,218,06:04:00,3,28,Terminal C,472
+247,Saturday,2024-08-31,00:55:00,August,161,Auto,Cash,Terminal C,5,2.2,43.5,5.8,5.6,17.7,368,09:45:00,Auto,Paid,Tunnel B,5,False,133,443,14:08:00,16,30,Tunnel B,191
+247,Saturday,2024-08-31,00:55:00,August,161,Auto,Cash,Terminal C,5,2.2,43.5,5.8,5.6,17.7,445,12:35:00,Auto,Unpaid,Bridge A,9,False,12,60,13:33:00,10,58,Bridge A,447
+247,Saturday,2024-08-31,00:55:00,August,161,Auto,Cash,Terminal C,5,2.2,43.5,5.8,5.6,17.7,445,12:35:00,Auto,Unpaid,Bridge A,9,False,12,218,06:04:00,3,28,Terminal C,472
+247,Saturday,2024-08-31,00:55:00,August,161,Auto,Cash,Terminal C,5,2.2,43.5,5.8,5.6,17.7,445,12:35:00,Auto,Unpaid,Bridge A,9,False,12,443,14:08:00,16,30,Tunnel B,191
+122,Saturday,2024-09-28,14:47:00,September,325,Small Truck,Cash,Bridge A,9,13.2,27.7,3.1,-6.4,-3.8,95,08:03:00,Bus,Unpaid,Terminal C,1,True,186,482,13:56:00,11,61,Tunnel B,335
+122,Saturday,2024-09-28,14:47:00,September,325,Small Truck,Cash,Bridge A,9,13.2,27.7,3.1,-6.4,-3.8,451,20:06:00,Large Truck,Unpaid,Tunnel B,9,False,250,482,13:56:00,11,61,Tunnel B,335
+180,Saturday,2024-09-28,07:36:00,September,207,Small Truck,EZ Pass,Terminal C,6,8.7,13.7,4.8,24.0,2.5,95,08:03:00,Bus,Unpaid,Terminal C,1,True,186,482,13:56:00,11,61,Tunnel B,335
+180,Saturday,2024-09-28,07:36:00,September,207,Small Truck,EZ Pass,Terminal C,6,8.7,13.7,4.8,24.0,2.5,451,20:06:00,Large Truck,Unpaid,Tunnel B,9,False,250,482,13:56:00,11,61,Tunnel B,335
+272,Saturday,2024-09-28,00:24:00,September,127,Auto,Cash,Bridge A,8,15.6,42.2,1.7,4.5,8.8,95,08:03:00,Bus,Unpaid,Terminal C,1,True,186,482,13:56:00,11,61,Tunnel B,335
+272,Saturday,2024-09-28,00:24:00,September,127,Auto,Cash,Bridge A,8,15.6,42.2,1.7,4.5,8.8,451,20:06:00,Large Truck,Unpaid,Tunnel B,9,False,250,482,13:56:00,11,61,Tunnel B,335
+277,Saturday,2024-09-28,01:14:00,September,139,Small Truck,Cash,Terminal C,8,11.5,61.5,9.9,18.1,-2.9,95,08:03:00,Bus,Unpaid,Terminal C,1,True,186,482,13:56:00,11,61,Tunnel B,335
+277,Saturday,2024-09-28,01:14:00,September,139,Small Truck,Cash,Terminal C,8,11.5,61.5,9.9,18.1,-2.9,451,20:06:00,Large Truck,Unpaid,Tunnel B,9,False,250,482,13:56:00,11,61,Tunnel B,335
+375,Saturday,2024-09-28,17:44:00,September,329,Small Truck,Cash,Tunnel B,9,15.5,67.2,0.6,25.5,9.4,95,08:03:00,Bus,Unpaid,Terminal C,1,True,186,482,13:56:00,11,61,Tunnel B,335
+375,Saturday,2024-09-28,17:44:00,September,329,Small Truck,Cash,Tunnel B,9,15.5,67.2,0.6,25.5,9.4,451,20:06:00,Large Truck,Unpaid,Tunnel B,9,False,250,482,13:56:00,11,61,Tunnel B,335
+479,Saturday,2024-09-28,06:11:00,September,285,Large Truck,EZ Pass,Bridge A,7,16.0,71.7,3.8,1.5,-6.2,95,08:03:00,Bus,Unpaid,Terminal C,1,True,186,482,13:56:00,11,61,Tunnel B,335
+479,Saturday,2024-09-28,06:11:00,September,285,Large Truck,EZ Pass,Bridge A,7,16.0,71.7,3.8,1.5,-6.2,451,20:06:00,Large Truck,Unpaid,Tunnel B,9,False,250,482,13:56:00,11,61,Tunnel B,335
+123,Thursday,2024-02-22,03:41:00,February,219,Small Truck,Cash,Terminal C,6,10.1,90.4,1.3,23.0,20.7,81,14:22:00,Large Truck,Unpaid,Terminal C,10,True,194,462,01:50:00,13,16,Bridge A,50
+123,Thursday,2024-02-22,03:41:00,February,219,Small Truck,Cash,Terminal C,6,10.1,90.4,1.3,23.0,20.7,81,14:22:00,Large Truck,Unpaid,Terminal C,10,True,194,480,07:41:00,18,55,Bridge A,362
+123,Thursday,2024-02-22,03:41:00,February,219,Small Truck,Cash,Terminal C,6,10.1,90.4,1.3,23.0,20.7,101,22:12:00,Bus,Unpaid,Bridge A,4,False,3,462,01:50:00,13,16,Bridge A,50
+123,Thursday,2024-02-22,03:41:00,February,219,Small Truck,Cash,Terminal C,6,10.1,90.4,1.3,23.0,20.7,101,22:12:00,Bus,Unpaid,Bridge A,4,False,3,480,07:41:00,18,55,Bridge A,362
+123,Thursday,2024-02-22,03:41:00,February,219,Small Truck,Cash,Terminal C,6,10.1,90.4,1.3,23.0,20.7,150,15:15:00,Bus,Unpaid,Bridge A,10,False,201,462,01:50:00,13,16,Bridge A,50
+123,Thursday,2024-02-22,03:41:00,February,219,Small Truck,Cash,Terminal C,6,10.1,90.4,1.3,23.0,20.7,150,15:15:00,Bus,Unpaid,Bridge A,10,False,201,480,07:41:00,18,55,Bridge A,362
+123,Thursday,2024-02-22,03:41:00,February,219,Small Truck,Cash,Terminal C,6,10.1,90.4,1.3,23.0,20.7,223,21:30:00,Large Truck,Paid,Bridge A,8,True,148,462,01:50:00,13,16,Bridge A,50
+123,Thursday,2024-02-22,03:41:00,February,219,Small Truck,Cash,Terminal C,6,10.1,90.4,1.3,23.0,20.7,223,21:30:00,Large Truck,Paid,Bridge A,8,True,148,480,07:41:00,18,55,Bridge A,362
+123,Thursday,2024-02-22,03:41:00,February,219,Small Truck,Cash,Terminal C,6,10.1,90.4,1.3,23.0,20.7,471,02:59:00,Bus,Unpaid,Terminal C,5,True,299,462,01:50:00,13,16,Bridge A,50
+123,Thursday,2024-02-22,03:41:00,February,219,Small Truck,Cash,Terminal C,6,10.1,90.4,1.3,23.0,20.7,471,02:59:00,Bus,Unpaid,Terminal C,5,True,299,480,07:41:00,18,55,Bridge A,362
+255,Thursday,2024-02-22,06:08:00,February,377,Large Truck,EZ Pass,Tunnel B,10,15.0,87.6,7.0,12.7,6.7,81,14:22:00,Large Truck,Unpaid,Terminal C,10,True,194,462,01:50:00,13,16,Bridge A,50
+255,Thursday,2024-02-22,06:08:00,February,377,Large Truck,EZ Pass,Tunnel B,10,15.0,87.6,7.0,12.7,6.7,81,14:22:00,Large Truck,Unpaid,Terminal C,10,True,194,480,07:41:00,18,55,Bridge A,362
+255,Thursday,2024-02-22,06:08:00,February,377,Large Truck,EZ Pass,Tunnel B,10,15.0,87.6,7.0,12.7,6.7,101,22:12:00,Bus,Unpaid,Bridge A,4,False,3,462,01:50:00,13,16,Bridge A,50
+255,Thursday,2024-02-22,06:08:00,February,377,Large Truck,EZ Pass,Tunnel B,10,15.0,87.6,7.0,12.7,6.7,101,22:12:00,Bus,Unpaid,Bridge A,4,False,3,480,07:41:00,18,55,Bridge A,362
+255,Thursday,2024-02-22,06:08:00,February,377,Large Truck,EZ Pass,Tunnel B,10,15.0,87.6,7.0,12.7,6.7,150,15:15:00,Bus,Unpaid,Bridge A,10,False,201,462,01:50:00,13,16,Bridge A,50
+255,Thursday,2024-02-22,06:08:00,February,377,Large Truck,EZ Pass,Tunnel B,10,15.0,87.6,7.0,12.7,6.7,150,15:15:00,Bus,Unpaid,Bridge A,10,False,201,480,07:41:00,18,55,Bridge A,362
+255,Thursday,2024-02-22,06:08:00,February,377,Large Truck,EZ Pass,Tunnel B,10,15.0,87.6,7.0,12.7,6.7,223,21:30:00,Large Truck,Paid,Bridge A,8,True,148,462,01:50:00,13,16,Bridge A,50
+255,Thursday,2024-02-22,06:08:00,February,377,Large Truck,EZ Pass,Tunnel B,10,15.0,87.6,7.0,12.7,6.7,223,21:30:00,Large Truck,Paid,Bridge A,8,True,148,480,07:41:00,18,55,Bridge A,362
+255,Thursday,2024-02-22,06:08:00,February,377,Large Truck,EZ Pass,Tunnel B,10,15.0,87.6,7.0,12.7,6.7,471,02:59:00,Bus,Unpaid,Terminal C,5,True,299,462,01:50:00,13,16,Bridge A,50
+255,Thursday,2024-02-22,06:08:00,February,377,Large Truck,EZ Pass,Tunnel B,10,15.0,87.6,7.0,12.7,6.7,471,02:59:00,Bus,Unpaid,Terminal C,5,True,299,480,07:41:00,18,55,Bridge A,362
+124,Saturday,2024-07-13,06:18:00,July,185,Auto,Cash,Terminal C,4,13.3,63.9,6.6,27.8,-9.1,91,21:52:00,Large Truck,Unpaid,Bridge A,2,True,60,276,20:27:00,18,13,Bridge A,343
+124,Saturday,2024-07-13,06:18:00,July,185,Auto,Cash,Terminal C,4,13.3,63.9,6.6,27.8,-9.1,138,17:09:00,Large Truck,Unpaid,Tunnel B,7,False,318,276,20:27:00,18,13,Bridge A,343
+124,Saturday,2024-07-13,06:18:00,July,185,Auto,Cash,Terminal C,4,13.3,63.9,6.6,27.8,-9.1,331,03:59:00,Large Truck,Unpaid,Bridge A,10,False,470,276,20:27:00,18,13,Bridge A,343
+332,Saturday,2024-07-13,05:18:00,July,167,Small Truck,EZ Pass,Terminal C,9,18.3,36.3,4.3,29.5,-3.8,91,21:52:00,Large Truck,Unpaid,Bridge A,2,True,60,276,20:27:00,18,13,Bridge A,343
+332,Saturday,2024-07-13,05:18:00,July,167,Small Truck,EZ Pass,Terminal C,9,18.3,36.3,4.3,29.5,-3.8,138,17:09:00,Large Truck,Unpaid,Tunnel B,7,False,318,276,20:27:00,18,13,Bridge A,343
+332,Saturday,2024-07-13,05:18:00,July,167,Small Truck,EZ Pass,Terminal C,9,18.3,36.3,4.3,29.5,-3.8,331,03:59:00,Large Truck,Unpaid,Bridge A,10,False,470,276,20:27:00,18,13,Bridge A,343
+126,Saturday,2024-05-04,00:04:00,May,140,Bus,Cash,Terminal C,2,3.6,12.8,4.7,-0.8,13.2,28,18:16:00,Bus,Paid,Terminal C,6,False,361,103,12:51:00,3,76,Bridge A,143
+126,Saturday,2024-05-04,00:04:00,May,140,Bus,Cash,Terminal C,2,3.6,12.8,4.7,-0.8,13.2,28,18:16:00,Bus,Paid,Terminal C,6,False,361,207,02:22:00,9,72,Bridge A,15
+126,Saturday,2024-05-04,00:04:00,May,140,Bus,Cash,Terminal C,2,3.6,12.8,4.7,-0.8,13.2,28,18:16:00,Bus,Paid,Terminal C,6,False,361,369,21:37:00,19,34,Bridge A,333
+126,Saturday,2024-05-04,00:04:00,May,140,Bus,Cash,Terminal C,2,3.6,12.8,4.7,-0.8,13.2,28,18:16:00,Bus,Paid,Terminal C,6,False,361,439,00:53:00,5,29,Terminal C,18
+126,Saturday,2024-05-04,00:04:00,May,140,Bus,Cash,Terminal C,2,3.6,12.8,4.7,-0.8,13.2,330,10:47:00,Auto,Unpaid,Terminal C,9,True,495,103,12:51:00,3,76,Bridge A,143
+126,Saturday,2024-05-04,00:04:00,May,140,Bus,Cash,Terminal C,2,3.6,12.8,4.7,-0.8,13.2,330,10:47:00,Auto,Unpaid,Terminal C,9,True,495,207,02:22:00,9,72,Bridge A,15
+126,Saturday,2024-05-04,00:04:00,May,140,Bus,Cash,Terminal C,2,3.6,12.8,4.7,-0.8,13.2,330,10:47:00,Auto,Unpaid,Terminal C,9,True,495,369,21:37:00,19,34,Bridge A,333
+126,Saturday,2024-05-04,00:04:00,May,140,Bus,Cash,Terminal C,2,3.6,12.8,4.7,-0.8,13.2,330,10:47:00,Auto,Unpaid,Terminal C,9,True,495,439,00:53:00,5,29,Terminal C,18
+126,Saturday,2024-05-04,00:04:00,May,140,Bus,Cash,Terminal C,2,3.6,12.8,4.7,-0.8,13.2,460,01:12:00,Bus,Paid,Terminal C,8,False,208,103,12:51:00,3,76,Bridge A,143
+126,Saturday,2024-05-04,00:04:00,May,140,Bus,Cash,Terminal C,2,3.6,12.8,4.7,-0.8,13.2,460,01:12:00,Bus,Paid,Terminal C,8,False,208,207,02:22:00,9,72,Bridge A,15
+126,Saturday,2024-05-04,00:04:00,May,140,Bus,Cash,Terminal C,2,3.6,12.8,4.7,-0.8,13.2,460,01:12:00,Bus,Paid,Terminal C,8,False,208,369,21:37:00,19,34,Bridge A,333
+126,Saturday,2024-05-04,00:04:00,May,140,Bus,Cash,Terminal C,2,3.6,12.8,4.7,-0.8,13.2,460,01:12:00,Bus,Paid,Terminal C,8,False,208,439,00:53:00,5,29,Terminal C,18
+127,Sunday,2024-06-09,04:07:00,June,90,Bus,EZ Pass,Tunnel B,7,12.9,44.7,7.9,25.4,-5.4,211,16:14:00,Auto,Paid,Terminal C,10,True,266,245,07:25:00,12,33,Tunnel B,248
+127,Sunday,2024-06-09,04:07:00,June,90,Bus,EZ Pass,Tunnel B,7,12.9,44.7,7.9,25.4,-5.4,211,16:14:00,Auto,Paid,Terminal C,10,True,266,315,00:30:00,20,19,Terminal C,468
+128,Wednesday,2024-12-18,18:06:00,December,234,Bus,EZ Pass,Terminal C,2,14.5,29.5,9.9,10.7,-12.4,170,07:52:00,Bus,Unpaid,Terminal C,10,True,196,193,10:49:00,20,17,Tunnel B,347
+128,Wednesday,2024-12-18,18:06:00,December,234,Bus,EZ Pass,Terminal C,2,14.5,29.5,9.9,10.7,-12.4,171,03:23:00,Large Truck,Unpaid,Bridge A,9,True,262,193,10:49:00,20,17,Tunnel B,347
+261,Wednesday,2024-12-18,17:36:00,December,54,Large Truck,EZ Pass,Bridge A,2,8.5,2.3,3.4,10.6,16.3,170,07:52:00,Bus,Unpaid,Terminal C,10,True,196,193,10:49:00,20,17,Tunnel B,347
+261,Wednesday,2024-12-18,17:36:00,December,54,Large Truck,EZ Pass,Bridge A,2,8.5,2.3,3.4,10.6,16.3,171,03:23:00,Large Truck,Unpaid,Bridge A,9,True,262,193,10:49:00,20,17,Tunnel B,347
+335,Wednesday,2024-12-18,14:43:00,December,155,Large Truck,Cash,Bridge A,7,14.9,95.5,0.9,21.0,-14.9,170,07:52:00,Bus,Unpaid,Terminal C,10,True,196,193,10:49:00,20,17,Tunnel B,347
+335,Wednesday,2024-12-18,14:43:00,December,155,Large Truck,Cash,Bridge A,7,14.9,95.5,0.9,21.0,-14.9,171,03:23:00,Large Truck,Unpaid,Bridge A,9,True,262,193,10:49:00,20,17,Tunnel B,347
+424,Wednesday,2024-12-18,10:50:00,December,392,Bus,Cash,Bridge A,5,5.7,57.8,7.7,9.8,-11.8,170,07:52:00,Bus,Unpaid,Terminal C,10,True,196,193,10:49:00,20,17,Tunnel B,347
+424,Wednesday,2024-12-18,10:50:00,December,392,Bus,Cash,Bridge A,5,5.7,57.8,7.7,9.8,-11.8,171,03:23:00,Large Truck,Unpaid,Bridge A,9,True,262,193,10:49:00,20,17,Tunnel B,347
+131,Thursday,2024-06-27,00:45:00,June,333,Bus,EZ Pass,Tunnel B,7,1.3,60.8,8.6,26.6,-5.4,59,14:22:00,Auto,Paid,Tunnel B,3,True,75,6,15:16:00,13,63,Bridge A,219
+131,Thursday,2024-06-27,00:45:00,June,333,Bus,EZ Pass,Tunnel B,7,1.3,60.8,8.6,26.6,-5.4,59,14:22:00,Auto,Paid,Tunnel B,3,True,75,69,05:45:00,7,95,Bridge A,422
+131,Thursday,2024-06-27,00:45:00,June,333,Bus,EZ Pass,Tunnel B,7,1.3,60.8,8.6,26.6,-5.4,59,14:22:00,Auto,Paid,Tunnel B,3,True,75,233,13:45:00,6,24,Bridge A,65
+131,Thursday,2024-06-27,00:45:00,June,333,Bus,EZ Pass,Tunnel B,7,1.3,60.8,8.6,26.6,-5.4,271,22:13:00,Large Truck,Paid,Terminal C,4,False,40,6,15:16:00,13,63,Bridge A,219
+131,Thursday,2024-06-27,00:45:00,June,333,Bus,EZ Pass,Tunnel B,7,1.3,60.8,8.6,26.6,-5.4,271,22:13:00,Large Truck,Paid,Terminal C,4,False,40,69,05:45:00,7,95,Bridge A,422
+131,Thursday,2024-06-27,00:45:00,June,333,Bus,EZ Pass,Tunnel B,7,1.3,60.8,8.6,26.6,-5.4,271,22:13:00,Large Truck,Paid,Terminal C,4,False,40,233,13:45:00,6,24,Bridge A,65
+133,Saturday,2024-07-27,00:12:00,July,325,Small Truck,Cash,Tunnel B,5,9.5,34.2,3.4,31.3,0.3,206,13:24:00,Large Truck,Paid,Tunnel B,10,True,183,125,23:25:00,1,18,Bridge A,173
+133,Saturday,2024-07-27,00:12:00,July,325,Small Truck,Cash,Tunnel B,5,9.5,34.2,3.4,31.3,0.3,206,13:24:00,Large Truck,Paid,Tunnel B,10,True,183,328,07:29:00,19,100,Terminal C,225
+133,Saturday,2024-07-27,00:12:00,July,325,Small Truck,Cash,Tunnel B,5,9.5,34.2,3.4,31.3,0.3,454,08:35:00,Auto,Paid,Bridge A,9,True,35,125,23:25:00,1,18,Bridge A,173
+133,Saturday,2024-07-27,00:12:00,July,325,Small Truck,Cash,Tunnel B,5,9.5,34.2,3.4,31.3,0.3,454,08:35:00,Auto,Paid,Bridge A,9,True,35,328,07:29:00,19,100,Terminal C,225
+147,Saturday,2024-07-27,00:52:00,July,75,Large Truck,EZ Pass,Terminal C,1,11.6,80.8,8.0,0.3,-11.0,206,13:24:00,Large Truck,Paid,Tunnel B,10,True,183,125,23:25:00,1,18,Bridge A,173
+147,Saturday,2024-07-27,00:52:00,July,75,Large Truck,EZ Pass,Terminal C,1,11.6,80.8,8.0,0.3,-11.0,206,13:24:00,Large Truck,Paid,Tunnel B,10,True,183,328,07:29:00,19,100,Terminal C,225
+147,Saturday,2024-07-27,00:52:00,July,75,Large Truck,EZ Pass,Terminal C,1,11.6,80.8,8.0,0.3,-11.0,454,08:35:00,Auto,Paid,Bridge A,9,True,35,125,23:25:00,1,18,Bridge A,173
+147,Saturday,2024-07-27,00:52:00,July,75,Large Truck,EZ Pass,Terminal C,1,11.6,80.8,8.0,0.3,-11.0,454,08:35:00,Auto,Paid,Bridge A,9,True,35,328,07:29:00,19,100,Terminal C,225
+438,Saturday,2024-07-27,00:30:00,July,416,Bus,EZ Pass,Tunnel B,2,15.2,28.6,5.3,8.1,28.9,206,13:24:00,Large Truck,Paid,Tunnel B,10,True,183,125,23:25:00,1,18,Bridge A,173
+438,Saturday,2024-07-27,00:30:00,July,416,Bus,EZ Pass,Tunnel B,2,15.2,28.6,5.3,8.1,28.9,206,13:24:00,Large Truck,Paid,Tunnel B,10,True,183,328,07:29:00,19,100,Terminal C,225
+438,Saturday,2024-07-27,00:30:00,July,416,Bus,EZ Pass,Tunnel B,2,15.2,28.6,5.3,8.1,28.9,454,08:35:00,Auto,Paid,Bridge A,9,True,35,125,23:25:00,1,18,Bridge A,173
+438,Saturday,2024-07-27,00:30:00,July,416,Bus,EZ Pass,Tunnel B,2,15.2,28.6,5.3,8.1,28.9,454,08:35:00,Auto,Paid,Bridge A,9,True,35,328,07:29:00,19,100,Terminal C,225
+139,Wednesday,2024-05-08,04:24:00,May,173,Large Truck,EZ Pass,Terminal C,5,12.8,41.1,2.5,24.5,-11.8,108,16:40:00,Small Truck,Unpaid,Bridge A,2,False,119,398,09:13:00,2,64,Terminal C,138
+139,Wednesday,2024-05-08,04:24:00,May,173,Large Truck,EZ Pass,Terminal C,5,12.8,41.1,2.5,24.5,-11.8,169,20:15:00,Small Truck,Paid,Tunnel B,10,True,377,398,09:13:00,2,64,Terminal C,138
+139,Wednesday,2024-05-08,04:24:00,May,173,Large Truck,EZ Pass,Terminal C,5,12.8,41.1,2.5,24.5,-11.8,175,12:50:00,Bus,Paid,Terminal C,6,True,17,398,09:13:00,2,64,Terminal C,138
+139,Wednesday,2024-05-08,04:24:00,May,173,Large Truck,EZ Pass,Terminal C,5,12.8,41.1,2.5,24.5,-11.8,279,17:23:00,Small Truck,Unpaid,Terminal C,6,False,389,398,09:13:00,2,64,Terminal C,138
+143,Tuesday,2024-07-16,22:09:00,July,354,Large Truck,Cash,Terminal C,3,16.8,56.1,0.6,21.7,-10.6,453,11:37:00,Large Truck,Unpaid,Tunnel B,8,True,47,108,15:30:00,9,38,Terminal C,107
+319,Tuesday,2024-07-16,22:33:00,July,409,Auto,Cash,Bridge A,1,1.6,9.0,7.2,-8.0,26.6,453,11:37:00,Large Truck,Unpaid,Tunnel B,8,True,47,108,15:30:00,9,38,Terminal C,107
+144,Wednesday,2024-10-09,14:17:00,October,66,Large Truck,EZ Pass,Terminal C,10,19.6,48.4,8.8,27.6,0.9,218,17:41:00,Large Truck,Paid,Bridge A,6,False,283,288,12:46:00,3,53,Bridge A,360
+144,Wednesday,2024-10-09,14:17:00,October,66,Large Truck,EZ Pass,Terminal C,10,19.6,48.4,8.8,27.6,0.9,367,13:51:00,Small Truck,Unpaid,Tunnel B,8,True,369,288,12:46:00,3,53,Bridge A,360
+157,Wednesday,2024-10-09,12:19:00,October,118,Bus,Cash,Tunnel B,1,16.3,73.6,8.0,24.0,-18.4,218,17:41:00,Large Truck,Paid,Bridge A,6,False,283,288,12:46:00,3,53,Bridge A,360
+157,Wednesday,2024-10-09,12:19:00,October,118,Bus,Cash,Tunnel B,1,16.3,73.6,8.0,24.0,-18.4,367,13:51:00,Small Truck,Unpaid,Tunnel B,8,True,369,288,12:46:00,3,53,Bridge A,360
+145,Thursday,2024-01-04,17:21:00,January,139,Large Truck,Cash,Bridge A,10,3.5,77.4,7.8,28.8,-2.5,160,22:17:00,Bus,Unpaid,Terminal C,6,False,43,120,15:34:00,10,66,Bridge A,457
+145,Thursday,2024-01-04,17:21:00,January,139,Large Truck,Cash,Bridge A,10,3.5,77.4,7.8,28.8,-2.5,160,22:17:00,Bus,Unpaid,Terminal C,6,False,43,435,07:35:00,9,100,Tunnel B,140
+148,Sunday,2024-12-29,05:21:00,December,240,Auto,Cash,Bridge A,9,10.8,58.4,2.9,-2.4,2.9,97,12:04:00,Auto,Paid,Tunnel B,8,False,285,7,09:14:00,11,37,Tunnel B,153
+148,Sunday,2024-12-29,05:21:00,December,240,Auto,Cash,Bridge A,9,10.8,58.4,2.9,-2.4,2.9,97,12:04:00,Auto,Paid,Tunnel B,8,False,285,139,00:40:00,19,16,Tunnel B,383
+148,Sunday,2024-12-29,05:21:00,December,240,Auto,Cash,Bridge A,9,10.8,58.4,2.9,-2.4,2.9,97,12:04:00,Auto,Paid,Tunnel B,8,False,285,237,05:37:00,8,54,Terminal C,122
+148,Sunday,2024-12-29,05:21:00,December,240,Auto,Cash,Bridge A,9,10.8,58.4,2.9,-2.4,2.9,97,12:04:00,Auto,Paid,Tunnel B,8,False,285,307,13:01:00,9,53,Terminal C,498
+148,Sunday,2024-12-29,05:21:00,December,240,Auto,Cash,Bridge A,9,10.8,58.4,2.9,-2.4,2.9,97,12:04:00,Auto,Paid,Tunnel B,8,False,285,450,18:13:00,8,53,Terminal C,176
+227,Sunday,2024-12-29,20:01:00,December,64,Auto,Cash,Bridge A,4,1.5,80.6,1.0,28.0,16.5,97,12:04:00,Auto,Paid,Tunnel B,8,False,285,7,09:14:00,11,37,Tunnel B,153
+227,Sunday,2024-12-29,20:01:00,December,64,Auto,Cash,Bridge A,4,1.5,80.6,1.0,28.0,16.5,97,12:04:00,Auto,Paid,Tunnel B,8,False,285,139,00:40:00,19,16,Tunnel B,383
+227,Sunday,2024-12-29,20:01:00,December,64,Auto,Cash,Bridge A,4,1.5,80.6,1.0,28.0,16.5,97,12:04:00,Auto,Paid,Tunnel B,8,False,285,237,05:37:00,8,54,Terminal C,122
+227,Sunday,2024-12-29,20:01:00,December,64,Auto,Cash,Bridge A,4,1.5,80.6,1.0,28.0,16.5,97,12:04:00,Auto,Paid,Tunnel B,8,False,285,307,13:01:00,9,53,Terminal C,498
+227,Sunday,2024-12-29,20:01:00,December,64,Auto,Cash,Bridge A,4,1.5,80.6,1.0,28.0,16.5,97,12:04:00,Auto,Paid,Tunnel B,8,False,285,450,18:13:00,8,53,Terminal C,176
+408,Sunday,2024-12-29,04:19:00,December,342,Large Truck,EZ Pass,Tunnel B,1,1.6,41.0,1.4,12.1,28.5,97,12:04:00,Auto,Paid,Tunnel B,8,False,285,7,09:14:00,11,37,Tunnel B,153
+408,Sunday,2024-12-29,04:19:00,December,342,Large Truck,EZ Pass,Tunnel B,1,1.6,41.0,1.4,12.1,28.5,97,12:04:00,Auto,Paid,Tunnel B,8,False,285,139,00:40:00,19,16,Tunnel B,383
+408,Sunday,2024-12-29,04:19:00,December,342,Large Truck,EZ Pass,Tunnel B,1,1.6,41.0,1.4,12.1,28.5,97,12:04:00,Auto,Paid,Tunnel B,8,False,285,237,05:37:00,8,54,Terminal C,122
+408,Sunday,2024-12-29,04:19:00,December,342,Large Truck,EZ Pass,Tunnel B,1,1.6,41.0,1.4,12.1,28.5,97,12:04:00,Auto,Paid,Tunnel B,8,False,285,307,13:01:00,9,53,Terminal C,498
+408,Sunday,2024-12-29,04:19:00,December,342,Large Truck,EZ Pass,Tunnel B,1,1.6,41.0,1.4,12.1,28.5,97,12:04:00,Auto,Paid,Tunnel B,8,False,285,450,18:13:00,8,53,Terminal C,176
+156,Friday,2024-12-13,23:11:00,December,433,Small Truck,Cash,Tunnel B,9,1.7,34.8,3.9,11.5,1.2,229,23:32:00,Large Truck,Paid,Terminal C,8,False,423,115,02:03:00,16,18,Tunnel B,379
+156,Friday,2024-12-13,23:11:00,December,433,Small Truck,Cash,Tunnel B,9,1.7,34.8,3.9,11.5,1.2,250,13:04:00,Small Truck,Unpaid,Bridge A,3,True,484,115,02:03:00,16,18,Tunnel B,379
+201,Friday,2024-12-13,13:30:00,December,475,Large Truck,Cash,Terminal C,8,2.7,89.5,0.1,8.7,-1.1,229,23:32:00,Large Truck,Paid,Terminal C,8,False,423,115,02:03:00,16,18,Tunnel B,379
+201,Friday,2024-12-13,13:30:00,December,475,Large Truck,Cash,Terminal C,8,2.7,89.5,0.1,8.7,-1.1,250,13:04:00,Small Truck,Unpaid,Bridge A,3,True,484,115,02:03:00,16,18,Tunnel B,379
+159,Friday,2024-11-22,20:51:00,November,240,Bus,EZ Pass,Bridge A,2,4.8,23.2,5.4,-9.0,-6.2,38,05:25:00,Large Truck,Unpaid,Tunnel B,8,True,17,261,04:49:00,6,34,Tunnel B,406
+159,Friday,2024-11-22,20:51:00,November,240,Bus,EZ Pass,Bridge A,2,4.8,23.2,5.4,-9.0,-6.2,161,01:54:00,Auto,Unpaid,Tunnel B,2,False,21,261,04:49:00,6,34,Tunnel B,406
+159,Friday,2024-11-22,20:51:00,November,240,Bus,EZ Pass,Bridge A,2,4.8,23.2,5.4,-9.0,-6.2,397,12:38:00,Bus,Unpaid,Tunnel B,6,True,236,261,04:49:00,6,34,Tunnel B,406
+159,Friday,2024-11-22,20:51:00,November,240,Bus,EZ Pass,Bridge A,2,4.8,23.2,5.4,-9.0,-6.2,483,03:44:00,Bus,Paid,Tunnel B,5,True,166,261,04:49:00,6,34,Tunnel B,406
+421,Friday,2024-11-22,09:27:00,November,224,Small Truck,EZ Pass,Bridge A,5,5.4,30.1,1.9,7.5,3.7,38,05:25:00,Large Truck,Unpaid,Tunnel B,8,True,17,261,04:49:00,6,34,Tunnel B,406
+421,Friday,2024-11-22,09:27:00,November,224,Small Truck,EZ Pass,Bridge A,5,5.4,30.1,1.9,7.5,3.7,161,01:54:00,Auto,Unpaid,Tunnel B,2,False,21,261,04:49:00,6,34,Tunnel B,406
+421,Friday,2024-11-22,09:27:00,November,224,Small Truck,EZ Pass,Bridge A,5,5.4,30.1,1.9,7.5,3.7,397,12:38:00,Bus,Unpaid,Tunnel B,6,True,236,261,04:49:00,6,34,Tunnel B,406
+421,Friday,2024-11-22,09:27:00,November,224,Small Truck,EZ Pass,Bridge A,5,5.4,30.1,1.9,7.5,3.7,483,03:44:00,Bus,Paid,Tunnel B,5,True,166,261,04:49:00,6,34,Tunnel B,406
+162,Saturday,2024-12-14,09:56:00,December,56,Bus,EZ Pass,Terminal C,6,8.4,43.0,0.5,-7.8,8.4,278,05:59:00,Small Truck,Paid,Terminal C,8,True,190,65,01:35:00,19,68,Tunnel B,443
+162,Saturday,2024-12-14,09:56:00,December,56,Bus,EZ Pass,Terminal C,6,8.4,43.0,0.5,-7.8,8.4,278,05:59:00,Small Truck,Paid,Terminal C,8,True,190,472,07:07:00,8,41,Terminal C,236
+162,Saturday,2024-12-14,09:56:00,December,56,Bus,EZ Pass,Terminal C,6,8.4,43.0,0.5,-7.8,8.4,282,02:45:00,Large Truck,Paid,Bridge A,9,True,108,65,01:35:00,19,68,Tunnel B,443
+162,Saturday,2024-12-14,09:56:00,December,56,Bus,EZ Pass,Terminal C,6,8.4,43.0,0.5,-7.8,8.4,282,02:45:00,Large Truck,Paid,Bridge A,9,True,108,472,07:07:00,8,41,Terminal C,236
+329,Saturday,2024-12-14,02:52:00,December,454,Bus,EZ Pass,Terminal C,7,4.1,92.8,7.6,-8.5,9.3,278,05:59:00,Small Truck,Paid,Terminal C,8,True,190,65,01:35:00,19,68,Tunnel B,443
+329,Saturday,2024-12-14,02:52:00,December,454,Bus,EZ Pass,Terminal C,7,4.1,92.8,7.6,-8.5,9.3,278,05:59:00,Small Truck,Paid,Terminal C,8,True,190,472,07:07:00,8,41,Terminal C,236
+329,Saturday,2024-12-14,02:52:00,December,454,Bus,EZ Pass,Terminal C,7,4.1,92.8,7.6,-8.5,9.3,282,02:45:00,Large Truck,Paid,Bridge A,9,True,108,65,01:35:00,19,68,Tunnel B,443
+329,Saturday,2024-12-14,02:52:00,December,454,Bus,EZ Pass,Terminal C,7,4.1,92.8,7.6,-8.5,9.3,282,02:45:00,Large Truck,Paid,Bridge A,9,True,108,472,07:07:00,8,41,Terminal C,236
+163,Tuesday,2024-08-13,03:24:00,August,388,Bus,Cash,Terminal C,8,19.2,67.4,7.8,27.5,-4.5,384,15:54:00,Small Truck,Paid,Tunnel B,2,True,125,212,08:38:00,1,14,Terminal C,134
+164,Tuesday,2024-05-21,01:55:00,May,309,Small Truck,EZ Pass,Tunnel B,5,14.8,60.9,4.1,7.0,19.6,246,03:23:00,Bus,Unpaid,Bridge A,6,False,389,291,06:02:00,8,93,Bridge A,232
+164,Tuesday,2024-05-21,01:55:00,May,309,Small Truck,EZ Pass,Tunnel B,5,14.8,60.9,4.1,7.0,19.6,258,15:25:00,Large Truck,Unpaid,Terminal C,2,False,372,291,06:02:00,8,93,Bridge A,232
+278,Tuesday,2024-05-21,08:54:00,May,174,Bus,EZ Pass,Bridge A,6,2.4,80.4,5.5,15.9,-15.8,246,03:23:00,Bus,Unpaid,Bridge A,6,False,389,291,06:02:00,8,93,Bridge A,232
+278,Tuesday,2024-05-21,08:54:00,May,174,Bus,EZ Pass,Bridge A,6,2.4,80.4,5.5,15.9,-15.8,258,15:25:00,Large Truck,Unpaid,Terminal C,2,False,372,291,06:02:00,8,93,Bridge A,232
+373,Tuesday,2024-05-21,13:48:00,May,55,Large Truck,EZ Pass,Terminal C,5,3.4,86.0,1.6,26.4,19.1,246,03:23:00,Bus,Unpaid,Bridge A,6,False,389,291,06:02:00,8,93,Bridge A,232
+373,Tuesday,2024-05-21,13:48:00,May,55,Large Truck,EZ Pass,Terminal C,5,3.4,86.0,1.6,26.4,19.1,258,15:25:00,Large Truck,Unpaid,Terminal C,2,False,372,291,06:02:00,8,93,Bridge A,232
+477,Tuesday,2024-05-21,21:31:00,May,157,Large Truck,Cash,Terminal C,2,2.4,20.3,3.0,12.7,-13.9,246,03:23:00,Bus,Unpaid,Bridge A,6,False,389,291,06:02:00,8,93,Bridge A,232
+477,Tuesday,2024-05-21,21:31:00,May,157,Large Truck,Cash,Terminal C,2,2.4,20.3,3.0,12.7,-13.9,258,15:25:00,Large Truck,Unpaid,Terminal C,2,False,372,291,06:02:00,8,93,Bridge A,232
+166,Saturday,2024-02-24,16:48:00,February,435,Auto,EZ Pass,Tunnel B,10,3.1,4.5,5.8,30.4,18.6,337,12:21:00,Large Truck,Unpaid,Terminal C,8,True,291,91,15:38:00,14,42,Tunnel B,362
+166,Saturday,2024-02-24,16:48:00,February,435,Auto,EZ Pass,Tunnel B,10,3.1,4.5,5.8,30.4,18.6,337,12:21:00,Large Truck,Unpaid,Terminal C,8,True,291,386,17:40:00,2,52,Tunnel B,271
+166,Saturday,2024-02-24,16:48:00,February,435,Auto,EZ Pass,Tunnel B,10,3.1,4.5,5.8,30.4,18.6,482,05:43:00,Large Truck,Unpaid,Terminal C,2,True,359,91,15:38:00,14,42,Tunnel B,362
+166,Saturday,2024-02-24,16:48:00,February,435,Auto,EZ Pass,Tunnel B,10,3.1,4.5,5.8,30.4,18.6,482,05:43:00,Large Truck,Unpaid,Terminal C,2,True,359,386,17:40:00,2,52,Tunnel B,271
+168,Saturday,2024-04-27,23:01:00,April,479,Auto,Cash,Terminal C,9,1.9,48.4,1.1,22.3,23.0,117,07:56:00,Bus,Paid,Bridge A,8,False,249,86,07:56:00,3,94,Tunnel B,391
+168,Saturday,2024-04-27,23:01:00,April,479,Auto,Cash,Terminal C,9,1.9,48.4,1.1,22.3,23.0,117,07:56:00,Bus,Paid,Bridge A,8,False,249,322,06:07:00,2,36,Terminal C,252
+168,Saturday,2024-04-27,23:01:00,April,479,Auto,Cash,Terminal C,9,1.9,48.4,1.1,22.3,23.0,117,07:56:00,Bus,Paid,Bridge A,8,False,249,456,00:32:00,10,11,Tunnel B,485
+172,Saturday,2024-05-18,20:22:00,May,427,Small Truck,Cash,Terminal C,9,3.1,84.6,8.4,25.6,-4.7,244,14:50:00,Large Truck,Paid,Tunnel B,5,False,51,98,14:34:00,14,50,Bridge A,88
+172,Saturday,2024-05-18,20:22:00,May,427,Small Truck,Cash,Terminal C,9,3.1,84.6,8.4,25.6,-4.7,244,14:50:00,Large Truck,Paid,Tunnel B,5,False,51,321,01:13:00,2,99,Bridge A,440
+172,Saturday,2024-05-18,20:22:00,May,427,Small Truck,Cash,Terminal C,9,3.1,84.6,8.4,25.6,-4.7,244,14:50:00,Large Truck,Paid,Tunnel B,5,False,51,374,21:22:00,7,40,Terminal C,279
+172,Saturday,2024-05-18,20:22:00,May,427,Small Truck,Cash,Terminal C,9,3.1,84.6,8.4,25.6,-4.7,244,14:50:00,Large Truck,Paid,Tunnel B,5,False,51,379,19:27:00,1,79,Terminal C,359
+172,Saturday,2024-05-18,20:22:00,May,427,Small Truck,Cash,Terminal C,9,3.1,84.6,8.4,25.6,-4.7,399,01:49:00,Small Truck,Paid,Terminal C,3,False,111,98,14:34:00,14,50,Bridge A,88
+172,Saturday,2024-05-18,20:22:00,May,427,Small Truck,Cash,Terminal C,9,3.1,84.6,8.4,25.6,-4.7,399,01:49:00,Small Truck,Paid,Terminal C,3,False,111,321,01:13:00,2,99,Bridge A,440
+172,Saturday,2024-05-18,20:22:00,May,427,Small Truck,Cash,Terminal C,9,3.1,84.6,8.4,25.6,-4.7,399,01:49:00,Small Truck,Paid,Terminal C,3,False,111,374,21:22:00,7,40,Terminal C,279
+172,Saturday,2024-05-18,20:22:00,May,427,Small Truck,Cash,Terminal C,9,3.1,84.6,8.4,25.6,-4.7,399,01:49:00,Small Truck,Paid,Terminal C,3,False,111,379,19:27:00,1,79,Terminal C,359
+257,Saturday,2024-05-18,04:46:00,May,292,Auto,EZ Pass,Bridge A,6,0.6,3.6,7.9,31.2,17.4,244,14:50:00,Large Truck,Paid,Tunnel B,5,False,51,98,14:34:00,14,50,Bridge A,88
+257,Saturday,2024-05-18,04:46:00,May,292,Auto,EZ Pass,Bridge A,6,0.6,3.6,7.9,31.2,17.4,244,14:50:00,Large Truck,Paid,Tunnel B,5,False,51,321,01:13:00,2,99,Bridge A,440
+257,Saturday,2024-05-18,04:46:00,May,292,Auto,EZ Pass,Bridge A,6,0.6,3.6,7.9,31.2,17.4,244,14:50:00,Large Truck,Paid,Tunnel B,5,False,51,374,21:22:00,7,40,Terminal C,279
+257,Saturday,2024-05-18,04:46:00,May,292,Auto,EZ Pass,Bridge A,6,0.6,3.6,7.9,31.2,17.4,244,14:50:00,Large Truck,Paid,Tunnel B,5,False,51,379,19:27:00,1,79,Terminal C,359
+257,Saturday,2024-05-18,04:46:00,May,292,Auto,EZ Pass,Bridge A,6,0.6,3.6,7.9,31.2,17.4,399,01:49:00,Small Truck,Paid,Terminal C,3,False,111,98,14:34:00,14,50,Bridge A,88
+257,Saturday,2024-05-18,04:46:00,May,292,Auto,EZ Pass,Bridge A,6,0.6,3.6,7.9,31.2,17.4,399,01:49:00,Small Truck,Paid,Terminal C,3,False,111,321,01:13:00,2,99,Bridge A,440
+257,Saturday,2024-05-18,04:46:00,May,292,Auto,EZ Pass,Bridge A,6,0.6,3.6,7.9,31.2,17.4,399,01:49:00,Small Truck,Paid,Terminal C,3,False,111,374,21:22:00,7,40,Terminal C,279
+257,Saturday,2024-05-18,04:46:00,May,292,Auto,EZ Pass,Bridge A,6,0.6,3.6,7.9,31.2,17.4,399,01:49:00,Small Truck,Paid,Terminal C,3,False,111,379,19:27:00,1,79,Terminal C,359
+480,Saturday,2024-05-18,14:22:00,May,422,Small Truck,EZ Pass,Bridge A,5,19.0,22.3,3.3,3.9,4.0,244,14:50:00,Large Truck,Paid,Tunnel B,5,False,51,98,14:34:00,14,50,Bridge A,88
+480,Saturday,2024-05-18,14:22:00,May,422,Small Truck,EZ Pass,Bridge A,5,19.0,22.3,3.3,3.9,4.0,244,14:50:00,Large Truck,Paid,Tunnel B,5,False,51,321,01:13:00,2,99,Bridge A,440
+480,Saturday,2024-05-18,14:22:00,May,422,Small Truck,EZ Pass,Bridge A,5,19.0,22.3,3.3,3.9,4.0,244,14:50:00,Large Truck,Paid,Tunnel B,5,False,51,374,21:22:00,7,40,Terminal C,279
+480,Saturday,2024-05-18,14:22:00,May,422,Small Truck,EZ Pass,Bridge A,5,19.0,22.3,3.3,3.9,4.0,244,14:50:00,Large Truck,Paid,Tunnel B,5,False,51,379,19:27:00,1,79,Terminal C,359
+480,Saturday,2024-05-18,14:22:00,May,422,Small Truck,EZ Pass,Bridge A,5,19.0,22.3,3.3,3.9,4.0,399,01:49:00,Small Truck,Paid,Terminal C,3,False,111,98,14:34:00,14,50,Bridge A,88
+480,Saturday,2024-05-18,14:22:00,May,422,Small Truck,EZ Pass,Bridge A,5,19.0,22.3,3.3,3.9,4.0,399,01:49:00,Small Truck,Paid,Terminal C,3,False,111,321,01:13:00,2,99,Bridge A,440
+480,Saturday,2024-05-18,14:22:00,May,422,Small Truck,EZ Pass,Bridge A,5,19.0,22.3,3.3,3.9,4.0,399,01:49:00,Small Truck,Paid,Terminal C,3,False,111,374,21:22:00,7,40,Terminal C,279
+480,Saturday,2024-05-18,14:22:00,May,422,Small Truck,EZ Pass,Bridge A,5,19.0,22.3,3.3,3.9,4.0,399,01:49:00,Small Truck,Paid,Terminal C,3,False,111,379,19:27:00,1,79,Terminal C,359
+188,Wednesday,2024-03-27,22:12:00,March,418,Large Truck,Cash,Bridge A,6,9.7,78.1,6.7,6.5,-10.1,326,03:22:00,Auto,Unpaid,Bridge A,8,True,222,40,03:38:00,10,98,Terminal C,276
+188,Wednesday,2024-03-27,22:12:00,March,418,Large Truck,Cash,Bridge A,6,9.7,78.1,6.7,6.5,-10.1,326,03:22:00,Auto,Unpaid,Bridge A,8,True,222,282,12:48:00,13,97,Bridge A,5
+188,Wednesday,2024-03-27,22:12:00,March,418,Large Truck,Cash,Bridge A,6,9.7,78.1,6.7,6.5,-10.1,326,03:22:00,Auto,Unpaid,Bridge A,8,True,222,468,22:19:00,1,33,Bridge A,38
+441,Wednesday,2024-03-27,22:25:00,March,117,Auto,Cash,Tunnel B,7,18.7,21.1,4.4,34.5,29.7,326,03:22:00,Auto,Unpaid,Bridge A,8,True,222,40,03:38:00,10,98,Terminal C,276
+441,Wednesday,2024-03-27,22:25:00,March,117,Auto,Cash,Tunnel B,7,18.7,21.1,4.4,34.5,29.7,326,03:22:00,Auto,Unpaid,Bridge A,8,True,222,282,12:48:00,13,97,Bridge A,5
+441,Wednesday,2024-03-27,22:25:00,March,117,Auto,Cash,Tunnel B,7,18.7,21.1,4.4,34.5,29.7,326,03:22:00,Auto,Unpaid,Bridge A,8,True,222,468,22:19:00,1,33,Bridge A,38
+190,Friday,2024-08-23,18:34:00,August,423,Large Truck,Cash,Bridge A,10,17.4,47.4,8.3,31.3,10.9,251,09:55:00,Small Truck,Paid,Bridge A,7,False,174,12,06:03:00,15,70,Terminal C,451
+190,Friday,2024-08-23,18:34:00,August,423,Large Truck,Cash,Bridge A,10,17.4,47.4,8.3,31.3,10.9,251,09:55:00,Small Truck,Paid,Bridge A,7,False,174,90,22:06:00,18,26,Terminal C,338
+190,Friday,2024-08-23,18:34:00,August,423,Large Truck,Cash,Bridge A,10,17.4,47.4,8.3,31.3,10.9,261,14:09:00,Auto,Paid,Bridge A,5,True,261,12,06:03:00,15,70,Terminal C,451
+190,Friday,2024-08-23,18:34:00,August,423,Large Truck,Cash,Bridge A,10,17.4,47.4,8.3,31.3,10.9,261,14:09:00,Auto,Paid,Bridge A,5,True,261,90,22:06:00,18,26,Terminal C,338
+190,Friday,2024-08-23,18:34:00,August,423,Large Truck,Cash,Bridge A,10,17.4,47.4,8.3,31.3,10.9,318,07:14:00,Auto,Paid,Bridge A,9,False,31,12,06:03:00,15,70,Terminal C,451
+190,Friday,2024-08-23,18:34:00,August,423,Large Truck,Cash,Bridge A,10,17.4,47.4,8.3,31.3,10.9,318,07:14:00,Auto,Paid,Bridge A,9,False,31,90,22:06:00,18,26,Terminal C,338
+276,Friday,2024-08-23,21:34:00,August,70,Auto,EZ Pass,Tunnel B,5,7.3,79.1,2.1,11.8,29.4,251,09:55:00,Small Truck,Paid,Bridge A,7,False,174,12,06:03:00,15,70,Terminal C,451
+276,Friday,2024-08-23,21:34:00,August,70,Auto,EZ Pass,Tunnel B,5,7.3,79.1,2.1,11.8,29.4,251,09:55:00,Small Truck,Paid,Bridge A,7,False,174,90,22:06:00,18,26,Terminal C,338
+276,Friday,2024-08-23,21:34:00,August,70,Auto,EZ Pass,Tunnel B,5,7.3,79.1,2.1,11.8,29.4,261,14:09:00,Auto,Paid,Bridge A,5,True,261,12,06:03:00,15,70,Terminal C,451
+276,Friday,2024-08-23,21:34:00,August,70,Auto,EZ Pass,Tunnel B,5,7.3,79.1,2.1,11.8,29.4,261,14:09:00,Auto,Paid,Bridge A,5,True,261,90,22:06:00,18,26,Terminal C,338
+276,Friday,2024-08-23,21:34:00,August,70,Auto,EZ Pass,Tunnel B,5,7.3,79.1,2.1,11.8,29.4,318,07:14:00,Auto,Paid,Bridge A,9,False,31,12,06:03:00,15,70,Terminal C,451
+276,Friday,2024-08-23,21:34:00,August,70,Auto,EZ Pass,Tunnel B,5,7.3,79.1,2.1,11.8,29.4,318,07:14:00,Auto,Paid,Bridge A,9,False,31,90,22:06:00,18,26,Terminal C,338
+367,Friday,2024-08-23,23:32:00,August,377,Large Truck,EZ Pass,Bridge A,1,2.4,30.5,5.4,15.0,18.0,251,09:55:00,Small Truck,Paid,Bridge A,7,False,174,12,06:03:00,15,70,Terminal C,451
+367,Friday,2024-08-23,23:32:00,August,377,Large Truck,EZ Pass,Bridge A,1,2.4,30.5,5.4,15.0,18.0,251,09:55:00,Small Truck,Paid,Bridge A,7,False,174,90,22:06:00,18,26,Terminal C,338
+367,Friday,2024-08-23,23:32:00,August,377,Large Truck,EZ Pass,Bridge A,1,2.4,30.5,5.4,15.0,18.0,261,14:09:00,Auto,Paid,Bridge A,5,True,261,12,06:03:00,15,70,Terminal C,451
+367,Friday,2024-08-23,23:32:00,August,377,Large Truck,EZ Pass,Bridge A,1,2.4,30.5,5.4,15.0,18.0,261,14:09:00,Auto,Paid,Bridge A,5,True,261,90,22:06:00,18,26,Terminal C,338
+367,Friday,2024-08-23,23:32:00,August,377,Large Truck,EZ Pass,Bridge A,1,2.4,30.5,5.4,15.0,18.0,318,07:14:00,Auto,Paid,Bridge A,9,False,31,12,06:03:00,15,70,Terminal C,451
+367,Friday,2024-08-23,23:32:00,August,377,Large Truck,EZ Pass,Bridge A,1,2.4,30.5,5.4,15.0,18.0,318,07:14:00,Auto,Paid,Bridge A,9,False,31,90,22:06:00,18,26,Terminal C,338
+191,Sunday,2024-05-12,02:18:00,May,226,Large Truck,Cash,Terminal C,1,13.9,32.8,3.1,-9.0,26.4,325,07:37:00,Small Truck,Paid,Terminal C,3,True,216,41,01:56:00,16,73,Tunnel B,1
+193,Tuesday,2024-07-02,15:17:00,July,281,Auto,EZ Pass,Terminal C,7,14.0,29.6,0.4,-7.2,9.7,39,06:13:00,Bus,Paid,Bridge A,5,True,39,200,23:39:00,2,21,Terminal C,80
+193,Tuesday,2024-07-02,15:17:00,July,281,Auto,EZ Pass,Terminal C,7,14.0,29.6,0.4,-7.2,9.7,67,14:06:00,Small Truck,Unpaid,Terminal C,6,False,271,200,23:39:00,2,21,Terminal C,80
+193,Tuesday,2024-07-02,15:17:00,July,281,Auto,EZ Pass,Terminal C,7,14.0,29.6,0.4,-7.2,9.7,228,17:04:00,Auto,Paid,Tunnel B,10,False,153,200,23:39:00,2,21,Terminal C,80
+340,Tuesday,2024-07-02,06:17:00,July,273,Auto,Cash,Tunnel B,4,12.3,62.0,1.4,-6.8,-19.4,39,06:13:00,Bus,Paid,Bridge A,5,True,39,200,23:39:00,2,21,Terminal C,80
+340,Tuesday,2024-07-02,06:17:00,July,273,Auto,Cash,Tunnel B,4,12.3,62.0,1.4,-6.8,-19.4,67,14:06:00,Small Truck,Unpaid,Terminal C,6,False,271,200,23:39:00,2,21,Terminal C,80
+340,Tuesday,2024-07-02,06:17:00,July,273,Auto,Cash,Tunnel B,4,12.3,62.0,1.4,-6.8,-19.4,228,17:04:00,Auto,Paid,Tunnel B,10,False,153,200,23:39:00,2,21,Terminal C,80
+196,Thursday,2024-08-08,18:25:00,August,273,Auto,Cash,Terminal C,8,6.6,33.7,4.9,13.2,-12.2,249,14:39:00,Auto,Unpaid,Terminal C,5,True,62,132,04:03:00,11,11,Tunnel B,145
+198,Saturday,2024-03-23,00:35:00,March,321,Large Truck,Cash,Tunnel B,10,4.8,9.4,7.2,0.2,18.2,52,11:32:00,Small Truck,Paid,Bridge A,9,False,489,255,12:52:00,5,78,Terminal C,238
+198,Saturday,2024-03-23,00:35:00,March,321,Large Truck,Cash,Tunnel B,10,4.8,9.4,7.2,0.2,18.2,273,00:32:00,Bus,Paid,Tunnel B,6,False,59,255,12:52:00,5,78,Terminal C,238
+199,Sunday,2024-08-04,13:15:00,August,192,Small Truck,EZ Pass,Tunnel B,8,10.5,51.5,0.2,20.8,-10.9,350,22:47:00,Bus,Paid,Bridge A,1,True,363,29,03:58:00,5,41,Tunnel B,324
+199,Sunday,2024-08-04,13:15:00,August,192,Small Truck,EZ Pass,Tunnel B,8,10.5,51.5,0.2,20.8,-10.9,350,22:47:00,Bus,Paid,Bridge A,1,True,363,483,19:29:00,13,11,Tunnel B,189
+199,Sunday,2024-08-04,13:15:00,August,192,Small Truck,EZ Pass,Tunnel B,8,10.5,51.5,0.2,20.8,-10.9,356,12:40:00,Auto,Unpaid,Bridge A,6,True,366,29,03:58:00,5,41,Tunnel B,324
+199,Sunday,2024-08-04,13:15:00,August,192,Small Truck,EZ Pass,Tunnel B,8,10.5,51.5,0.2,20.8,-10.9,356,12:40:00,Auto,Unpaid,Bridge A,6,True,366,483,19:29:00,13,11,Tunnel B,189
+233,Sunday,2024-08-04,01:38:00,August,174,Large Truck,Cash,Bridge A,1,4.6,27.2,3.4,28.4,18.7,350,22:47:00,Bus,Paid,Bridge A,1,True,363,29,03:58:00,5,41,Tunnel B,324
+233,Sunday,2024-08-04,01:38:00,August,174,Large Truck,Cash,Bridge A,1,4.6,27.2,3.4,28.4,18.7,350,22:47:00,Bus,Paid,Bridge A,1,True,363,483,19:29:00,13,11,Tunnel B,189
+233,Sunday,2024-08-04,01:38:00,August,174,Large Truck,Cash,Bridge A,1,4.6,27.2,3.4,28.4,18.7,356,12:40:00,Auto,Unpaid,Bridge A,6,True,366,29,03:58:00,5,41,Tunnel B,324
+233,Sunday,2024-08-04,01:38:00,August,174,Large Truck,Cash,Bridge A,1,4.6,27.2,3.4,28.4,18.7,356,12:40:00,Auto,Unpaid,Bridge A,6,True,366,483,19:29:00,13,11,Tunnel B,189
+418,Sunday,2024-08-04,21:05:00,August,340,Auto,Cash,Terminal C,4,17.6,26.3,6.3,15.4,-3.8,350,22:47:00,Bus,Paid,Bridge A,1,True,363,29,03:58:00,5,41,Tunnel B,324
+418,Sunday,2024-08-04,21:05:00,August,340,Auto,Cash,Terminal C,4,17.6,26.3,6.3,15.4,-3.8,350,22:47:00,Bus,Paid,Bridge A,1,True,363,483,19:29:00,13,11,Tunnel B,189
+418,Sunday,2024-08-04,21:05:00,August,340,Auto,Cash,Terminal C,4,17.6,26.3,6.3,15.4,-3.8,356,12:40:00,Auto,Unpaid,Bridge A,6,True,366,29,03:58:00,5,41,Tunnel B,324
+418,Sunday,2024-08-04,21:05:00,August,340,Auto,Cash,Terminal C,4,17.6,26.3,6.3,15.4,-3.8,356,12:40:00,Auto,Unpaid,Bridge A,6,True,366,483,19:29:00,13,11,Tunnel B,189
+200,Wednesday,2024-11-27,09:31:00,November,131,Auto,Cash,Tunnel B,5,8.2,10.9,5.1,7.9,19.4,31,22:33:00,Small Truck,Unpaid,Terminal C,1,True,404,1,15:10:00,14,67,Terminal C,441
+200,Wednesday,2024-11-27,09:31:00,November,131,Auto,Cash,Tunnel B,5,8.2,10.9,5.1,7.9,19.4,31,22:33:00,Small Truck,Unpaid,Terminal C,1,True,404,360,21:39:00,16,55,Terminal C,175
+200,Wednesday,2024-11-27,09:31:00,November,131,Auto,Cash,Tunnel B,5,8.2,10.9,5.1,7.9,19.4,385,06:22:00,Bus,Unpaid,Terminal C,4,False,93,1,15:10:00,14,67,Terminal C,441
+200,Wednesday,2024-11-27,09:31:00,November,131,Auto,Cash,Tunnel B,5,8.2,10.9,5.1,7.9,19.4,385,06:22:00,Bus,Unpaid,Terminal C,4,False,93,360,21:39:00,16,55,Terminal C,175
+200,Wednesday,2024-11-27,09:31:00,November,131,Auto,Cash,Tunnel B,5,8.2,10.9,5.1,7.9,19.4,488,10:44:00,Small Truck,Unpaid,Terminal C,4,True,57,1,15:10:00,14,67,Terminal C,441
+200,Wednesday,2024-11-27,09:31:00,November,131,Auto,Cash,Tunnel B,5,8.2,10.9,5.1,7.9,19.4,488,10:44:00,Small Truck,Unpaid,Terminal C,4,True,57,360,21:39:00,16,55,Terminal C,175
+203,Tuesday,2024-06-25,11:58:00,June,263,Small Truck,EZ Pass,Terminal C,1,3.1,88.4,6.0,10.3,-6.1,320,19:50:00,Bus,Paid,Bridge A,5,True,347,156,04:44:00,16,16,Tunnel B,462
+203,Tuesday,2024-06-25,11:58:00,June,263,Small Truck,EZ Pass,Terminal C,1,3.1,88.4,6.0,10.3,-6.1,320,19:50:00,Bus,Paid,Bridge A,5,True,347,179,20:41:00,16,96,Tunnel B,10
+203,Tuesday,2024-06-25,11:58:00,June,263,Small Truck,EZ Pass,Terminal C,1,3.1,88.4,6.0,10.3,-6.1,320,19:50:00,Bus,Paid,Bridge A,5,True,347,324,03:42:00,15,94,Bridge A,30
+203,Tuesday,2024-06-25,11:58:00,June,263,Small Truck,EZ Pass,Terminal C,1,3.1,88.4,6.0,10.3,-6.1,320,19:50:00,Bus,Paid,Bridge A,5,True,347,493,14:26:00,9,27,Tunnel B,282
+460,Tuesday,2024-06-25,17:09:00,June,403,Bus,Cash,Tunnel B,6,1.5,20.5,8.5,9.0,0.7,320,19:50:00,Bus,Paid,Bridge A,5,True,347,156,04:44:00,16,16,Tunnel B,462
+460,Tuesday,2024-06-25,17:09:00,June,403,Bus,Cash,Tunnel B,6,1.5,20.5,8.5,9.0,0.7,320,19:50:00,Bus,Paid,Bridge A,5,True,347,179,20:41:00,16,96,Tunnel B,10
+460,Tuesday,2024-06-25,17:09:00,June,403,Bus,Cash,Tunnel B,6,1.5,20.5,8.5,9.0,0.7,320,19:50:00,Bus,Paid,Bridge A,5,True,347,324,03:42:00,15,94,Bridge A,30
+460,Tuesday,2024-06-25,17:09:00,June,403,Bus,Cash,Tunnel B,6,1.5,20.5,8.5,9.0,0.7,320,19:50:00,Bus,Paid,Bridge A,5,True,347,493,14:26:00,9,27,Tunnel B,282
+214,Monday,2024-08-05,11:47:00,August,366,Bus,Cash,Terminal C,8,13.7,78.8,3.5,32.6,28.2,53,20:48:00,Auto,Paid,Tunnel B,1,False,136,25,03:18:00,7,40,Bridge A,461
+214,Monday,2024-08-05,11:47:00,August,366,Bus,Cash,Terminal C,8,13.7,78.8,3.5,32.6,28.2,302,03:01:00,Small Truck,Unpaid,Bridge A,1,False,442,25,03:18:00,7,40,Bridge A,461
+214,Monday,2024-08-05,11:47:00,August,366,Bus,Cash,Terminal C,8,13.7,78.8,3.5,32.6,28.2,389,23:37:00,Small Truck,Paid,Bridge A,5,False,201,25,03:18:00,7,40,Bridge A,461
+217,Monday,2024-12-09,19:02:00,December,384,Large Truck,EZ Pass,Bridge A,6,14.8,94.3,2.6,27.3,4.5,215,13:05:00,Large Truck,Unpaid,Bridge A,7,True,221,88,19:45:00,20,54,Terminal C,229
+260,Monday,2024-12-09,03:54:00,December,94,Auto,EZ Pass,Bridge A,3,16.1,20.1,5.1,25.3,-5.8,215,13:05:00,Large Truck,Unpaid,Bridge A,7,True,221,88,19:45:00,20,54,Terminal C,229
+219,Monday,2024-07-15,05:16:00,July,132,Auto,EZ Pass,Terminal C,6,13.6,0.4,6.8,2.0,-12.5,426,22:15:00,Large Truck,Unpaid,Terminal C,8,True,337,79,10:38:00,13,65,Terminal C,230
+219,Monday,2024-07-15,05:16:00,July,132,Auto,EZ Pass,Terminal C,6,13.6,0.4,6.8,2.0,-12.5,426,22:15:00,Large Truck,Unpaid,Terminal C,8,True,337,173,03:50:00,11,100,Terminal C,496
+219,Monday,2024-07-15,05:16:00,July,132,Auto,EZ Pass,Terminal C,6,13.6,0.4,6.8,2.0,-12.5,426,22:15:00,Large Truck,Unpaid,Terminal C,8,True,337,196,08:31:00,2,63,Bridge A,55
+219,Monday,2024-07-15,05:16:00,July,132,Auto,EZ Pass,Terminal C,6,13.6,0.4,6.8,2.0,-12.5,426,22:15:00,Large Truck,Unpaid,Terminal C,8,True,337,313,21:26:00,17,25,Tunnel B,258
+219,Monday,2024-07-15,05:16:00,July,132,Auto,EZ Pass,Terminal C,6,13.6,0.4,6.8,2.0,-12.5,426,22:15:00,Large Truck,Unpaid,Terminal C,8,True,337,397,20:20:00,5,22,Bridge A,71
+219,Monday,2024-07-15,05:16:00,July,132,Auto,EZ Pass,Terminal C,6,13.6,0.4,6.8,2.0,-12.5,426,22:15:00,Large Truck,Unpaid,Terminal C,8,True,337,466,14:42:00,4,94,Terminal C,76
+220,Friday,2024-01-05,18:15:00,January,499,Large Truck,Cash,Terminal C,7,10.7,84.4,5.1,15.3,25.8,381,00:47:00,Large Truck,Unpaid,Tunnel B,1,False,497,20,11:45:00,1,99,Terminal C,316
+222,Friday,2024-01-26,09:56:00,January,343,Large Truck,Cash,Tunnel B,1,3.1,40.7,5.2,-7.2,3.1,254,01:46:00,Bus,Paid,Bridge A,7,True,219,429,16:05:00,17,11,Bridge A,82
+222,Friday,2024-01-26,09:56:00,January,343,Large Truck,Cash,Tunnel B,1,3.1,40.7,5.2,-7.2,3.1,469,17:05:00,Large Truck,Paid,Bridge A,7,False,418,429,16:05:00,17,11,Bridge A,82
+328,Friday,2024-01-26,16:45:00,January,491,Large Truck,Cash,Terminal C,4,0.3,65.0,4.6,-4.1,5.9,254,01:46:00,Bus,Paid,Bridge A,7,True,219,429,16:05:00,17,11,Bridge A,82
+328,Friday,2024-01-26,16:45:00,January,491,Large Truck,Cash,Terminal C,4,0.3,65.0,4.6,-4.1,5.9,469,17:05:00,Large Truck,Paid,Bridge A,7,False,418,429,16:05:00,17,11,Bridge A,82
+391,Friday,2024-01-26,16:00:00,January,274,Small Truck,Cash,Bridge A,4,18.9,11.6,5.5,31.9,17.9,254,01:46:00,Bus,Paid,Bridge A,7,True,219,429,16:05:00,17,11,Bridge A,82
+391,Friday,2024-01-26,16:00:00,January,274,Small Truck,Cash,Bridge A,4,18.9,11.6,5.5,31.9,17.9,469,17:05:00,Large Truck,Paid,Bridge A,7,False,418,429,16:05:00,17,11,Bridge A,82
+224,Saturday,2024-07-20,02:33:00,July,350,Bus,EZ Pass,Bridge A,10,9.6,59.8,3.8,11.1,0.3,322,23:53:00,Small Truck,Unpaid,Tunnel B,1,True,195,478,15:18:00,18,65,Bridge A,115
+224,Saturday,2024-07-20,02:33:00,July,350,Bus,EZ Pass,Bridge A,10,9.6,59.8,3.8,11.1,0.3,359,12:26:00,Bus,Unpaid,Tunnel B,1,False,107,478,15:18:00,18,65,Bridge A,115
+224,Saturday,2024-07-20,02:33:00,July,350,Bus,EZ Pass,Bridge A,10,9.6,59.8,3.8,11.1,0.3,494,08:01:00,Bus,Unpaid,Tunnel B,1,True,262,478,15:18:00,18,65,Bridge A,115
+225,Monday,2024-04-01,05:42:00,April,490,Large Truck,EZ Pass,Tunnel B,8,13.8,71.0,10.0,1.7,-10.1,163,10:23:00,Small Truck,Unpaid,Terminal C,9,False,64,2,14:30:00,5,40,Bridge A,481
+225,Monday,2024-04-01,05:42:00,April,490,Large Truck,EZ Pass,Tunnel B,8,13.8,71.0,10.0,1.7,-10.1,163,10:23:00,Small Truck,Unpaid,Terminal C,9,False,64,266,00:42:00,8,14,Terminal C,237
+225,Monday,2024-04-01,05:42:00,April,490,Large Truck,EZ Pass,Tunnel B,8,13.8,71.0,10.0,1.7,-10.1,301,14:26:00,Bus,Unpaid,Terminal C,8,True,98,2,14:30:00,5,40,Bridge A,481
+225,Monday,2024-04-01,05:42:00,April,490,Large Truck,EZ Pass,Tunnel B,8,13.8,71.0,10.0,1.7,-10.1,301,14:26:00,Bus,Unpaid,Terminal C,8,True,98,266,00:42:00,8,14,Terminal C,237
+225,Monday,2024-04-01,05:42:00,April,490,Large Truck,EZ Pass,Tunnel B,8,13.8,71.0,10.0,1.7,-10.1,380,19:03:00,Auto,Paid,Bridge A,6,False,500,2,14:30:00,5,40,Bridge A,481
+225,Monday,2024-04-01,05:42:00,April,490,Large Truck,EZ Pass,Tunnel B,8,13.8,71.0,10.0,1.7,-10.1,380,19:03:00,Auto,Paid,Bridge A,6,False,500,266,00:42:00,8,14,Terminal C,237
+476,Monday,2024-04-01,11:31:00,April,329,Large Truck,Cash,Terminal C,2,9.9,23.8,6.3,-8.5,25.8,163,10:23:00,Small Truck,Unpaid,Terminal C,9,False,64,2,14:30:00,5,40,Bridge A,481
+476,Monday,2024-04-01,11:31:00,April,329,Large Truck,Cash,Terminal C,2,9.9,23.8,6.3,-8.5,25.8,163,10:23:00,Small Truck,Unpaid,Terminal C,9,False,64,266,00:42:00,8,14,Terminal C,237
+476,Monday,2024-04-01,11:31:00,April,329,Large Truck,Cash,Terminal C,2,9.9,23.8,6.3,-8.5,25.8,301,14:26:00,Bus,Unpaid,Terminal C,8,True,98,2,14:30:00,5,40,Bridge A,481
+476,Monday,2024-04-01,11:31:00,April,329,Large Truck,Cash,Terminal C,2,9.9,23.8,6.3,-8.5,25.8,301,14:26:00,Bus,Unpaid,Terminal C,8,True,98,266,00:42:00,8,14,Terminal C,237
+476,Monday,2024-04-01,11:31:00,April,329,Large Truck,Cash,Terminal C,2,9.9,23.8,6.3,-8.5,25.8,380,19:03:00,Auto,Paid,Bridge A,6,False,500,2,14:30:00,5,40,Bridge A,481
+476,Monday,2024-04-01,11:31:00,April,329,Large Truck,Cash,Terminal C,2,9.9,23.8,6.3,-8.5,25.8,380,19:03:00,Auto,Paid,Bridge A,6,False,500,266,00:42:00,8,14,Terminal C,237
+234,Monday,2024-09-16,11:21:00,September,223,Small Truck,Cash,Terminal C,4,5.5,27.0,1.6,-5.8,8.7,243,15:44:00,Auto,Unpaid,Terminal C,7,True,161,61,00:43:00,4,22,Tunnel B,276
+234,Monday,2024-09-16,11:21:00,September,223,Small Truck,Cash,Terminal C,4,5.5,27.0,1.6,-5.8,8.7,243,15:44:00,Auto,Unpaid,Terminal C,7,True,161,275,10:37:00,15,43,Bridge A,179
+234,Monday,2024-09-16,11:21:00,September,223,Small Truck,Cash,Terminal C,4,5.5,27.0,1.6,-5.8,8.7,243,15:44:00,Auto,Unpaid,Terminal C,7,True,161,302,00:04:00,9,18,Bridge A,293
+238,Friday,2024-04-26,22:35:00,April,466,Small Truck,EZ Pass,Bridge A,6,19.5,51.9,7.7,16.5,-14.2,208,15:55:00,Bus,Paid,Bridge A,9,True,250,104,20:10:00,8,85,Tunnel B,333
+238,Friday,2024-04-26,22:35:00,April,466,Small Truck,EZ Pass,Bridge A,6,19.5,51.9,7.7,16.5,-14.2,208,15:55:00,Bus,Paid,Bridge A,9,True,250,404,08:55:00,13,88,Terminal C,399
+412,Friday,2024-04-26,13:07:00,April,231,Small Truck,Cash,Bridge A,5,17.5,92.7,3.7,5.8,2.6,208,15:55:00,Bus,Paid,Bridge A,9,True,250,104,20:10:00,8,85,Tunnel B,333
+412,Friday,2024-04-26,13:07:00,April,231,Small Truck,Cash,Bridge A,5,17.5,92.7,3.7,5.8,2.6,208,15:55:00,Bus,Paid,Bridge A,9,True,250,404,08:55:00,13,88,Terminal C,399
+436,Friday,2024-04-26,14:45:00,April,223,Large Truck,Cash,Bridge A,4,8.1,34.0,8.3,24.1,6.1,208,15:55:00,Bus,Paid,Bridge A,9,True,250,104,20:10:00,8,85,Tunnel B,333
+436,Friday,2024-04-26,14:45:00,April,223,Large Truck,Cash,Bridge A,4,8.1,34.0,8.3,24.1,6.1,208,15:55:00,Bus,Paid,Bridge A,9,True,250,404,08:55:00,13,88,Terminal C,399
+439,Friday,2024-04-26,18:19:00,April,191,Large Truck,Cash,Terminal C,6,17.7,65.8,5.6,-2.2,8.2,208,15:55:00,Bus,Paid,Bridge A,9,True,250,104,20:10:00,8,85,Tunnel B,333
+439,Friday,2024-04-26,18:19:00,April,191,Large Truck,Cash,Terminal C,6,17.7,65.8,5.6,-2.2,8.2,208,15:55:00,Bus,Paid,Bridge A,9,True,250,404,08:55:00,13,88,Terminal C,399
+244,Tuesday,2024-03-05,01:48:00,March,156,Bus,EZ Pass,Bridge A,3,4.1,78.4,2.7,31.1,-5.2,173,07:55:00,Auto,Paid,Bridge A,6,True,392,203,07:34:00,8,47,Terminal C,5
+244,Tuesday,2024-03-05,01:48:00,March,156,Bus,EZ Pass,Bridge A,3,4.1,78.4,2.7,31.1,-5.2,183,10:34:00,Large Truck,Unpaid,Terminal C,6,True,153,203,07:34:00,8,47,Terminal C,5
+244,Tuesday,2024-03-05,01:48:00,March,156,Bus,EZ Pass,Bridge A,3,4.1,78.4,2.7,31.1,-5.2,410,11:39:00,Small Truck,Unpaid,Terminal C,6,True,283,203,07:34:00,8,47,Terminal C,5
+392,Tuesday,2024-03-05,04:54:00,March,480,Auto,EZ Pass,Tunnel B,10,7.6,33.8,3.4,27.3,-13.1,173,07:55:00,Auto,Paid,Bridge A,6,True,392,203,07:34:00,8,47,Terminal C,5
+392,Tuesday,2024-03-05,04:54:00,March,480,Auto,EZ Pass,Tunnel B,10,7.6,33.8,3.4,27.3,-13.1,183,10:34:00,Large Truck,Unpaid,Terminal C,6,True,153,203,07:34:00,8,47,Terminal C,5
+392,Tuesday,2024-03-05,04:54:00,March,480,Auto,EZ Pass,Tunnel B,10,7.6,33.8,3.4,27.3,-13.1,410,11:39:00,Small Truck,Unpaid,Terminal C,6,True,283,203,07:34:00,8,47,Terminal C,5
+245,Friday,2024-02-09,18:01:00,February,423,Auto,Cash,Terminal C,9,17.3,76.7,8.0,14.8,22.1,45,12:25:00,Small Truck,Unpaid,Tunnel B,4,False,471,152,23:20:00,15,75,Bridge A,443
+245,Friday,2024-02-09,18:01:00,February,423,Auto,Cash,Terminal C,9,17.3,76.7,8.0,14.8,22.1,45,12:25:00,Small Truck,Unpaid,Tunnel B,4,False,471,442,06:02:00,8,80,Bridge A,141
+245,Friday,2024-02-09,18:01:00,February,423,Auto,Cash,Terminal C,9,17.3,76.7,8.0,14.8,22.1,45,12:25:00,Small Truck,Unpaid,Tunnel B,4,False,471,460,15:39:00,5,49,Terminal C,88
+353,Friday,2024-02-09,12:52:00,February,398,Auto,EZ Pass,Bridge A,5,10.5,27.7,1.8,10.0,7.7,45,12:25:00,Small Truck,Unpaid,Tunnel B,4,False,471,152,23:20:00,15,75,Bridge A,443
+353,Friday,2024-02-09,12:52:00,February,398,Auto,EZ Pass,Bridge A,5,10.5,27.7,1.8,10.0,7.7,45,12:25:00,Small Truck,Unpaid,Tunnel B,4,False,471,442,06:02:00,8,80,Bridge A,141
+353,Friday,2024-02-09,12:52:00,February,398,Auto,EZ Pass,Bridge A,5,10.5,27.7,1.8,10.0,7.7,45,12:25:00,Small Truck,Unpaid,Tunnel B,4,False,471,460,15:39:00,5,49,Terminal C,88
+425,Friday,2024-02-09,21:46:00,February,319,Large Truck,EZ Pass,Terminal C,2,6.6,1.6,3.5,7.3,28.7,45,12:25:00,Small Truck,Unpaid,Tunnel B,4,False,471,152,23:20:00,15,75,Bridge A,443
+425,Friday,2024-02-09,21:46:00,February,319,Large Truck,EZ Pass,Terminal C,2,6.6,1.6,3.5,7.3,28.7,45,12:25:00,Small Truck,Unpaid,Tunnel B,4,False,471,442,06:02:00,8,80,Bridge A,141
+425,Friday,2024-02-09,21:46:00,February,319,Large Truck,EZ Pass,Terminal C,2,6.6,1.6,3.5,7.3,28.7,45,12:25:00,Small Truck,Unpaid,Tunnel B,4,False,471,460,15:39:00,5,49,Terminal C,88
+249,Friday,2024-05-24,14:44:00,May,166,Bus,Cash,Bridge A,7,11.4,2.4,5.0,7.5,-9.0,248,22:39:00,Auto,Paid,Terminal C,3,False,236,210,16:20:00,11,74,Bridge A,223
+254,Sunday,2024-02-04,17:46:00,February,217,Small Truck,Cash,Terminal C,5,11.9,20.1,2.7,7.9,19.1,80,04:25:00,Small Truck,Paid,Terminal C,10,False,173,270,14:58:00,20,51,Bridge A,183
+254,Sunday,2024-02-04,17:46:00,February,217,Small Truck,Cash,Terminal C,5,11.9,20.1,2.7,7.9,19.1,80,04:25:00,Small Truck,Paid,Terminal C,10,False,173,452,00:40:00,10,52,Terminal C,428
+254,Sunday,2024-02-04,17:46:00,February,217,Small Truck,Cash,Terminal C,5,11.9,20.1,2.7,7.9,19.1,370,18:15:00,Bus,Paid,Tunnel B,5,False,406,270,14:58:00,20,51,Bridge A,183
+254,Sunday,2024-02-04,17:46:00,February,217,Small Truck,Cash,Terminal C,5,11.9,20.1,2.7,7.9,19.1,370,18:15:00,Bus,Paid,Tunnel B,5,False,406,452,00:40:00,10,52,Terminal C,428
+258,Wednesday,2024-04-17,21:18:00,April,192,Auto,EZ Pass,Terminal C,6,2.1,31.6,3.1,19.5,-1.8,484,02:04:00,Bus,Paid,Tunnel B,10,False,5,33,10:05:00,7,37,Bridge A,231
+258,Wednesday,2024-04-17,21:18:00,April,192,Auto,EZ Pass,Terminal C,6,2.1,31.6,3.1,19.5,-1.8,484,02:04:00,Bus,Paid,Tunnel B,10,False,5,105,12:53:00,9,41,Tunnel B,419
+259,Friday,2024-11-08,15:38:00,November,85,Auto,EZ Pass,Tunnel B,3,18.8,23.4,1.2,3.6,-4.5,275,08:51:00,Large Truck,Unpaid,Terminal C,1,False,379,267,02:07:00,1,35,Bridge A,60
+259,Friday,2024-11-08,15:38:00,November,85,Auto,EZ Pass,Tunnel B,3,18.8,23.4,1.2,3.6,-4.5,275,08:51:00,Large Truck,Unpaid,Terminal C,1,False,379,317,16:37:00,4,95,Bridge A,108
+259,Friday,2024-11-08,15:38:00,November,85,Auto,EZ Pass,Tunnel B,3,18.8,23.4,1.2,3.6,-4.5,275,08:51:00,Large Truck,Unpaid,Terminal C,1,False,379,319,17:15:00,11,50,Tunnel B,170
+259,Friday,2024-11-08,15:38:00,November,85,Auto,EZ Pass,Tunnel B,3,18.8,23.4,1.2,3.6,-4.5,376,03:59:00,Auto,Paid,Tunnel B,2,False,206,267,02:07:00,1,35,Bridge A,60
+259,Friday,2024-11-08,15:38:00,November,85,Auto,EZ Pass,Tunnel B,3,18.8,23.4,1.2,3.6,-4.5,376,03:59:00,Auto,Paid,Tunnel B,2,False,206,317,16:37:00,4,95,Bridge A,108
+259,Friday,2024-11-08,15:38:00,November,85,Auto,EZ Pass,Tunnel B,3,18.8,23.4,1.2,3.6,-4.5,376,03:59:00,Auto,Paid,Tunnel B,2,False,206,319,17:15:00,11,50,Tunnel B,170
+404,Friday,2024-11-08,10:56:00,November,186,Auto,EZ Pass,Tunnel B,7,4.9,6.9,5.3,15.9,11.2,275,08:51:00,Large Truck,Unpaid,Terminal C,1,False,379,267,02:07:00,1,35,Bridge A,60
+404,Friday,2024-11-08,10:56:00,November,186,Auto,EZ Pass,Tunnel B,7,4.9,6.9,5.3,15.9,11.2,275,08:51:00,Large Truck,Unpaid,Terminal C,1,False,379,317,16:37:00,4,95,Bridge A,108
+404,Friday,2024-11-08,10:56:00,November,186,Auto,EZ Pass,Tunnel B,7,4.9,6.9,5.3,15.9,11.2,275,08:51:00,Large Truck,Unpaid,Terminal C,1,False,379,319,17:15:00,11,50,Tunnel B,170
+404,Friday,2024-11-08,10:56:00,November,186,Auto,EZ Pass,Tunnel B,7,4.9,6.9,5.3,15.9,11.2,376,03:59:00,Auto,Paid,Tunnel B,2,False,206,267,02:07:00,1,35,Bridge A,60
+404,Friday,2024-11-08,10:56:00,November,186,Auto,EZ Pass,Tunnel B,7,4.9,6.9,5.3,15.9,11.2,376,03:59:00,Auto,Paid,Tunnel B,2,False,206,317,16:37:00,4,95,Bridge A,108
+404,Friday,2024-11-08,10:56:00,November,186,Auto,EZ Pass,Tunnel B,7,4.9,6.9,5.3,15.9,11.2,376,03:59:00,Auto,Paid,Tunnel B,2,False,206,319,17:15:00,11,50,Tunnel B,170
+265,Tuesday,2024-05-14,10:00:00,May,111,Large Truck,Cash,Bridge A,3,2.7,72.1,1.9,-7.7,-0.9,334,16:46:00,Small Truck,Paid,Terminal C,8,False,334,59,01:53:00,15,40,Terminal C,466
+268,Monday,2024-01-29,02:47:00,January,377,Small Truck,Cash,Tunnel B,6,12.8,43.3,3.8,7.8,-4.8,60,05:33:00,Small Truck,Paid,Tunnel B,1,True,6,229,16:36:00,7,34,Bridge A,122
+268,Monday,2024-01-29,02:47:00,January,377,Small Truck,Cash,Tunnel B,6,12.8,43.3,3.8,7.8,-4.8,60,05:33:00,Small Truck,Paid,Tunnel B,1,True,6,340,02:21:00,16,35,Terminal C,425
+268,Monday,2024-01-29,02:47:00,January,377,Small Truck,Cash,Tunnel B,6,12.8,43.3,3.8,7.8,-4.8,60,05:33:00,Small Truck,Paid,Tunnel B,1,True,6,419,10:21:00,19,30,Bridge A,114
+268,Monday,2024-01-29,02:47:00,January,377,Small Truck,Cash,Tunnel B,6,12.8,43.3,3.8,7.8,-4.8,99,11:51:00,Auto,Unpaid,Bridge A,9,True,111,229,16:36:00,7,34,Bridge A,122
+268,Monday,2024-01-29,02:47:00,January,377,Small Truck,Cash,Tunnel B,6,12.8,43.3,3.8,7.8,-4.8,99,11:51:00,Auto,Unpaid,Bridge A,9,True,111,340,02:21:00,16,35,Terminal C,425
+268,Monday,2024-01-29,02:47:00,January,377,Small Truck,Cash,Tunnel B,6,12.8,43.3,3.8,7.8,-4.8,99,11:51:00,Auto,Unpaid,Bridge A,9,True,111,419,10:21:00,19,30,Bridge A,114
+268,Monday,2024-01-29,02:47:00,January,377,Small Truck,Cash,Tunnel B,6,12.8,43.3,3.8,7.8,-4.8,164,21:08:00,Auto,Unpaid,Tunnel B,9,False,255,229,16:36:00,7,34,Bridge A,122
+268,Monday,2024-01-29,02:47:00,January,377,Small Truck,Cash,Tunnel B,6,12.8,43.3,3.8,7.8,-4.8,164,21:08:00,Auto,Unpaid,Tunnel B,9,False,255,340,02:21:00,16,35,Terminal C,425
+268,Monday,2024-01-29,02:47:00,January,377,Small Truck,Cash,Tunnel B,6,12.8,43.3,3.8,7.8,-4.8,164,21:08:00,Auto,Unpaid,Tunnel B,9,False,255,419,10:21:00,19,30,Bridge A,114
+283,Monday,2024-01-29,17:18:00,January,140,Auto,Cash,Bridge A,6,2.5,78.8,7.8,26.0,2.0,60,05:33:00,Small Truck,Paid,Tunnel B,1,True,6,229,16:36:00,7,34,Bridge A,122
+283,Monday,2024-01-29,17:18:00,January,140,Auto,Cash,Bridge A,6,2.5,78.8,7.8,26.0,2.0,60,05:33:00,Small Truck,Paid,Tunnel B,1,True,6,340,02:21:00,16,35,Terminal C,425
+283,Monday,2024-01-29,17:18:00,January,140,Auto,Cash,Bridge A,6,2.5,78.8,7.8,26.0,2.0,60,05:33:00,Small Truck,Paid,Tunnel B,1,True,6,419,10:21:00,19,30,Bridge A,114
+283,Monday,2024-01-29,17:18:00,January,140,Auto,Cash,Bridge A,6,2.5,78.8,7.8,26.0,2.0,99,11:51:00,Auto,Unpaid,Bridge A,9,True,111,229,16:36:00,7,34,Bridge A,122
+283,Monday,2024-01-29,17:18:00,January,140,Auto,Cash,Bridge A,6,2.5,78.8,7.8,26.0,2.0,99,11:51:00,Auto,Unpaid,Bridge A,9,True,111,340,02:21:00,16,35,Terminal C,425
+283,Monday,2024-01-29,17:18:00,January,140,Auto,Cash,Bridge A,6,2.5,78.8,7.8,26.0,2.0,99,11:51:00,Auto,Unpaid,Bridge A,9,True,111,419,10:21:00,19,30,Bridge A,114
+283,Monday,2024-01-29,17:18:00,January,140,Auto,Cash,Bridge A,6,2.5,78.8,7.8,26.0,2.0,164,21:08:00,Auto,Unpaid,Tunnel B,9,False,255,229,16:36:00,7,34,Bridge A,122
+283,Monday,2024-01-29,17:18:00,January,140,Auto,Cash,Bridge A,6,2.5,78.8,7.8,26.0,2.0,164,21:08:00,Auto,Unpaid,Tunnel B,9,False,255,340,02:21:00,16,35,Terminal C,425
+283,Monday,2024-01-29,17:18:00,January,140,Auto,Cash,Bridge A,6,2.5,78.8,7.8,26.0,2.0,164,21:08:00,Auto,Unpaid,Tunnel B,9,False,255,419,10:21:00,19,30,Bridge A,114
+343,Monday,2024-01-29,08:32:00,January,454,Bus,Cash,Tunnel B,4,13.7,30.3,3.5,7.5,19.8,60,05:33:00,Small Truck,Paid,Tunnel B,1,True,6,229,16:36:00,7,34,Bridge A,122
+343,Monday,2024-01-29,08:32:00,January,454,Bus,Cash,Tunnel B,4,13.7,30.3,3.5,7.5,19.8,60,05:33:00,Small Truck,Paid,Tunnel B,1,True,6,340,02:21:00,16,35,Terminal C,425
+343,Monday,2024-01-29,08:32:00,January,454,Bus,Cash,Tunnel B,4,13.7,30.3,3.5,7.5,19.8,60,05:33:00,Small Truck,Paid,Tunnel B,1,True,6,419,10:21:00,19,30,Bridge A,114
+343,Monday,2024-01-29,08:32:00,January,454,Bus,Cash,Tunnel B,4,13.7,30.3,3.5,7.5,19.8,99,11:51:00,Auto,Unpaid,Bridge A,9,True,111,229,16:36:00,7,34,Bridge A,122
+343,Monday,2024-01-29,08:32:00,January,454,Bus,Cash,Tunnel B,4,13.7,30.3,3.5,7.5,19.8,99,11:51:00,Auto,Unpaid,Bridge A,9,True,111,340,02:21:00,16,35,Terminal C,425
+343,Monday,2024-01-29,08:32:00,January,454,Bus,Cash,Tunnel B,4,13.7,30.3,3.5,7.5,19.8,99,11:51:00,Auto,Unpaid,Bridge A,9,True,111,419,10:21:00,19,30,Bridge A,114
+343,Monday,2024-01-29,08:32:00,January,454,Bus,Cash,Tunnel B,4,13.7,30.3,3.5,7.5,19.8,164,21:08:00,Auto,Unpaid,Tunnel B,9,False,255,229,16:36:00,7,34,Bridge A,122
+343,Monday,2024-01-29,08:32:00,January,454,Bus,Cash,Tunnel B,4,13.7,30.3,3.5,7.5,19.8,164,21:08:00,Auto,Unpaid,Tunnel B,9,False,255,340,02:21:00,16,35,Terminal C,425
+343,Monday,2024-01-29,08:32:00,January,454,Bus,Cash,Tunnel B,4,13.7,30.3,3.5,7.5,19.8,164,21:08:00,Auto,Unpaid,Tunnel B,9,False,255,419,10:21:00,19,30,Bridge A,114
+281,Monday,2024-02-05,21:08:00,February,410,Large Truck,Cash,Tunnel B,1,5.2,75.3,7.4,15.4,-11.2,8,13:22:00,Bus,Unpaid,Terminal C,4,True,475,57,09:11:00,5,22,Terminal C,455
+281,Monday,2024-02-05,21:08:00,February,410,Large Truck,Cash,Tunnel B,1,5.2,75.3,7.4,15.4,-11.2,20,01:04:00,Auto,Paid,Bridge A,1,True,140,57,09:11:00,5,22,Terminal C,455
+281,Monday,2024-02-05,21:08:00,February,410,Large Truck,Cash,Tunnel B,1,5.2,75.3,7.4,15.4,-11.2,89,10:34:00,Bus,Paid,Bridge A,3,False,45,57,09:11:00,5,22,Terminal C,455
+281,Monday,2024-02-05,21:08:00,February,410,Large Truck,Cash,Tunnel B,1,5.2,75.3,7.4,15.4,-11.2,327,12:28:00,Small Truck,Unpaid,Terminal C,3,False,306,57,09:11:00,5,22,Terminal C,455
+434,Monday,2024-02-05,14:04:00,February,115,Large Truck,Cash,Terminal C,6,8.5,38.2,5.9,29.9,15.1,8,13:22:00,Bus,Unpaid,Terminal C,4,True,475,57,09:11:00,5,22,Terminal C,455
+434,Monday,2024-02-05,14:04:00,February,115,Large Truck,Cash,Terminal C,6,8.5,38.2,5.9,29.9,15.1,20,01:04:00,Auto,Paid,Bridge A,1,True,140,57,09:11:00,5,22,Terminal C,455
+434,Monday,2024-02-05,14:04:00,February,115,Large Truck,Cash,Terminal C,6,8.5,38.2,5.9,29.9,15.1,89,10:34:00,Bus,Paid,Bridge A,3,False,45,57,09:11:00,5,22,Terminal C,455
+434,Monday,2024-02-05,14:04:00,February,115,Large Truck,Cash,Terminal C,6,8.5,38.2,5.9,29.9,15.1,327,12:28:00,Small Truck,Unpaid,Terminal C,3,False,306,57,09:11:00,5,22,Terminal C,455
+282,Monday,2024-06-10,04:26:00,June,275,Auto,Cash,Bridge A,9,15.8,36.9,0.6,33.2,-2.5,146,22:10:00,Large Truck,Paid,Tunnel B,8,False,32,188,12:00:00,20,58,Tunnel B,493
+282,Monday,2024-06-10,04:26:00,June,275,Auto,Cash,Bridge A,9,15.8,36.9,0.6,33.2,-2.5,146,22:10:00,Large Truck,Paid,Tunnel B,8,False,32,366,14:54:00,18,86,Bridge A,34
+282,Monday,2024-06-10,04:26:00,June,275,Auto,Cash,Bridge A,9,15.8,36.9,0.6,33.2,-2.5,459,18:55:00,Auto,Paid,Bridge A,1,True,263,188,12:00:00,20,58,Tunnel B,493
+282,Monday,2024-06-10,04:26:00,June,275,Auto,Cash,Bridge A,9,15.8,36.9,0.6,33.2,-2.5,459,18:55:00,Auto,Paid,Bridge A,1,True,263,366,14:54:00,18,86,Bridge A,34
+286,Saturday,2024-11-09,20:31:00,November,320,Auto,EZ Pass,Tunnel B,6,1.2,25.4,6.1,-4.3,10.1,277,11:51:00,Bus,Paid,Tunnel B,10,True,7,71,20:17:00,20,34,Terminal C,479
+286,Saturday,2024-11-09,20:31:00,November,320,Auto,EZ Pass,Tunnel B,6,1.2,25.4,6.1,-4.3,10.1,293,15:02:00,Large Truck,Unpaid,Bridge A,10,False,408,71,20:17:00,20,34,Terminal C,479
+288,Tuesday,2024-08-20,18:59:00,August,109,Small Truck,Cash,Tunnel B,5,2.9,81.6,2.5,23.9,18.1,14,12:56:00,Large Truck,Unpaid,Terminal C,4,True,477,223,15:24:00,16,19,Tunnel B,62
+303,Tuesday,2024-08-20,01:17:00,August,167,Large Truck,Cash,Terminal C,8,12.3,62.9,8.9,9.7,-3.9,14,12:56:00,Large Truck,Unpaid,Terminal C,4,True,477,223,15:24:00,16,19,Tunnel B,62
+291,Saturday,2024-11-02,21:09:00,November,161,Bus,Cash,Tunnel B,1,13.6,42.6,1.5,28.6,24.2,42,02:57:00,Small Truck,Paid,Bridge A,10,False,380,242,09:00:00,19,87,Terminal C,183
+291,Saturday,2024-11-02,21:09:00,November,161,Bus,Cash,Tunnel B,1,13.6,42.6,1.5,28.6,24.2,42,02:57:00,Small Truck,Paid,Bridge A,10,False,380,358,03:12:00,9,61,Bridge A,112
+291,Saturday,2024-11-02,21:09:00,November,161,Bus,Cash,Tunnel B,1,13.6,42.6,1.5,28.6,24.2,42,02:57:00,Small Truck,Paid,Bridge A,10,False,380,388,08:13:00,10,68,Bridge A,116
+291,Saturday,2024-11-02,21:09:00,November,161,Bus,Cash,Tunnel B,1,13.6,42.6,1.5,28.6,24.2,42,02:57:00,Small Truck,Paid,Bridge A,10,False,380,484,01:53:00,13,51,Bridge A,474
+291,Saturday,2024-11-02,21:09:00,November,161,Bus,Cash,Tunnel B,1,13.6,42.6,1.5,28.6,24.2,121,13:54:00,Auto,Paid,Bridge A,7,True,155,242,09:00:00,19,87,Terminal C,183
+291,Saturday,2024-11-02,21:09:00,November,161,Bus,Cash,Tunnel B,1,13.6,42.6,1.5,28.6,24.2,121,13:54:00,Auto,Paid,Bridge A,7,True,155,358,03:12:00,9,61,Bridge A,112
+291,Saturday,2024-11-02,21:09:00,November,161,Bus,Cash,Tunnel B,1,13.6,42.6,1.5,28.6,24.2,121,13:54:00,Auto,Paid,Bridge A,7,True,155,388,08:13:00,10,68,Bridge A,116
+291,Saturday,2024-11-02,21:09:00,November,161,Bus,Cash,Tunnel B,1,13.6,42.6,1.5,28.6,24.2,121,13:54:00,Auto,Paid,Bridge A,7,True,155,484,01:53:00,13,51,Bridge A,474
+291,Saturday,2024-11-02,21:09:00,November,161,Bus,Cash,Tunnel B,1,13.6,42.6,1.5,28.6,24.2,209,13:32:00,Auto,Paid,Bridge A,9,False,241,242,09:00:00,19,87,Terminal C,183
+291,Saturday,2024-11-02,21:09:00,November,161,Bus,Cash,Tunnel B,1,13.6,42.6,1.5,28.6,24.2,209,13:32:00,Auto,Paid,Bridge A,9,False,241,358,03:12:00,9,61,Bridge A,112
+291,Saturday,2024-11-02,21:09:00,November,161,Bus,Cash,Tunnel B,1,13.6,42.6,1.5,28.6,24.2,209,13:32:00,Auto,Paid,Bridge A,9,False,241,388,08:13:00,10,68,Bridge A,116
+291,Saturday,2024-11-02,21:09:00,November,161,Bus,Cash,Tunnel B,1,13.6,42.6,1.5,28.6,24.2,209,13:32:00,Auto,Paid,Bridge A,9,False,241,484,01:53:00,13,51,Bridge A,474
+291,Saturday,2024-11-02,21:09:00,November,161,Bus,Cash,Tunnel B,1,13.6,42.6,1.5,28.6,24.2,452,11:24:00,Bus,Paid,Bridge A,10,True,222,242,09:00:00,19,87,Terminal C,183
+291,Saturday,2024-11-02,21:09:00,November,161,Bus,Cash,Tunnel B,1,13.6,42.6,1.5,28.6,24.2,452,11:24:00,Bus,Paid,Bridge A,10,True,222,358,03:12:00,9,61,Bridge A,112
+291,Saturday,2024-11-02,21:09:00,November,161,Bus,Cash,Tunnel B,1,13.6,42.6,1.5,28.6,24.2,452,11:24:00,Bus,Paid,Bridge A,10,True,222,388,08:13:00,10,68,Bridge A,116
+291,Saturday,2024-11-02,21:09:00,November,161,Bus,Cash,Tunnel B,1,13.6,42.6,1.5,28.6,24.2,452,11:24:00,Bus,Paid,Bridge A,10,True,222,484,01:53:00,13,51,Bridge A,474
+292,Friday,2024-10-18,13:34:00,October,132,Bus,Cash,Terminal C,1,9.6,46.3,9.9,29.2,-1.6,72,10:25:00,Bus,Paid,Terminal C,4,True,61,166,11:22:00,14,78,Bridge A,19
+292,Friday,2024-10-18,13:34:00,October,132,Bus,Cash,Terminal C,1,9.6,46.3,9.9,29.2,-1.6,116,07:37:00,Small Truck,Unpaid,Bridge A,1,True,80,166,11:22:00,14,78,Bridge A,19
+292,Friday,2024-10-18,13:34:00,October,132,Bus,Cash,Terminal C,1,9.6,46.3,9.9,29.2,-1.6,154,17:45:00,Bus,Paid,Bridge A,1,False,178,166,11:22:00,14,78,Bridge A,19
+292,Friday,2024-10-18,13:34:00,October,132,Bus,Cash,Terminal C,1,9.6,46.3,9.9,29.2,-1.6,449,15:33:00,Auto,Paid,Tunnel B,1,True,302,166,11:22:00,14,78,Bridge A,19
+293,Wednesday,2024-01-24,04:20:00,January,413,Large Truck,Cash,Tunnel B,9,17.8,39.4,2.3,-7.3,-18.8,69,22:41:00,Small Truck,Paid,Tunnel B,2,True,73,141,20:08:00,15,77,Terminal C,457
+293,Wednesday,2024-01-24,04:20:00,January,413,Large Truck,Cash,Tunnel B,9,17.8,39.4,2.3,-7.3,-18.8,69,22:41:00,Small Truck,Paid,Tunnel B,2,True,73,215,23:11:00,10,10,Bridge A,366
+293,Wednesday,2024-01-24,04:20:00,January,413,Large Truck,Cash,Tunnel B,9,17.8,39.4,2.3,-7.3,-18.8,69,22:41:00,Small Truck,Paid,Tunnel B,2,True,73,236,03:45:00,14,29,Bridge A,251
+293,Wednesday,2024-01-24,04:20:00,January,413,Large Truck,Cash,Tunnel B,9,17.8,39.4,2.3,-7.3,-18.8,78,23:33:00,Bus,Paid,Terminal C,5,True,329,141,20:08:00,15,77,Terminal C,457
+293,Wednesday,2024-01-24,04:20:00,January,413,Large Truck,Cash,Tunnel B,9,17.8,39.4,2.3,-7.3,-18.8,78,23:33:00,Bus,Paid,Terminal C,5,True,329,215,23:11:00,10,10,Bridge A,366
+293,Wednesday,2024-01-24,04:20:00,January,413,Large Truck,Cash,Tunnel B,9,17.8,39.4,2.3,-7.3,-18.8,78,23:33:00,Bus,Paid,Terminal C,5,True,329,236,03:45:00,14,29,Bridge A,251
+293,Wednesday,2024-01-24,04:20:00,January,413,Large Truck,Cash,Tunnel B,9,17.8,39.4,2.3,-7.3,-18.8,311,04:51:00,Small Truck,Paid,Terminal C,6,False,40,141,20:08:00,15,77,Terminal C,457
+293,Wednesday,2024-01-24,04:20:00,January,413,Large Truck,Cash,Tunnel B,9,17.8,39.4,2.3,-7.3,-18.8,311,04:51:00,Small Truck,Paid,Terminal C,6,False,40,215,23:11:00,10,10,Bridge A,366
+293,Wednesday,2024-01-24,04:20:00,January,413,Large Truck,Cash,Tunnel B,9,17.8,39.4,2.3,-7.3,-18.8,311,04:51:00,Small Truck,Paid,Terminal C,6,False,40,236,03:45:00,14,29,Bridge A,251
+298,Friday,2024-01-12,03:42:00,January,381,Large Truck,EZ Pass,Terminal C,5,10.5,61.3,5.7,15.6,-1.6,54,09:29:00,Bus,Paid,Tunnel B,9,True,209,18,22:04:00,1,59,Bridge A,485
+298,Friday,2024-01-12,03:42:00,January,381,Large Truck,EZ Pass,Terminal C,5,10.5,61.3,5.7,15.6,-1.6,54,09:29:00,Bus,Paid,Tunnel B,9,True,209,56,08:08:00,15,33,Tunnel B,397
+301,Saturday,2024-10-26,21:20:00,October,412,Auto,EZ Pass,Terminal C,5,13.8,46.9,7.2,-8.9,-11.0,225,22:38:00,Small Truck,Unpaid,Bridge A,7,True,408,47,21:35:00,14,56,Terminal C,469
+301,Saturday,2024-10-26,21:20:00,October,412,Auto,EZ Pass,Terminal C,5,13.8,46.9,7.2,-8.9,-11.0,225,22:38:00,Small Truck,Unpaid,Bridge A,7,True,408,117,09:27:00,16,54,Terminal C,338
+301,Saturday,2024-10-26,21:20:00,October,412,Auto,EZ Pass,Terminal C,5,13.8,46.9,7.2,-8.9,-11.0,225,22:38:00,Small Truck,Unpaid,Bridge A,7,True,408,143,10:10:00,2,30,Tunnel B,390
+311,Wednesday,2024-05-22,15:15:00,May,245,Small Truck,Cash,Tunnel B,4,7.2,20.2,2.9,29.2,18.8,220,15:59:00,Large Truck,Paid,Terminal C,8,True,274,13,20:18:00,1,96,Terminal C,163
+311,Wednesday,2024-05-22,15:15:00,May,245,Small Truck,Cash,Tunnel B,4,7.2,20.2,2.9,29.2,18.8,220,15:59:00,Large Truck,Paid,Terminal C,8,True,274,148,07:55:00,15,44,Bridge A,297
+311,Wednesday,2024-05-22,15:15:00,May,245,Small Truck,Cash,Tunnel B,4,7.2,20.2,2.9,29.2,18.8,220,15:59:00,Large Truck,Paid,Terminal C,8,True,274,418,17:01:00,5,28,Tunnel B,413
+311,Wednesday,2024-05-22,15:15:00,May,245,Small Truck,Cash,Tunnel B,4,7.2,20.2,2.9,29.2,18.8,358,04:07:00,Large Truck,Paid,Bridge A,8,False,474,13,20:18:00,1,96,Terminal C,163
+311,Wednesday,2024-05-22,15:15:00,May,245,Small Truck,Cash,Tunnel B,4,7.2,20.2,2.9,29.2,18.8,358,04:07:00,Large Truck,Paid,Bridge A,8,False,474,148,07:55:00,15,44,Bridge A,297
+311,Wednesday,2024-05-22,15:15:00,May,245,Small Truck,Cash,Tunnel B,4,7.2,20.2,2.9,29.2,18.8,358,04:07:00,Large Truck,Paid,Bridge A,8,False,474,418,17:01:00,5,28,Tunnel B,413
+312,Thursday,2024-08-22,07:35:00,August,219,Large Truck,Cash,Tunnel B,6,16.3,68.8,9.5,8.3,26.2,323,02:40:00,Bus,Unpaid,Tunnel B,4,False,484,240,00:05:00,20,51,Terminal C,193
+312,Thursday,2024-08-22,07:35:00,August,219,Large Truck,Cash,Tunnel B,6,16.3,68.8,9.5,8.3,26.2,323,02:40:00,Bus,Unpaid,Tunnel B,4,False,484,263,00:22:00,3,59,Bridge A,176
+312,Thursday,2024-08-22,07:35:00,August,219,Large Truck,Cash,Tunnel B,6,16.3,68.8,9.5,8.3,26.2,485,13:53:00,Auto,Unpaid,Terminal C,2,False,308,240,00:05:00,20,51,Terminal C,193
+312,Thursday,2024-08-22,07:35:00,August,219,Large Truck,Cash,Tunnel B,6,16.3,68.8,9.5,8.3,26.2,485,13:53:00,Auto,Unpaid,Terminal C,2,False,308,263,00:22:00,3,59,Bridge A,176
+360,Thursday,2024-08-22,16:18:00,August,102,Bus,Cash,Bridge A,8,7.6,87.8,7.2,18.2,15.6,323,02:40:00,Bus,Unpaid,Tunnel B,4,False,484,240,00:05:00,20,51,Terminal C,193
+360,Thursday,2024-08-22,16:18:00,August,102,Bus,Cash,Bridge A,8,7.6,87.8,7.2,18.2,15.6,323,02:40:00,Bus,Unpaid,Tunnel B,4,False,484,263,00:22:00,3,59,Bridge A,176
+360,Thursday,2024-08-22,16:18:00,August,102,Bus,Cash,Bridge A,8,7.6,87.8,7.2,18.2,15.6,485,13:53:00,Auto,Unpaid,Terminal C,2,False,308,240,00:05:00,20,51,Terminal C,193
+360,Thursday,2024-08-22,16:18:00,August,102,Bus,Cash,Bridge A,8,7.6,87.8,7.2,18.2,15.6,485,13:53:00,Auto,Unpaid,Terminal C,2,False,308,263,00:22:00,3,59,Bridge A,176
+413,Thursday,2024-08-22,09:16:00,August,366,Small Truck,EZ Pass,Bridge A,5,10.9,2.4,9.2,3.4,20.1,323,02:40:00,Bus,Unpaid,Tunnel B,4,False,484,240,00:05:00,20,51,Terminal C,193
+413,Thursday,2024-08-22,09:16:00,August,366,Small Truck,EZ Pass,Bridge A,5,10.9,2.4,9.2,3.4,20.1,323,02:40:00,Bus,Unpaid,Tunnel B,4,False,484,263,00:22:00,3,59,Bridge A,176
+413,Thursday,2024-08-22,09:16:00,August,366,Small Truck,EZ Pass,Bridge A,5,10.9,2.4,9.2,3.4,20.1,485,13:53:00,Auto,Unpaid,Terminal C,2,False,308,240,00:05:00,20,51,Terminal C,193
+413,Thursday,2024-08-22,09:16:00,August,366,Small Truck,EZ Pass,Bridge A,5,10.9,2.4,9.2,3.4,20.1,485,13:53:00,Auto,Unpaid,Terminal C,2,False,308,263,00:22:00,3,59,Bridge A,176
+313,Friday,2024-07-26,11:11:00,July,93,Bus,EZ Pass,Bridge A,3,15.2,36.2,9.2,7.0,4.3,371,01:04:00,Large Truck,Unpaid,Tunnel B,1,True,131,64,21:39:00,6,13,Tunnel B,58
+313,Friday,2024-07-26,11:11:00,July,93,Bus,EZ Pass,Bridge A,3,15.2,36.2,9.2,7.0,4.3,371,01:04:00,Large Truck,Unpaid,Tunnel B,1,True,131,80,13:39:00,12,85,Bridge A,131
+313,Friday,2024-07-26,11:11:00,July,93,Bus,EZ Pass,Bridge A,3,15.2,36.2,9.2,7.0,4.3,371,01:04:00,Large Truck,Unpaid,Tunnel B,1,True,131,251,16:05:00,6,38,Bridge A,370
+313,Friday,2024-07-26,11:11:00,July,93,Bus,EZ Pass,Bridge A,3,15.2,36.2,9.2,7.0,4.3,416,23:05:00,Bus,Paid,Terminal C,7,True,204,64,21:39:00,6,13,Tunnel B,58
+313,Friday,2024-07-26,11:11:00,July,93,Bus,EZ Pass,Bridge A,3,15.2,36.2,9.2,7.0,4.3,416,23:05:00,Bus,Paid,Terminal C,7,True,204,80,13:39:00,12,85,Bridge A,131
+313,Friday,2024-07-26,11:11:00,July,93,Bus,EZ Pass,Bridge A,3,15.2,36.2,9.2,7.0,4.3,416,23:05:00,Bus,Paid,Terminal C,7,True,204,251,16:05:00,6,38,Bridge A,370
+317,Thursday,2024-09-05,06:20:00,September,304,Bus,EZ Pass,Terminal C,10,5.5,22.6,4.7,12.5,-15.0,115,00:51:00,Small Truck,Paid,Tunnel B,6,True,470,329,06:40:00,19,31,Terminal C,382
+317,Thursday,2024-09-05,06:20:00,September,304,Bus,EZ Pass,Terminal C,10,5.5,22.6,4.7,12.5,-15.0,438,20:07:00,Large Truck,Paid,Tunnel B,5,False,142,329,06:40:00,19,31,Terminal C,382
+317,Thursday,2024-09-05,06:20:00,September,304,Bus,EZ Pass,Terminal C,10,5.5,22.6,4.7,12.5,-15.0,493,16:35:00,Bus,Unpaid,Bridge A,1,True,111,329,06:40:00,19,31,Terminal C,382
+318,Sunday,2024-01-07,10:27:00,January,109,Bus,EZ Pass,Tunnel B,3,1.3,2.8,9.8,29.5,-10.9,47,07:04:00,Large Truck,Unpaid,Terminal C,2,False,420,160,07:12:00,1,40,Bridge A,422
+318,Sunday,2024-01-07,10:27:00,January,109,Bus,EZ Pass,Tunnel B,3,1.3,2.8,9.8,29.5,-10.9,470,21:38:00,Bus,Unpaid,Tunnel B,9,True,108,160,07:12:00,1,40,Bridge A,422
+345,Sunday,2024-01-07,14:16:00,January,139,Auto,Cash,Terminal C,4,2.5,45.3,5.4,4.1,18.6,47,07:04:00,Large Truck,Unpaid,Terminal C,2,False,420,160,07:12:00,1,40,Bridge A,422
+345,Sunday,2024-01-07,14:16:00,January,139,Auto,Cash,Terminal C,4,2.5,45.3,5.4,4.1,18.6,470,21:38:00,Bus,Unpaid,Tunnel B,9,True,108,160,07:12:00,1,40,Bridge A,422
+331,Sunday,2024-12-01,15:15:00,December,445,Large Truck,Cash,Bridge A,5,5.1,84.2,2.7,19.4,15.0,137,23:08:00,Large Truck,Unpaid,Terminal C,8,True,272,461,22:04:00,8,21,Terminal C,83
+331,Sunday,2024-12-01,15:15:00,December,445,Large Truck,Cash,Bridge A,5,5.1,84.2,2.7,19.4,15.0,283,01:59:00,Auto,Unpaid,Terminal C,7,True,157,461,22:04:00,8,21,Terminal C,83
+331,Sunday,2024-12-01,15:15:00,December,445,Large Truck,Cash,Bridge A,5,5.1,84.2,2.7,19.4,15.0,306,15:03:00,Auto,Unpaid,Terminal C,6,False,396,461,22:04:00,8,21,Terminal C,83
+337,Saturday,2024-06-15,06:27:00,June,389,Auto,Cash,Tunnel B,8,18.3,7.5,8.4,29.1,-2.6,40,03:33:00,Large Truck,Paid,Bridge A,7,True,432,168,13:38:00,11,63,Tunnel B,53
+337,Saturday,2024-06-15,06:27:00,June,389,Auto,Cash,Tunnel B,8,18.3,7.5,8.4,29.1,-2.6,299,01:44:00,Bus,Unpaid,Bridge A,2,False,331,168,13:38:00,11,63,Tunnel B,53
+455,Saturday,2024-06-15,20:31:00,June,210,Small Truck,Cash,Bridge A,5,14.8,72.9,4.6,12.1,14.4,40,03:33:00,Large Truck,Paid,Bridge A,7,True,432,168,13:38:00,11,63,Tunnel B,53
+455,Saturday,2024-06-15,20:31:00,June,210,Small Truck,Cash,Bridge A,5,14.8,72.9,4.6,12.1,14.4,299,01:44:00,Bus,Unpaid,Bridge A,2,False,331,168,13:38:00,11,63,Tunnel B,53
+344,Sunday,2024-04-14,02:31:00,April,341,Small Truck,EZ Pass,Tunnel B,9,1.1,60.2,6.9,27.7,29.6,55,14:33:00,Small Truck,Unpaid,Tunnel B,1,True,91,289,10:54:00,17,89,Tunnel B,162
+344,Sunday,2024-04-14,02:31:00,April,341,Small Truck,EZ Pass,Tunnel B,9,1.1,60.2,6.9,27.7,29.6,55,14:33:00,Small Truck,Unpaid,Tunnel B,1,True,91,295,06:21:00,7,23,Terminal C,413
+344,Sunday,2024-04-14,02:31:00,April,341,Small Truck,EZ Pass,Tunnel B,9,1.1,60.2,6.9,27.7,29.6,55,14:33:00,Small Truck,Unpaid,Tunnel B,1,True,91,381,22:51:00,9,90,Tunnel B,458
+344,Sunday,2024-04-14,02:31:00,April,341,Small Truck,EZ Pass,Tunnel B,9,1.1,60.2,6.9,27.7,29.6,123,09:55:00,Bus,Paid,Tunnel B,7,False,84,289,10:54:00,17,89,Tunnel B,162
+344,Sunday,2024-04-14,02:31:00,April,341,Small Truck,EZ Pass,Tunnel B,9,1.1,60.2,6.9,27.7,29.6,123,09:55:00,Bus,Paid,Tunnel B,7,False,84,295,06:21:00,7,23,Terminal C,413
+344,Sunday,2024-04-14,02:31:00,April,341,Small Truck,EZ Pass,Tunnel B,9,1.1,60.2,6.9,27.7,29.6,123,09:55:00,Bus,Paid,Tunnel B,7,False,84,381,22:51:00,9,90,Tunnel B,458
+344,Sunday,2024-04-14,02:31:00,April,341,Small Truck,EZ Pass,Tunnel B,9,1.1,60.2,6.9,27.7,29.6,179,19:13:00,Auto,Unpaid,Terminal C,4,True,476,289,10:54:00,17,89,Tunnel B,162
+344,Sunday,2024-04-14,02:31:00,April,341,Small Truck,EZ Pass,Tunnel B,9,1.1,60.2,6.9,27.7,29.6,179,19:13:00,Auto,Unpaid,Terminal C,4,True,476,295,06:21:00,7,23,Terminal C,413
+344,Sunday,2024-04-14,02:31:00,April,341,Small Truck,EZ Pass,Tunnel B,9,1.1,60.2,6.9,27.7,29.6,179,19:13:00,Auto,Unpaid,Terminal C,4,True,476,381,22:51:00,9,90,Tunnel B,458
+349,Sunday,2024-04-14,21:10:00,April,245,Auto,Cash,Terminal C,3,10.9,63.8,8.0,20.0,24.3,55,14:33:00,Small Truck,Unpaid,Tunnel B,1,True,91,289,10:54:00,17,89,Tunnel B,162
+349,Sunday,2024-04-14,21:10:00,April,245,Auto,Cash,Terminal C,3,10.9,63.8,8.0,20.0,24.3,55,14:33:00,Small Truck,Unpaid,Tunnel B,1,True,91,295,06:21:00,7,23,Terminal C,413
+349,Sunday,2024-04-14,21:10:00,April,245,Auto,Cash,Terminal C,3,10.9,63.8,8.0,20.0,24.3,55,14:33:00,Small Truck,Unpaid,Tunnel B,1,True,91,381,22:51:00,9,90,Tunnel B,458
+349,Sunday,2024-04-14,21:10:00,April,245,Auto,Cash,Terminal C,3,10.9,63.8,8.0,20.0,24.3,123,09:55:00,Bus,Paid,Tunnel B,7,False,84,289,10:54:00,17,89,Tunnel B,162
+349,Sunday,2024-04-14,21:10:00,April,245,Auto,Cash,Terminal C,3,10.9,63.8,8.0,20.0,24.3,123,09:55:00,Bus,Paid,Tunnel B,7,False,84,295,06:21:00,7,23,Terminal C,413
+349,Sunday,2024-04-14,21:10:00,April,245,Auto,Cash,Terminal C,3,10.9,63.8,8.0,20.0,24.3,123,09:55:00,Bus,Paid,Tunnel B,7,False,84,381,22:51:00,9,90,Tunnel B,458
+349,Sunday,2024-04-14,21:10:00,April,245,Auto,Cash,Terminal C,3,10.9,63.8,8.0,20.0,24.3,179,19:13:00,Auto,Unpaid,Terminal C,4,True,476,289,10:54:00,17,89,Tunnel B,162
+349,Sunday,2024-04-14,21:10:00,April,245,Auto,Cash,Terminal C,3,10.9,63.8,8.0,20.0,24.3,179,19:13:00,Auto,Unpaid,Terminal C,4,True,476,295,06:21:00,7,23,Terminal C,413
+349,Sunday,2024-04-14,21:10:00,April,245,Auto,Cash,Terminal C,3,10.9,63.8,8.0,20.0,24.3,179,19:13:00,Auto,Unpaid,Terminal C,4,True,476,381,22:51:00,9,90,Tunnel B,458
+348,Saturday,2024-01-06,06:22:00,January,265,Bus,EZ Pass,Bridge A,10,9.8,55.3,5.7,-2.6,-0.3,79,06:09:00,Small Truck,Paid,Tunnel B,7,False,414,352,00:32:00,12,29,Bridge A,389
+352,Sunday,2024-12-08,06:12:00,December,189,Small Truck,Cash,Bridge A,7,12.2,27.7,6.4,23.0,-12.5,107,16:22:00,Small Truck,Unpaid,Tunnel B,10,True,112,254,16:58:00,13,70,Terminal C,142
+352,Sunday,2024-12-08,06:12:00,December,189,Small Truck,Cash,Bridge A,7,12.2,27.7,6.4,23.0,-12.5,107,16:22:00,Small Truck,Unpaid,Tunnel B,10,True,112,353,16:52:00,5,19,Terminal C,26
+352,Sunday,2024-12-08,06:12:00,December,189,Small Truck,Cash,Bridge A,7,12.2,27.7,6.4,23.0,-12.5,107,16:22:00,Small Truck,Unpaid,Tunnel B,10,True,112,383,22:29:00,19,54,Terminal C,209
+352,Sunday,2024-12-08,06:12:00,December,189,Small Truck,Cash,Bridge A,7,12.2,27.7,6.4,23.0,-12.5,107,16:22:00,Small Truck,Unpaid,Tunnel B,10,True,112,426,22:36:00,13,52,Tunnel B,114
+352,Sunday,2024-12-08,06:12:00,December,189,Small Truck,Cash,Bridge A,7,12.2,27.7,6.4,23.0,-12.5,107,16:22:00,Small Truck,Unpaid,Tunnel B,10,True,112,445,15:30:00,17,80,Bridge A,12
+352,Sunday,2024-12-08,06:12:00,December,189,Small Truck,Cash,Bridge A,7,12.2,27.7,6.4,23.0,-12.5,415,09:23:00,Auto,Paid,Bridge A,5,False,377,254,16:58:00,13,70,Terminal C,142
+352,Sunday,2024-12-08,06:12:00,December,189,Small Truck,Cash,Bridge A,7,12.2,27.7,6.4,23.0,-12.5,415,09:23:00,Auto,Paid,Bridge A,5,False,377,353,16:52:00,5,19,Terminal C,26
+352,Sunday,2024-12-08,06:12:00,December,189,Small Truck,Cash,Bridge A,7,12.2,27.7,6.4,23.0,-12.5,415,09:23:00,Auto,Paid,Bridge A,5,False,377,383,22:29:00,19,54,Terminal C,209
+352,Sunday,2024-12-08,06:12:00,December,189,Small Truck,Cash,Bridge A,7,12.2,27.7,6.4,23.0,-12.5,415,09:23:00,Auto,Paid,Bridge A,5,False,377,426,22:36:00,13,52,Tunnel B,114
+352,Sunday,2024-12-08,06:12:00,December,189,Small Truck,Cash,Bridge A,7,12.2,27.7,6.4,23.0,-12.5,415,09:23:00,Auto,Paid,Bridge A,5,False,377,445,15:30:00,17,80,Bridge A,12
+354,Monday,2024-01-15,06:12:00,January,224,Bus,EZ Pass,Terminal C,3,8.1,13.8,1.2,8.3,11.6,447,05:57:00,Large Truck,Paid,Bridge A,2,False,161,42,23:15:00,19,27,Terminal C,379
+379,Monday,2024-01-15,01:20:00,January,347,Bus,Cash,Tunnel B,1,9.5,14.7,4.7,32.3,21.2,447,05:57:00,Large Truck,Paid,Bridge A,2,False,161,42,23:15:00,19,27,Terminal C,379
+356,Wednesday,2024-07-10,14:06:00,July,200,Bus,EZ Pass,Bridge A,10,6.9,9.4,0.9,29.2,-9.8,17,14:05:00,Small Truck,Unpaid,Tunnel B,4,False,352,165,03:45:00,18,12,Terminal C,249
+356,Wednesday,2024-07-10,14:06:00,July,200,Bus,EZ Pass,Bridge A,10,6.9,9.4,0.9,29.2,-9.8,76,02:05:00,Bus,Unpaid,Terminal C,7,False,304,165,03:45:00,18,12,Terminal C,249
+356,Wednesday,2024-07-10,14:06:00,July,200,Bus,EZ Pass,Bridge A,10,6.9,9.4,0.9,29.2,-9.8,487,04:28:00,Small Truck,Paid,Terminal C,8,False,68,165,03:45:00,18,12,Terminal C,249
+485,Wednesday,2024-07-10,12:14:00,July,311,Large Truck,EZ Pass,Bridge A,8,15.8,68.4,3.8,18.6,27.3,17,14:05:00,Small Truck,Unpaid,Tunnel B,4,False,352,165,03:45:00,18,12,Terminal C,249
+485,Wednesday,2024-07-10,12:14:00,July,311,Large Truck,EZ Pass,Bridge A,8,15.8,68.4,3.8,18.6,27.3,76,02:05:00,Bus,Unpaid,Terminal C,7,False,304,165,03:45:00,18,12,Terminal C,249
+485,Wednesday,2024-07-10,12:14:00,July,311,Large Truck,EZ Pass,Bridge A,8,15.8,68.4,3.8,18.6,27.3,487,04:28:00,Small Truck,Paid,Terminal C,8,False,68,165,03:45:00,18,12,Terminal C,249
+357,Saturday,2024-12-21,06:16:00,December,327,Auto,Cash,Tunnel B,10,17.8,52.0,9.4,28.7,-3.2,104,10:13:00,Bus,Paid,Terminal C,1,True,210,231,22:28:00,12,25,Terminal C,179
+363,Friday,2024-03-08,01:51:00,March,286,Bus,Cash,Terminal C,7,5.3,98.4,6.2,25.2,-8.7,166,02:42:00,Small Truck,Paid,Terminal C,9,True,335,123,16:25:00,5,32,Terminal C,314
+363,Friday,2024-03-08,01:51:00,March,286,Bus,Cash,Terminal C,7,5.3,98.4,6.2,25.2,-8.7,166,02:42:00,Small Truck,Paid,Terminal C,9,True,335,305,15:32:00,3,83,Bridge A,462
+363,Friday,2024-03-08,01:51:00,March,286,Bus,Cash,Terminal C,7,5.3,98.4,6.2,25.2,-8.7,166,02:42:00,Small Truck,Paid,Terminal C,9,True,335,494,13:59:00,7,56,Terminal C,377
+363,Friday,2024-03-08,01:51:00,March,286,Bus,Cash,Terminal C,7,5.3,98.4,6.2,25.2,-8.7,241,00:32:00,Small Truck,Paid,Tunnel B,4,False,372,123,16:25:00,5,32,Terminal C,314
+363,Friday,2024-03-08,01:51:00,March,286,Bus,Cash,Terminal C,7,5.3,98.4,6.2,25.2,-8.7,241,00:32:00,Small Truck,Paid,Tunnel B,4,False,372,305,15:32:00,3,83,Bridge A,462
+363,Friday,2024-03-08,01:51:00,March,286,Bus,Cash,Terminal C,7,5.3,98.4,6.2,25.2,-8.7,241,00:32:00,Small Truck,Paid,Tunnel B,4,False,372,494,13:59:00,7,56,Terminal C,377
+363,Friday,2024-03-08,01:51:00,March,286,Bus,Cash,Terminal C,7,5.3,98.4,6.2,25.2,-8.7,270,23:14:00,Auto,Unpaid,Bridge A,4,True,180,123,16:25:00,5,32,Terminal C,314
+363,Friday,2024-03-08,01:51:00,March,286,Bus,Cash,Terminal C,7,5.3,98.4,6.2,25.2,-8.7,270,23:14:00,Auto,Unpaid,Bridge A,4,True,180,305,15:32:00,3,83,Bridge A,462
+363,Friday,2024-03-08,01:51:00,March,286,Bus,Cash,Terminal C,7,5.3,98.4,6.2,25.2,-8.7,270,23:14:00,Auto,Unpaid,Bridge A,4,True,180,494,13:59:00,7,56,Terminal C,377
+364,Sunday,2024-11-24,04:52:00,November,78,Small Truck,Cash,Tunnel B,7,13.7,24.5,2.8,32.6,20.4,142,23:55:00,Auto,Paid,Tunnel B,6,False,80,151,18:10:00,6,34,Tunnel B,275
+364,Sunday,2024-11-24,04:52:00,November,78,Small Truck,Cash,Tunnel B,7,13.7,24.5,2.8,32.6,20.4,142,23:55:00,Auto,Paid,Tunnel B,6,False,80,486,10:10:00,12,84,Tunnel B,210
+364,Sunday,2024-11-24,04:52:00,November,78,Small Truck,Cash,Tunnel B,7,13.7,24.5,2.8,32.6,20.4,181,02:07:00,Small Truck,Unpaid,Bridge A,6,True,463,151,18:10:00,6,34,Tunnel B,275
+364,Sunday,2024-11-24,04:52:00,November,78,Small Truck,Cash,Tunnel B,7,13.7,24.5,2.8,32.6,20.4,181,02:07:00,Small Truck,Unpaid,Bridge A,6,True,463,486,10:10:00,12,84,Tunnel B,210
+365,Sunday,2024-05-26,18:57:00,May,437,Large Truck,EZ Pass,Bridge A,9,6.2,53.9,8.4,-7.8,-19.2,233,13:45:00,Large Truck,Paid,Tunnel B,10,False,61,48,22:15:00,1,51,Tunnel B,393
+365,Sunday,2024-05-26,18:57:00,May,437,Large Truck,EZ Pass,Bridge A,9,6.2,53.9,8.4,-7.8,-19.2,233,13:45:00,Large Truck,Paid,Tunnel B,10,False,61,50,11:13:00,8,87,Bridge A,399
+365,Sunday,2024-05-26,18:57:00,May,437,Large Truck,EZ Pass,Bridge A,9,6.2,53.9,8.4,-7.8,-19.2,422,21:36:00,Bus,Unpaid,Terminal C,10,False,32,48,22:15:00,1,51,Tunnel B,393
+365,Sunday,2024-05-26,18:57:00,May,437,Large Truck,EZ Pass,Bridge A,9,6.2,53.9,8.4,-7.8,-19.2,422,21:36:00,Bus,Unpaid,Terminal C,10,False,32,50,11:13:00,8,87,Bridge A,399
+368,Sunday,2024-01-14,10:05:00,January,109,Large Truck,Cash,Bridge A,2,8.1,93.0,5.2,24.4,25.2,49,08:17:00,Large Truck,Unpaid,Bridge A,3,True,202,238,21:56:00,13,71,Bridge A,439
+368,Sunday,2024-01-14,10:05:00,January,109,Large Truck,Cash,Bridge A,2,8.1,93.0,5.2,24.4,25.2,49,08:17:00,Large Truck,Unpaid,Bridge A,3,True,202,487,02:33:00,2,18,Tunnel B,402
+368,Sunday,2024-01-14,10:05:00,January,109,Large Truck,Cash,Bridge A,2,8.1,93.0,5.2,24.4,25.2,341,05:24:00,Large Truck,Paid,Tunnel B,3,True,269,238,21:56:00,13,71,Bridge A,439
+368,Sunday,2024-01-14,10:05:00,January,109,Large Truck,Cash,Bridge A,2,8.1,93.0,5.2,24.4,25.2,341,05:24:00,Large Truck,Paid,Tunnel B,3,True,269,487,02:33:00,2,18,Tunnel B,402
+368,Sunday,2024-01-14,10:05:00,January,109,Large Truck,Cash,Bridge A,2,8.1,93.0,5.2,24.4,25.2,463,22:42:00,Bus,Unpaid,Bridge A,7,True,211,238,21:56:00,13,71,Bridge A,439
+368,Sunday,2024-01-14,10:05:00,January,109,Large Truck,Cash,Bridge A,2,8.1,93.0,5.2,24.4,25.2,463,22:42:00,Bus,Unpaid,Bridge A,7,True,211,487,02:33:00,2,18,Tunnel B,402
+368,Sunday,2024-01-14,10:05:00,January,109,Large Truck,Cash,Bridge A,2,8.1,93.0,5.2,24.4,25.2,499,14:15:00,Bus,Paid,Terminal C,1,False,306,238,21:56:00,13,71,Bridge A,439
+368,Sunday,2024-01-14,10:05:00,January,109,Large Truck,Cash,Bridge A,2,8.1,93.0,5.2,24.4,25.2,499,14:15:00,Bus,Paid,Terminal C,1,False,306,487,02:33:00,2,18,Tunnel B,402
+370,Sunday,2024-11-17,23:31:00,November,384,Small Truck,Cash,Terminal C,3,2.3,99.0,4.9,14.5,-5.8,186,07:43:00,Auto,Paid,Tunnel B,1,True,282,271,19:16:00,13,45,Bridge A,260
+390,Saturday,2024-01-27,10:26:00,January,373,Bus,Cash,Tunnel B,9,19.3,0.8,4.6,23.6,16.1,94,14:12:00,Small Truck,Unpaid,Bridge A,4,True,41,332,21:58:00,11,70,Tunnel B,433
+390,Saturday,2024-01-27,10:26:00,January,373,Bus,Cash,Tunnel B,9,19.3,0.8,4.6,23.6,16.1,178,18:48:00,Small Truck,Paid,Bridge A,6,True,54,332,21:58:00,11,70,Tunnel B,433
+390,Saturday,2024-01-27,10:26:00,January,373,Bus,Cash,Tunnel B,9,19.3,0.8,4.6,23.6,16.1,259,21:25:00,Bus,Unpaid,Bridge A,2,False,202,332,21:58:00,11,70,Tunnel B,433
+390,Saturday,2024-01-27,10:26:00,January,373,Bus,Cash,Tunnel B,9,19.3,0.8,4.6,23.6,16.1,437,20:03:00,Small Truck,Paid,Bridge A,10,False,387,332,21:58:00,11,70,Tunnel B,433
+405,Saturday,2024-01-27,13:06:00,January,447,Bus,EZ Pass,Tunnel B,1,5.4,8.1,7.1,28.4,-17.8,94,14:12:00,Small Truck,Unpaid,Bridge A,4,True,41,332,21:58:00,11,70,Tunnel B,433
+405,Saturday,2024-01-27,13:06:00,January,447,Bus,EZ Pass,Tunnel B,1,5.4,8.1,7.1,28.4,-17.8,178,18:48:00,Small Truck,Paid,Bridge A,6,True,54,332,21:58:00,11,70,Tunnel B,433
+405,Saturday,2024-01-27,13:06:00,January,447,Bus,EZ Pass,Tunnel B,1,5.4,8.1,7.1,28.4,-17.8,259,21:25:00,Bus,Unpaid,Bridge A,2,False,202,332,21:58:00,11,70,Tunnel B,433
+405,Saturday,2024-01-27,13:06:00,January,447,Bus,EZ Pass,Tunnel B,1,5.4,8.1,7.1,28.4,-17.8,437,20:03:00,Small Truck,Paid,Bridge A,10,False,387,332,21:58:00,11,70,Tunnel B,433
+395,Thursday,2024-05-30,22:54:00,May,498,Small Truck,EZ Pass,Tunnel B,10,16.1,54.8,8.0,-2.0,19.7,87,06:39:00,Auto,Paid,Tunnel B,6,True,128,111,13:41:00,12,86,Bridge A,309
+395,Thursday,2024-05-30,22:54:00,May,498,Small Truck,EZ Pass,Tunnel B,10,16.1,54.8,8.0,-2.0,19.7,204,16:23:00,Large Truck,Paid,Terminal C,9,True,189,111,13:41:00,12,86,Bridge A,309
+397,Tuesday,2024-09-17,19:14:00,September,52,Auto,EZ Pass,Bridge A,1,6.6,0.4,1.2,12.7,-18.3,245,19:59:00,Large Truck,Paid,Bridge A,7,False,271,172,09:06:00,20,47,Terminal C,36
+400,Tuesday,2024-08-06,15:28:00,August,385,Large Truck,EZ Pass,Terminal C,4,2.3,60.2,4.8,19.4,-19.0,184,18:57:00,Large Truck,Paid,Tunnel B,1,False,318,169,14:49:00,3,36,Terminal C,318
+400,Tuesday,2024-08-06,15:28:00,August,385,Large Truck,EZ Pass,Terminal C,4,2.3,60.2,4.8,19.4,-19.0,184,18:57:00,Large Truck,Paid,Tunnel B,1,False,318,279,12:10:00,14,72,Terminal C,345
+402,Sunday,2024-10-20,12:03:00,October,464,Bus,Cash,Tunnel B,10,1.5,40.3,7.0,33.6,5.0,476,22:59:00,Small Truck,Paid,Bridge A,2,False,246,367,20:25:00,7,43,Terminal C,327
+403,Tuesday,2024-07-23,15:27:00,July,257,Small Truck,EZ Pass,Tunnel B,7,17.6,12.5,3.3,17.4,19.9,247,00:07:00,Bus,Paid,Tunnel B,4,True,355,396,16:30:00,7,23,Tunnel B,337
+403,Tuesday,2024-07-23,15:27:00,July,257,Small Truck,EZ Pass,Tunnel B,7,17.6,12.5,3.3,17.4,19.9,247,00:07:00,Bus,Paid,Tunnel B,4,True,355,422,18:43:00,8,77,Tunnel B,465
+463,Tuesday,2024-07-23,12:10:00,July,352,Large Truck,EZ Pass,Bridge A,6,16.7,63.2,2.6,18.8,-17.9,247,00:07:00,Bus,Paid,Tunnel B,4,True,355,396,16:30:00,7,23,Tunnel B,337
+463,Tuesday,2024-07-23,12:10:00,July,352,Large Truck,EZ Pass,Bridge A,6,16.7,63.2,2.6,18.8,-17.9,247,00:07:00,Bus,Paid,Tunnel B,4,True,355,422,18:43:00,8,77,Tunnel B,465
+411,Saturday,2024-05-25,14:24:00,May,183,Bus,Cash,Tunnel B,7,12.8,50.6,8.5,2.8,20.0,96,09:51:00,Small Truck,Paid,Bridge A,9,False,479,265,03:07:00,7,38,Terminal C,194
+411,Saturday,2024-05-25,14:24:00,May,183,Bus,Cash,Tunnel B,7,12.8,50.6,8.5,2.8,20.0,96,09:51:00,Small Truck,Paid,Bridge A,9,False,479,326,04:26:00,19,20,Terminal C,408
+419,Wednesday,2024-07-24,05:50:00,July,349,Bus,EZ Pass,Tunnel B,5,19.9,90.7,9.5,23.7,-9.2,100,11:22:00,Small Truck,Unpaid,Bridge A,3,False,57,458,15:08:00,12,35,Terminal C,411
+419,Wednesday,2024-07-24,05:50:00,July,349,Bus,EZ Pass,Tunnel B,5,19.9,90.7,9.5,23.7,-9.2,118,05:52:00,Small Truck,Paid,Bridge A,9,True,54,458,15:08:00,12,35,Terminal C,411
+419,Wednesday,2024-07-24,05:50:00,July,349,Bus,EZ Pass,Tunnel B,5,19.9,90.7,9.5,23.7,-9.2,134,04:43:00,Small Truck,Unpaid,Bridge A,5,False,471,458,15:08:00,12,35,Terminal C,411
+419,Wednesday,2024-07-24,05:50:00,July,349,Bus,EZ Pass,Tunnel B,5,19.9,90.7,9.5,23.7,-9.2,189,17:57:00,Bus,Unpaid,Bridge A,10,True,186,458,15:08:00,12,35,Terminal C,411
+423,Friday,2024-09-27,03:10:00,September,96,Auto,EZ Pass,Terminal C,5,9.3,60.7,4.8,33.9,18.8,13,19:31:00,Small Truck,Unpaid,Bridge A,8,False,180,147,18:41:00,1,20,Terminal C,417
+423,Friday,2024-09-27,03:10:00,September,96,Auto,EZ Pass,Terminal C,5,9.3,60.7,4.8,33.9,18.8,13,19:31:00,Small Truck,Unpaid,Bridge A,8,False,180,318,11:57:00,6,85,Tunnel B,245
+423,Friday,2024-09-27,03:10:00,September,96,Auto,EZ Pass,Terminal C,5,9.3,60.7,4.8,33.9,18.8,13,19:31:00,Small Truck,Unpaid,Bridge A,8,False,180,384,10:32:00,15,37,Terminal C,267
+448,Friday,2024-09-27,02:42:00,September,404,Auto,Cash,Terminal C,2,5.3,41.3,2.3,10.4,-5.2,13,19:31:00,Small Truck,Unpaid,Bridge A,8,False,180,147,18:41:00,1,20,Terminal C,417
+448,Friday,2024-09-27,02:42:00,September,404,Auto,Cash,Terminal C,2,5.3,41.3,2.3,10.4,-5.2,13,19:31:00,Small Truck,Unpaid,Bridge A,8,False,180,318,11:57:00,6,85,Tunnel B,245
+448,Friday,2024-09-27,02:42:00,September,404,Auto,Cash,Terminal C,2,5.3,41.3,2.3,10.4,-5.2,13,19:31:00,Small Truck,Unpaid,Bridge A,8,False,180,384,10:32:00,15,37,Terminal C,267
+426,Friday,2024-04-19,06:04:00,April,449,Bus,Cash,Tunnel B,7,10.6,86.4,7.5,33.8,0.5,19,01:31:00,Bus,Unpaid,Terminal C,7,False,58,205,07:19:00,6,61,Bridge A,242
+426,Friday,2024-04-19,06:04:00,April,449,Bus,Cash,Tunnel B,7,10.6,86.4,7.5,33.8,0.5,19,01:31:00,Bus,Unpaid,Terminal C,7,False,58,390,11:40:00,9,85,Tunnel B,205
+426,Friday,2024-04-19,06:04:00,April,449,Bus,Cash,Tunnel B,7,10.6,86.4,7.5,33.8,0.5,369,03:39:00,Small Truck,Paid,Bridge A,2,False,455,205,07:19:00,6,61,Bridge A,242
+426,Friday,2024-04-19,06:04:00,April,449,Bus,Cash,Tunnel B,7,10.6,86.4,7.5,33.8,0.5,369,03:39:00,Small Truck,Paid,Bridge A,2,False,455,390,11:40:00,9,85,Tunnel B,205
+431,Saturday,2024-03-09,00:09:00,March,164,Bus,EZ Pass,Terminal C,7,12.9,74.2,4.2,32.5,8.4,23,05:57:00,Large Truck,Unpaid,Tunnel B,2,False,102,89,16:39:00,20,57,Tunnel B,10
+431,Saturday,2024-03-09,00:09:00,March,164,Bus,EZ Pass,Terminal C,7,12.9,74.2,4.2,32.5,8.4,139,06:06:00,Large Truck,Unpaid,Terminal C,4,True,181,89,16:39:00,20,57,Tunnel B,10
+433,Thursday,2024-03-28,08:37:00,March,456,Large Truck,Cash,Tunnel B,4,17.3,74.0,2.1,19.5,-15.0,37,13:05:00,Bus,Paid,Tunnel B,7,False,421,283,08:29:00,16,34,Bridge A,248
+464,Thursday,2024-03-28,12:13:00,March,189,Bus,EZ Pass,Bridge A,7,7.1,20.0,3.7,25.7,-9.7,37,13:05:00,Bus,Paid,Tunnel B,7,False,421,283,08:29:00,16,34,Bridge A,248
+435,Wednesday,2024-08-28,03:33:00,August,287,Small Truck,EZ Pass,Tunnel B,6,10.1,50.6,1.7,-1.5,18.4,405,06:22:00,Bus,Unpaid,Bridge A,2,True,324,475,19:21:00,2,25,Terminal C,5
+447,Wednesday,2024-08-28,02:42:00,August,79,Small Truck,Cash,Tunnel B,10,6.6,24.1,8.0,22.9,25.9,405,06:22:00,Bus,Unpaid,Bridge A,2,True,324,475,19:21:00,2,25,Terminal C,5
+440,Sunday,2024-01-28,11:03:00,January,328,Small Truck,Cash,Bridge A,3,10.1,74.1,8.4,34.0,-11.8,24,10:43:00,Large Truck,Paid,Terminal C,5,False,448,22,01:40:00,13,100,Terminal C,425
+440,Sunday,2024-01-28,11:03:00,January,328,Small Truck,Cash,Bridge A,3,10.1,74.1,8.4,34.0,-11.8,65,07:36:00,Large Truck,Paid,Bridge A,9,False,107,22,01:40:00,13,100,Terminal C,425
+442,Monday,2024-11-11,12:07:00,November,221,Bus,Cash,Tunnel B,10,1.0,83.9,6.7,18.7,29.0,167,06:41:00,Small Truck,Unpaid,Tunnel B,4,True,107,87,17:02:00,6,63,Bridge A,214
+442,Monday,2024-11-11,12:07:00,November,221,Bus,Cash,Tunnel B,10,1.0,83.9,6.7,18.7,29.0,167,06:41:00,Small Truck,Unpaid,Tunnel B,4,True,107,416,23:42:00,9,22,Bridge A,129
+442,Monday,2024-11-11,12:07:00,November,221,Bus,Cash,Tunnel B,10,1.0,83.9,6.7,18.7,29.0,345,03:23:00,Large Truck,Unpaid,Bridge A,1,False,195,87,17:02:00,6,63,Bridge A,214
+442,Monday,2024-11-11,12:07:00,November,221,Bus,Cash,Tunnel B,10,1.0,83.9,6.7,18.7,29.0,345,03:23:00,Large Truck,Unpaid,Bridge A,1,False,195,416,23:42:00,9,22,Bridge A,129
+450,Friday,2024-07-05,11:31:00,July,303,Large Truck,Cash,Terminal C,9,5.3,67.3,8.5,29.9,-10.9,379,10:04:00,Bus,Unpaid,Terminal C,6,True,38,161,13:30:00,10,14,Bridge A,452
+450,Friday,2024-07-05,11:31:00,July,303,Large Truck,Cash,Terminal C,9,5.3,67.3,8.5,29.9,-10.9,379,10:04:00,Bus,Unpaid,Terminal C,6,True,38,303,00:18:00,13,11,Bridge A,79
+450,Friday,2024-07-05,11:31:00,July,303,Large Truck,Cash,Terminal C,9,5.3,67.3,8.5,29.9,-10.9,379,10:04:00,Bus,Unpaid,Terminal C,6,True,38,477,18:43:00,9,29,Terminal C,321
+450,Friday,2024-07-05,11:31:00,July,303,Large Truck,Cash,Terminal C,9,5.3,67.3,8.5,29.9,-10.9,462,17:41:00,Large Truck,Unpaid,Terminal C,5,False,5,161,13:30:00,10,14,Bridge A,452
+450,Friday,2024-07-05,11:31:00,July,303,Large Truck,Cash,Terminal C,9,5.3,67.3,8.5,29.9,-10.9,462,17:41:00,Large Truck,Unpaid,Terminal C,5,False,5,303,00:18:00,13,11,Bridge A,79
+450,Friday,2024-07-05,11:31:00,July,303,Large Truck,Cash,Terminal C,9,5.3,67.3,8.5,29.9,-10.9,462,17:41:00,Large Truck,Unpaid,Terminal C,5,False,5,477,18:43:00,9,29,Terminal C,321
+454,Friday,2024-07-19,13:32:00,July,121,Large Truck,Cash,Bridge A,1,16.4,87.0,3.7,27.7,27.7,313,23:30:00,Large Truck,Paid,Terminal C,1,True,429,63,19:48:00,13,81,Bridge A,346
+465,Friday,2024-07-19,10:08:00,July,81,Large Truck,Cash,Terminal C,5,0.7,56.8,4.5,33.3,-2.4,313,23:30:00,Large Truck,Paid,Terminal C,1,True,429,63,19:48:00,13,81,Bridge A,346
+456,Friday,2024-10-04,10:01:00,October,329,Large Truck,Cash,Bridge A,6,17.3,35.9,8.5,25.2,28.9,289,03:21:00,Small Truck,Paid,Tunnel B,6,False,249,39,17:20:00,8,45,Bridge A,490
+456,Friday,2024-10-04,10:01:00,October,329,Large Truck,Cash,Bridge A,6,17.3,35.9,8.5,25.2,28.9,289,03:21:00,Small Truck,Paid,Tunnel B,6,False,249,130,13:12:00,19,77,Bridge A,360
+456,Friday,2024-10-04,10:01:00,October,329,Large Truck,Cash,Bridge A,6,17.3,35.9,8.5,25.2,28.9,289,03:21:00,Small Truck,Paid,Tunnel B,6,False,249,154,15:37:00,2,77,Bridge A,277
+456,Friday,2024-10-04,10:01:00,October,329,Large Truck,Cash,Bridge A,6,17.3,35.9,8.5,25.2,28.9,289,03:21:00,Small Truck,Paid,Tunnel B,6,False,249,260,04:30:00,3,46,Bridge A,478
+456,Friday,2024-10-04,10:01:00,October,329,Large Truck,Cash,Bridge A,6,17.3,35.9,8.5,25.2,28.9,289,03:21:00,Small Truck,Paid,Tunnel B,6,False,249,348,09:38:00,19,13,Tunnel B,82
+459,Tuesday,2024-11-19,04:07:00,November,409,Large Truck,EZ Pass,Tunnel B,5,14.3,98.2,2.2,-1.4,3.9,21,08:11:00,Bus,Paid,Bridge A,10,True,241,195,18:26:00,2,33,Bridge A,171
+466,Thursday,2024-04-11,17:34:00,April,261,Auto,EZ Pass,Terminal C,4,16.6,63.7,2.0,8.4,10.3,16,22:49:00,Small Truck,Paid,Bridge A,10,False,340,243,01:41:00,17,43,Bridge A,480
+483,Saturday,2024-08-03,00:26:00,August,245,Bus,EZ Pass,Bridge A,10,18.4,10.6,0.5,-3.6,-10.2,354,01:07:00,Bus,Paid,Terminal C,2,True,157,30,03:18:00,12,72,Bridge A,387
+483,Saturday,2024-08-03,00:26:00,August,245,Bus,EZ Pass,Bridge A,10,18.4,10.6,0.5,-3.6,-10.2,354,01:07:00,Bus,Paid,Terminal C,2,True,157,136,15:09:00,17,39,Bridge A,246
+483,Saturday,2024-08-03,00:26:00,August,245,Bus,EZ Pass,Bridge A,10,18.4,10.6,0.5,-3.6,-10.2,354,01:07:00,Bus,Paid,Terminal C,2,True,157,211,02:06:00,20,44,Bridge A,275
+483,Saturday,2024-08-03,00:26:00,August,245,Bus,EZ Pass,Bridge A,10,18.4,10.6,0.5,-3.6,-10.2,354,01:07:00,Bus,Paid,Terminal C,2,True,157,274,03:10:00,13,39,Terminal C,320
+483,Saturday,2024-08-03,00:26:00,August,245,Bus,EZ Pass,Bridge A,10,18.4,10.6,0.5,-3.6,-10.2,354,01:07:00,Bus,Paid,Terminal C,2,True,157,465,12:49:00,12,25,Tunnel B,439
+483,Saturday,2024-08-03,00:26:00,August,245,Bus,EZ Pass,Bridge A,10,18.4,10.6,0.5,-3.6,-10.2,412,15:04:00,Bus,Paid,Tunnel B,5,False,457,30,03:18:00,12,72,Bridge A,387
+483,Saturday,2024-08-03,00:26:00,August,245,Bus,EZ Pass,Bridge A,10,18.4,10.6,0.5,-3.6,-10.2,412,15:04:00,Bus,Paid,Tunnel B,5,False,457,136,15:09:00,17,39,Bridge A,246
+483,Saturday,2024-08-03,00:26:00,August,245,Bus,EZ Pass,Bridge A,10,18.4,10.6,0.5,-3.6,-10.2,412,15:04:00,Bus,Paid,Tunnel B,5,False,457,211,02:06:00,20,44,Bridge A,275
+483,Saturday,2024-08-03,00:26:00,August,245,Bus,EZ Pass,Bridge A,10,18.4,10.6,0.5,-3.6,-10.2,412,15:04:00,Bus,Paid,Tunnel B,5,False,457,274,03:10:00,13,39,Terminal C,320
+483,Saturday,2024-08-03,00:26:00,August,245,Bus,EZ Pass,Bridge A,10,18.4,10.6,0.5,-3.6,-10.2,412,15:04:00,Bus,Paid,Tunnel B,5,False,457,465,12:49:00,12,25,Tunnel B,439
+483,Saturday,2024-08-03,00:26:00,August,245,Bus,EZ Pass,Bridge A,10,18.4,10.6,0.5,-3.6,-10.2,418,10:02:00,Bus,Unpaid,Tunnel B,4,False,151,30,03:18:00,12,72,Bridge A,387
+483,Saturday,2024-08-03,00:26:00,August,245,Bus,EZ Pass,Bridge A,10,18.4,10.6,0.5,-3.6,-10.2,418,10:02:00,Bus,Unpaid,Tunnel B,4,False,151,136,15:09:00,17,39,Bridge A,246
+483,Saturday,2024-08-03,00:26:00,August,245,Bus,EZ Pass,Bridge A,10,18.4,10.6,0.5,-3.6,-10.2,418,10:02:00,Bus,Unpaid,Tunnel B,4,False,151,211,02:06:00,20,44,Bridge A,275
+483,Saturday,2024-08-03,00:26:00,August,245,Bus,EZ Pass,Bridge A,10,18.4,10.6,0.5,-3.6,-10.2,418,10:02:00,Bus,Unpaid,Tunnel B,4,False,151,274,03:10:00,13,39,Terminal C,320
+483,Saturday,2024-08-03,00:26:00,August,245,Bus,EZ Pass,Bridge A,10,18.4,10.6,0.5,-3.6,-10.2,418,10:02:00,Bus,Unpaid,Tunnel B,4,False,151,465,12:49:00,12,25,Tunnel B,439
+487,Saturday,2024-01-20,04:08:00,January,343,Large Truck,Cash,Bridge A,1,17.0,79.2,3.8,13.8,10.4,317,21:36:00,Large Truck,Unpaid,Tunnel B,8,True,426,253,17:36:00,20,91,Terminal C,57
+490,Saturday,2024-04-20,01:52:00,April,125,Small Truck,Cash,Tunnel B,4,7.6,54.0,5.3,26.7,9.6,9,23:38:00,Large Truck,Paid,Tunnel B,9,True,5,19,17:43:00,18,50,Terminal C,71
+490,Saturday,2024-04-20,01:52:00,April,125,Small Truck,Cash,Tunnel B,4,7.6,54.0,5.3,26.7,9.6,9,23:38:00,Large Truck,Paid,Tunnel B,9,True,5,264,08:30:00,15,64,Tunnel B,334
+490,Saturday,2024-04-20,01:52:00,April,125,Small Truck,Cash,Tunnel B,4,7.6,54.0,5.3,26.7,9.6,11,10:25:00,Bus,Paid,Terminal C,10,True,500,19,17:43:00,18,50,Terminal C,71
+490,Saturday,2024-04-20,01:52:00,April,125,Small Truck,Cash,Tunnel B,4,7.6,54.0,5.3,26.7,9.6,11,10:25:00,Bus,Paid,Terminal C,10,True,500,264,08:30:00,15,64,Tunnel B,334
+490,Saturday,2024-04-20,01:52:00,April,125,Small Truck,Cash,Tunnel B,4,7.6,54.0,5.3,26.7,9.6,391,02:11:00,Small Truck,Paid,Bridge A,8,False,172,19,17:43:00,18,50,Terminal C,71
+490,Saturday,2024-04-20,01:52:00,April,125,Small Truck,Cash,Tunnel B,4,7.6,54.0,5.3,26.7,9.6,391,02:11:00,Small Truck,Paid,Bridge A,8,False,172,264,08:30:00,15,64,Tunnel B,334
+493,Thursday,2024-05-09,02:38:00,May,393,Large Truck,EZ Pass,Tunnel B,10,0.2,21.3,0.3,34.9,26.0,130,15:40:00,Bus,Paid,Bridge A,4,False,406,206,10:55:00,7,62,Terminal C,415
+493,Thursday,2024-05-09,02:38:00,May,393,Large Truck,EZ Pass,Tunnel B,10,0.2,21.3,0.3,34.9,26.0,419,08:05:00,Auto,Unpaid,Tunnel B,6,True,265,206,10:55:00,7,62,Terminal C,415
+493,Thursday,2024-05-09,02:38:00,May,393,Large Truck,EZ Pass,Tunnel B,10,0.2,21.3,0.3,34.9,26.0,442,07:25:00,Auto,Unpaid,Bridge A,5,True,204,206,10:55:00,7,62,Terminal C,415
+493,Thursday,2024-05-09,02:38:00,May,393,Large Truck,EZ Pass,Tunnel B,10,0.2,21.3,0.3,34.9,26.0,479,14:36:00,Auto,Paid,Tunnel B,6,False,62,206,10:55:00,7,62,Terminal C,415
+495,Sunday,2024-12-15,21:06:00,December,199,Small Truck,Cash,Bridge A,6,19.7,74.8,4.8,25.4,-10.1,41,03:23:00,Small Truck,Paid,Tunnel B,2,False,346,134,23:34:00,14,24,Bridge A,452
+495,Sunday,2024-12-15,21:06:00,December,199,Small Truck,Cash,Bridge A,6,19.7,74.8,4.8,25.4,-10.1,41,03:23:00,Small Truck,Paid,Tunnel B,2,False,346,150,18:30:00,7,76,Terminal C,183
+495,Sunday,2024-12-15,21:06:00,December,199,Small Truck,Cash,Bridge A,6,19.7,74.8,4.8,25.4,-10.1,41,03:23:00,Small Truck,Paid,Tunnel B,2,False,346,448,02:18:00,4,11,Tunnel B,488
+495,Sunday,2024-12-15,21:06:00,December,199,Small Truck,Cash,Bridge A,6,19.7,74.8,4.8,25.4,-10.1,436,19:42:00,Small Truck,Paid,Terminal C,10,True,466,134,23:34:00,14,24,Bridge A,452
+495,Sunday,2024-12-15,21:06:00,December,199,Small Truck,Cash,Bridge A,6,19.7,74.8,4.8,25.4,-10.1,436,19:42:00,Small Truck,Paid,Terminal C,10,True,466,150,18:30:00,7,76,Terminal C,183
+495,Sunday,2024-12-15,21:06:00,December,199,Small Truck,Cash,Bridge A,6,19.7,74.8,4.8,25.4,-10.1,436,19:42:00,Small Truck,Paid,Terminal C,10,True,466,448,02:18:00,4,11,Tunnel B,488
