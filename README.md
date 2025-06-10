@@ -27,6 +27,6 @@ seasonality and weather?
 -The Visuals and Insights section provides actionable strategies to address traffic patterns, optimize toll enforcement, and manage seasonal and weather-related disruptions.
 By implementing these targeted recommendations, the Port Authority can improve operational efficiency and traffic flow across its critical infrastructure Recommendations
 
-Dashboard Interaction <a href="(https://github.com/atahirkoylu/Port-Authority-Project-Traffic-on-Bridges-and-Tunnels/blob/main/Traffic%20Overview.png)">View Dasboard</a>
+Dashboard Interaction <a href="https://github.com/atahirkoylu/Port-Authority-Project-Traffic-on-Bridges-and-Tunnels/blob/main/Traffic%20Overview.png">View Dasboard</a>
 
 
