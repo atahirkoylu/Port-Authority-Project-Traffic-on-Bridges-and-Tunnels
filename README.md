@@ -16,3 +16,5 @@ Understanding the factors that significantly influence traffic usage on the Port
 - Data Consolidation: Combined datasets from multiple sources into a unified dataset to analyze relationships.
 ## Conclusion
 -The Visuals and Insights section provides actionable strategies to address traffic patterns, optimize toll enforcement, and manage seasonal and weather-related disruptions.By implementing these targeted recommendations, the Port Authority can improve operational efficiency and traffic flow across its critical infrastructure Recommendations
+
+Dashboard Interaction <a href="https://github.com/atahirkoylu/CORPAY-PROJECT/blob/main/Cross%20Sell%20Perfomance%20Dash.png">View Dasboard</a>
